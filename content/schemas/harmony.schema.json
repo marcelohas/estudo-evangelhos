@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Harmonia dos Evangelhos",
+  "type": "object",
+  "required": ["id", "title", "primary", "catena"],
+  "properties": {
+    "id": { "type": "string" },
+    "title": { "type": "string" },
+    "aliases": { "type": "array", "items": { "type": "string" } },
+    "primary": {
+      "type": "object",
+      "required": ["evangelist", "reference", "text"],
+      "properties": {
+        "evangelist": { "enum": ["Mateus", "Marcos", "Lucas", "João"] },
+        "reference": { "type": "string" },
+        "text": { "type": "string" }
+      }
+    },
+    "catena": {
+      "type": "array",
+      "minItems": 4,
+      "maxItems": 4,
+      "items": {
+        "type": "object",
+        "required": ["evangelist", "reference", "kind", "commentary", "gospelText"],
+        "properties": {
+          "evangelist": { "enum": ["Mateus", "Marcos", "Lucas", "João"] },
+          "reference": { "type": "string" },
+          "kind": { "enum": ["direta", "temática", "sem_paralelo"] },
+          "commentary": { "type": "string" },
+          "gospelText": { "type": "string" },
+          "fathers": { "type": "string" }
+        }
+      }
+    }
+  }
+}

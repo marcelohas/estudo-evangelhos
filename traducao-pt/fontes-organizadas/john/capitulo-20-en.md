@@ -1,0 +1,225 @@
+# Catena Aurea - John, capítulo 20
+
+Ver. 1. The first day of the week comes Mary Magdalene early, when it was yet dark, to the sepulcher, and sees the stone taken away from the sepulcher. 2. Then she runs, and comes to Simon Peter, and to the other disciple, whom Jesus loved, and says to them, They have taken away the Lord out of the sepulcher, and we know not where they have laid him. 3. Peter therefore went forth, and that other disciple, and came to the sepulcher. 4. So they ran both together: and the other disciple did outrun Peter, and came first to the sepulcher. 5. And he stooping down, and looking in, saw the linen clothes lying: yet went he not in. 6. Then comes Simon Peter following him, and went into the sepulcher, and seeing the linen clothes lie, 7. And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself:8. Then went in also that other disciple, which came first to the sepulcher, and he saw, and believed. 9. For as yet they knew not the Scripture, that he must rise again from the dead.
+
+Chrysostom: The Sabbath being now over, during which it was unlawful to be there, Mary Magdalene could rest no longer, but came very early in the morning, to seek consolation at the grave: The first day of the week comes Mary Magdalene early, when it was yet dark, to the sepulcher.
+
+Augustine: Mary Magdalene, undoubtedly the most fervent in love, of all the women that ministered to our Lord; so that John deservedly mentions her only, and says nothing of the others who were with her, as we know from the other Evangelists.
+
+Augustine: Una sabbati is the day which Christians call the Lord’s day, after our Lord’s resurrection. Matthew calls it prima sabbati.
+
+Bede: Una sabbati, i.e. one day after the sabbath.
+
+Theophylact: Or thus: The Jews called the days of the week sabbath, and the first day, one of the sabbaths, which day is a type of the life to come; for that life will be one day not cut short by any night, since God is the sun there, a sun which never sets. On this day then our Lord rose again, with an incorruptible body, even as we in the life to come shall put on incorruption.
+
+Augustine: What Mark says, Very early in the morning, at the rising of the sun, does not contradict John’s words, when it was yet dark. At the dawn of day, there are yet remains of darkness, which disappear as the light breaks in. We must not understand Mark’s words, Very early in the morning, at the rising of the sun, to mean that the sun was above the horizon, but rather what we ourselves ordinarily mean by the phrase, when we want any thing to be done very early, we say at the rising of the sun, i.e. some time before the sun is risen.
+
+Gregory: It is well said, When it was yet dark: Mary was seeking the Creator of all things in the tomb, and because she found Him not, thought He was stolen. Truly it was yet dark when she came to the sepulcher. And sees the stone taken away from the sepulcher.
+
+Augustine: Now took place what Matthew only relates, the earthquake, and rolling away of the stone, and fight of the guards.
+
+Chrysostom: Our Lord rose while the stone and seal were still on the sepulcher. But as it was necessary that others should be certified of this, the sepulcher is opened after the resurrection, and so the fact confirmed. This it was which roused Mary. For when she saw the stone taken away, she entered not nor looked in, but ran to the disciples with all the speed of love. But as yet she knew nothing for certain about the resurrection, but thought that His body had been carried off.
+
+Gloss: And therefore she ran to tell the disciples, that they might seek Him with her, or grieve with her: Then she runs, and comes to Simon Peter, and to the other disciple, whom Jesus loved.
+
+Augustine: This is the way in which he usually mentions himself. Jesus loved all, but him in an especial and familiar way. And says to them, They have taken away the Lord out of the sepulcher, and we know not where they have laid Him.
+
+Gregory: She puts the part for the whole; she had come only to seek for the body of our Lord, and now she laments that our Lord, the whole of Him, is taken away.
+
+Augustine: Some of the Greek copies have, taken away my Lord, which is more expressive of love, and of the feeling of an handmaiden. But only a few have this reading.
+
+Chrysostom: The Evangelist does not deprive the woman of this praise, nor leaves out from shame, that they had the news first from her. As soon as they hear it, they hasten to the sepulcher.
+
+Gregory: But Peter and John before the others, for they loved most; Peter therefore went forth, and that other disciple, and came to the sepulcher.
+
+Theophylact: But how came they to the sepulcher, while the soldiers were guarding it? an easy question to answer. After our Lord’s resurrection and the earthquake, and the appearance of the angel at the sepulcher, the guards withdrew, and told the Pharisees what had happened.
+
+Augustine: After saying, came to the sepulcher he goes back and tells us how they came: So they ran both together: and the other disciple did outrun Peter, and came first to the sepulcher; meaning himself, but he always speaks of himself, as if he were speaking of another person.
+
+Chrysostom: On coming he sees the linen clothes set aside: And he stooping down, and looking in, saw the linen clothes lying. But he makes no further search: yet went he not in.
+
+Peter on the other hand, being of a more fervid temper, pursued the search, and examined every thing: Then comes Simon Peter following him, and went into the sepulcher, and sees the linen clothes lie,
+
+and the napkin, that was about His head, not lying with the linen clothes, but wrapped together in a place by itself. Which circumstances were proof of His resurrection. For had they carried Him away, they would not have stripped Him; nor, if any had stolen Him, would they have taken the trouble to wrap up the napkin, and put it in a place by itself, apart from the linen clothes; but would have taken away the body as it was. John mentioned the myrrh first of all, for this reason, i.e. to show you that He could not have been stolen away. For myrrh would make the linen adhere to the body, and so caused trouble to the thieves, and they would never have been so senseless as to have taken this unnecessary pains about the matter.
+
+After Peter however, John entered: Then went in also that other disciple, which came first to the sepulcher, and he saw, and believed.
+
+Augustine: i.e. That Jesus had risen again, some think: Ah, but what follows contradicts this notion. He saw the sepulcher empty, and believed what the woman had said: For as yet they knew not the Scripture, that He must rise again from the dead. If he did not yet know that He must rise again from the dead, he could not believe that He had risen. They had heard as much indeed from our Lord, and very openly, but they were so accustomed to hear parables from Him, that they tool; this for a parable, and thought He meant something else.
+
+Gregory: But this account of the Evangelist must not be thought to be without some mystical meaning. By John, the younger of the two, the synagogue; by Peter, the elder, the Gentile Church is represented: for as though the synagogue was before the Gentile Church as regards the worship of God, as regards time the Gentile world was before the synagogue. They ran together, because the Gentile world ran side by side with the synagogue from first to last, in respect of purity and community of life, though a purity and community of understanding they had not.
+
+The synagogue came first to the sepulcher, but entered not: it knew the commandments of the law, and had heard the prophecies of our Lord’s incarnation and death, but would not believe in Him who died. Then comes Simon Peter, and entered into the sepulcher: the Gentile Church both knew Jesus Christ as dead man, and believed in Him as living God. The napkin about our Lord’s head is not found with the linen clothes, i.e. God, the Head of Christ, and the incomprehensible mysteries of the Godhead are removed from our poor knowledge; His power transcends the nature of the creature. And it is found not only apart, but also wrapped together; because of the linen wrapped together, neither beginning nor end is seen; and the height of the Divine nature had neither beginning nor end. And it is into one place: for where there is division, God is not; and they merit His grace, who do not occasion scandal by dividing themselves into sects.
+
+But as a napkin is what is used in laboring to wipe the sweat of the brow, by the napkin here we may understand the labor of God: which napkin is found apart, because the suffering of our Redeemer is far removed from ours; inasmuch as He suffered innocently, that which we suffer justly; He submitted Himself to death voluntarily, we by necessity. But after Peter entered, John entered too; for at the end of the world even Judea shall be gathered in to the true faith.
+
+Theophylact: Or thus: Peter is practical and prompt, John contemplative and intelligent, and learned in divine things. Now the contemplative man is generally beforehand in knowledge and intelligence, but the practical by his fervor and activity gets the advance of the other’s perception, and sees first into the divine mystery.
+
+Ver. 10. Then the disciples went away again to their own home. 11. But Mary stood without at the sepulcher weeping: and as she wept, she stooped down, and looked into the sepulcher, 12. And sees two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain. 13. And they say to her, Woman, why weep you? She says to them, Because they have taken away my Lord, and I know not where they have laid him. 14. And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus. 15. Jesus says to her, Woman, why weep you? whom seek you? She, supposing him to be the gardener, says to him, Sir, if you have borne him from here, tell me where you have laid him, and I will take him away. 16. Jesus says to her, Mary. She turned herself, and says to him, Rabboni; which is to say Master. 17. Jesus says to her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say to them, I ascend to my Father, and your Father; and to my God, and your God. 18. Mary Magdalene came and told the disciples that she had seen the Lord, and that he had spoken these things to her.
+
+Gregory: Mary Magdalene, who had been the sinner in the city, and who had washed out the spots of her sins by her tears, whose soul burned with love, did not retire from the sepulcher when the others did: Then the disciples went away again to their own home.
+
+Augustine: i.e. To the place where they were lodging, and from which they had ran to the sepulcher. But though the men returned, the stronger love of the woman fixed her to the spot. But Mary stood without at the sepulcher weeping.
+
+Augustine: i.e. Outside of the place where the stone sepulcher was, but yet within the garden.
+
+Chrysostom: Be not astonished that Mary wept for love at the sepulcher, and Peter did not; for the female sex is naturally tender, and inclined to weep.
+
+Augustine: The eyes then which had sought our Lord, and found Him not, now wept without interruption; more for grief that our Lord had been removed, than for His death upon the cross. For now even all memorial of Him was taken away.
+
+Augustine: She then saw, with the other women, the Angel sitting on the right, on the stone which had been rolled away from the sepulcher, at whose words it was that she looked into the sepulcher.
+
+Chrysostom: The sight of the sepulcher itself was some consolation. Nay, behold her, to console herself still more, stooping down, to see the very place where the body lay: And as she wept, she stooped down, and looked into the sepulcher.
+
+Gregory: For to have looked once is not enough for love. Love makes one desire to look over and over again.
+
+Augustine: In her too great grief she could believe neither her own eyes, nor the disciples. Or was it a divine impulse which caused her to look in?
+
+Gregory: She sought the body, and found it not; she persevered in seeking; and so it came to pass that she found. Her longings growing the stronger, the more they were disappointed, at last found and laid hold on their object. For holy longings ever gain strength by delay, did they not, they would not be longings. Mary so loved, that not content with seeing the sepulcher, she stooped down and looked in: let us see the fruit which came of this persevering love: And sees two Angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain,
+
+Chrysostom: As her understanding was not so raised as to be able to gather from the napkins the fact of the resurrection, she is given the sight of Angels in bright apparel, who soothe her sorrow
+
+Augustine: But why did one sit at the head, the other at the feet? To signify that the glad tidings of Christ’s Gospel was to be delivered from the head to the feet, from the beginning to the end. The Greek word Angel means one who delivers news.
+
+Gregory: The Angel sits at the head when the Apostles preach that in the beginning was the Word: he sits, as it were, at the feet, when it is said, The Word was made flesh. By the two Angels too we may understand the two testaments; both of which proclaim alike the incarnation, death, and resurrection of our Lord. The Old seems to sit at the head, the New at the feet.
+
+Chrysostom: The Angels who appear say nothing about the resurrection; but by degrees the subject is entered on. First of all they address her compassionately, to prevent her from being overpowered by a spectacle of such extraordinary brightness: And they say to her, Woman, why weep you? The Angels forbade tears, and announced, as it were, the joy that was at hand: Why weep you? As if to say, Weep not.
+
+Gregory: The very declarations of Scripture which excite our tears of love, wipe away those very tears, by promising us the sight of our Redeemer again.
+
+Augustine: But she, thinking that they wanted to know why she wept, tells them the reason: She says to them, Because they have taken away my Lord. The lifeless body of her Lord, she calls her Lord, putting the part for the whole; just as we confess that Jesus Christ the Son of God was buried, when only His flesh was buried. And I know not where here they hare placed Him: it was a still greater grief, that she did not know where to go to console her grief.
+
+Chrysostom: As yet she knew nothing of the resurrection, but thought the body had been taken away.
+
+Augustine: Here the Angels must be understood to rise up, for Luke describes them as seen standing.
+
+Augustine: The hour was now come, which the Angels announced, when sorrow should be succeeded by joy: And when she had thus said, she turned herself back.
+
+Chrysostom: But why, when she is talking to the Angels, and before she has heard any thing from them, does she turn back? It seems to me that while she was speaking, Christ appeared behind her, and that the Angels by their posture, look, and motion, showed that they saw our Lord, and that thus it was that she turned back.
+
+Gregory: We must observe that Mary, who as yet doubted our Lord’s resurrection, turned back to see Jesus. By her doubting she turned her back, as it were, upon our Lord. Yet inasmuch as she loved, she saw Him. She loved and doubted: she saw, and did not recognize Him: And saw Jesus standing, and knew not that it was Jesus.
+
+Chrysostom: To the Angels He appeared as their Lord but not so to c the woman, for the sight coming upon her all at once, would have stupefied her. She was not to be lifted suddenly, but gradually to high things.
+
+Gregory: Jesus says to her, Woman, why do you weep? He asks the cause of her grief, to set her longing still more. For the mere mentioning His name whom she sought would inflame her love for Him.
+
+Chrysostom: Because He appeared as a common person, she c thought Him the gardener: She, supposing Him to be the gardener, says to Him, Sir, if you have borne Him from here, tell me where you have laid Him, and 1 will take Him away. i.e. If you have taken Him away from fear of the Jews, tell me, and I will take Him again.
+
+Theophylact: She was afraid that the Jews might vent their rage even on the lifeless body, and therefore wished to remove it to some secret place.
+
+Gregory: Perhaps, however, the woman was right, in believing Jesus to be the gardener. Was not He the spiritual Gardener, who by the power of His love had sown strong seeds of virtue in her breast? But how is it that, as soon as she sees the gardener, as she supposes Him to be, she says without having told Him who it was she was seeking, Sir, if you have borne Him from here? It arises from her love; when one loves a person, one never thinks that any one else can be ignorant of him.
+
+Our Lord, after calling her by the common name of her sex, and not being recognized, calls her by her own name: Jesus says to her, Mary; as if to say, Recognize Him, who recognizes you. Mary, being called by name, recognizes Him; that it was He whom she sought externally, and He who taught her internally to seek. She turned herself, and says to Him, Rabooni; which its to say, Master.
+
+Chrysostom: Just as He was sometimes in the midst of the Jews, and they did not know Him till He pleased to make Himself known. But why does she turn herself; when she had turned herself before? It seems to me that when she said, Where you have laid Him, she turned to the Angels, to ask why they were astonished. Then Christ, calling her, discovered Himself by His voice, and made her turn to Him again. Augustine: Or she first turned her body, but thought Him what He was not; now she was turned in heart, and knew who He was. Let no one however blame her, because she called the gardener, Lord, and Jesus, Master. The one was a title of courtesy to a person from whom she was asking a favor; the other of respect to a Teacher from whom she was used to learn to distinguish the divine from the human. The word Lord is used in different senses, when she says, They have taken away my Lord, and when she says, Lord, if you have borne Him away.
+
+Gregory: The Evangelist does not add what she did upon recognizing Him, but we know from what our Lord said to her: Jesus says to her, Touch Me not. Mary then had tried to embrace His feet, but was not allowed. Why not? The reason follows: For I am not yet ascended to My Father.
+
+Augustine: But if standing upon the earth, He is not touched, how shall He be touched sitting in heaven? And did He not before His ascension offer Himself to the touch of the disciples: Handle Me and see, for a spirit has not flesh and bones? Who can be so absurd as to suppose that He was willing that disciples should touch Him before He ascended to His Father, and unwilling that women should till after Nay, we read of women after the resurrection, and before He ascended to His Father, touching Him, one of whom was Mary Magdalene herself, according to Matthew. Either then Mary here is a type of the Gentile Church, which did not believe in Christ till after His ascension: or the meaning is that Jesus is to be believed in, i.e. spiritually touched, in no other way, but as being one with the Father. He ascends to the Father mystically, as it were, in the mind of him who has so far advanced as to acknowledge that He is equal to the Father. But how could Mary believe in Him otherwise than carnally, when she wept for Him as a man?
+
+Augustine: Touch is as it were the end of knowledge and He was unwilling that a soul intent upon Him should have its end, in thinking Him only what He seemed to be.
+
+Chrysostom: Mary wished to be as familiar with Christ now, as she was before His Passion; forgetting, in her joy, that His body was made much more holy by its resurrection. So, Touch Me not, He says, to remind her of this, and make her feel awe in talking with Him. For which reason too He no longer keeps company with His disciples, viz. that they might look upon Him with the greater awe. Again, by saying I have not yet ascended, He shows that He is hastening there. And He who was going to depart and live no more with men, ought not to be regarded with the same feeling that He was before: But go to My brethren, and say to them, I ascend to My Father, and you Father; and to My God, and your God.
+
+Hilary: Heretics, among their other impieties, misinterpret these words of our Lord’s, and say, that if His Father is their Father, His God their God, He cannot be God Himself. But though He remained in the form of God, He took upon Him the form of a servant; and Christ says this in the form of a servant to men. And we cannot doubt that in so far as He is man, the Father is His Father in the same sense in which He is of other men, and God His God in like manner. Indeed He begins with saying, Go to My brethren, But God can only have brethren according to the flesh; the Only-Begotten God, being Only-Begotten, is without brethren.
+
+Augustine: He does not say, Our Father, but, My Father and your Father: Mine therefore and yours in a different sense; Mine by nature, yours by grace. Nor does He say, Our God, but My God - under Him I am man - and your God; between you and Him I am Mediator.
+
+Augustine: She then went away from. the sepulcher, i.e. from that part of the garden before the rock which had been hollowed out, and with her the other women. But these, according to Mark, were seized with trembling and amazement, and said nothing to any man: Mary Magdalene came and told the disciples that she had seen the Lord, and that He had spoken these things to her.
+
+Gregory: So the sin of mankind is buried in the very place whence it came forth. For whereas in Paradise the woman gave the man the deadly fruit, a woman from the sepulcher announced life to men; a woman delivers the message of Him who raises us from the dead, as a woman had delivered the words of the serpent who slew us.
+
+Augustine: While she was going with the other women, according to Matthew, Jesus met them, saying, All hail. So we gather that there were two visions of Angels ; and that our Lord too was seen twice once when Mary took Him for the gardener, and again, when He met them by the way, and by this repeating His presence confirmed their faith. And so Mary Magdalene came and told the disciples, not alone, but with the other women whom Luke mentions.
+
+Bede: Mystically, Mary, which name signifies, mistress, enlightened, enlightener, star of the sea, stands for the Church, which is also Magdalene, i.e. towered, (Magdalene being Greek for tower) as we read in the Psalms, you have been a strong tower for me. In that she announced Christ’s resurrection to the disciples, all, especially those to whom the office of preaching is committed are admonished to be zealous in setting forth to others whatever is revealed from above.
+
+Ver. 19. Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for feel of the Jews, came Jesus and stood in the midst, and says to them, Peace be to you. 20. And when he had so said, he showed to them his hands and his side. Then were the disciples glad, when they saw the Lord. 21. Then said Jesus to them again, Peace be to you: as my Father has sent me, even so send I you. 22. And when he had said this, he breathed on them, and says to them, Receive you the Holy Ghost:23. Whosesoever sins you remit, they are remitted to them; and whose soever sins you retain, they are retained. 24. But Thomas, one of the twelve, called Didymus, was not with them when Jesus came. 25. The other disciples therefore said to him, We have seen the Lord. But he said to them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe.
+
+Chrysostom: The disciples, when they heard what Mary told them, were obliged either to disbelieve, or, if they believed, to grieve that He did not count them worthy to have the sight of Him. He did not let them however pass a whole day in such reflections, but in the midst of their longing trembling desires to see Him, presented Himself to them: Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews.
+
+Bede: Wherein is strewn the infirmity of the Apostles. They assembled with doors shut, through that same fear of the Jews, which had before scattered them: Came Jesus, and stood in the midst. He came in the evening, because they would be the most afraid at that time.
+
+Theophylact: Or because He waited till all were assembled: and with shut doors, that he might show how that in the very same way he had risen again, i.e. with the stone lying on the sepulcher.
+
+Augustine: Some are strongly indisposed to believe this miracle, and argue thus: If the same body rose again, which hung upon the Cross, how could that body enter through shut doors? But if you comprehend the mode, it is no miracle: when reason fails, then is faith edified.
+
+Augustine: The shut door did not hinder the body, wherein Divinity resided. He could enter without open doors, who was as born without a violation of His mother’s virginity
+
+Chrysostom: It is wonderful that they did not think him a phantom. But Mary had provided against this, by the faith she had wrought in them. And He Himself too showed Himself so openly, and strengthened their wavering minds by His voice: And says to them, Peace be to you, i.e. Be not disturbed. Wherein too He reminds them; of what He had said before His crucifixion; My peace 1 give to you; and again, In Me you shall have peace.
+
+Gregory: And because their faith wavered even with the material body before them, He showed them His hands and side: And when He had said this, He showed them His hands and His side.
+
+Augustine: The nails had pierced His hands, the lance had pierced His side. For the healing of doubting hearts, the marks of the wounds were still preserved.
+
+Chrysostom: And what He had promised before the crucifixion, I shall see you again, and you, heart shall rejoice, is now fulfilled: Then were the disciples glad when they say the Lord.
+
+Augustine: The glory, wherewith the righteous shall shine like the sun in the kingdom of their Father, i.e. in Christ’s body, we must believe to have been rather veiled than not to have been there at all. He accommodated His presence to man’s weak sight, and presented Himself in such form, as that His disciple could look at and recognize Him.
+
+Chrysostom: All these things brought them to a most confident faith. As they were in endless war with the Jews, He says again, Then said Jesus to them again, Peace be to you.
+
+Bede: A repetition is a confirmation: whether He repeats it because the grace of love is twofold, or because He it is who made of twain one.
+
+Chrysostom: At the same time He shows the efficacy of the cross, by which He undoes all evil things, and gives all good things; which is peace. To the women above there was announced joy; for that sex was in sorrow, and had received the curse, In sorrow shall you bring forth. All hindrances then being removed, and every thing made straight, he adds, As My Father has sent Me, even so send I you
+
+Gregory: The Father sent the Son, appointed Him to the work of redemption. He says therefore, As My Father has sent Me, even so send I you; i.e. I love you, now that I send you to persecution, with the same love wherewith My Father loved Me, when He sent Me to My sufferings.
+
+Augustine: We have learnt that the Son is A equal to the Father: here He shows Himself Mediator; He Me, and I you.
+
+Chrysostom: Having then given them confidence by His own miracles, and appealing to Him who sent Him, He uses a prayer to the Father, but of His own authority gives them power: And when He had said this, He breathed on them, and says to them, Receive you the Holy Ghost.
+
+Augustine: That corporeal breath was not the substance of the Holy Ghost, but to show, by meet symbol, that the Holy Ghost proceeded not only from the Father, but the Son. For who would be so mad as to say, that it was one Spirit which He gave by breathing, and another which He sent after His ascension?
+
+Gregory: But why is He first given too the disciples on earth, and afterwards sent from heaven? Because there are two commandments of love, to love God, and to love our neighbor. The spirit to love our neighbor is given on earth, the spirit to love God is given from heaven. As then love is one, and there are two commandments; so the Spirit is one, and there are two gifts of the Spirit. And the first is given by our Lord while yet upon earth, the second from heaven, because by the love of our neighbor we learn how to arrive at the love of God.
+
+Chrysostom: Some say that by breathing He did not give them the Spirit, but made them meet to receive the Spirit. For if Daniel’s senses were so overpowered by the sight of the Angel, how would they have been overwhelmed in receiving that unutterable gift, if He had not first prepared them for it! It would not be wrong however to say that they received then the gift of a certain spiritual power, not to raise the dead and do miracles, but to remit sins: Whosoever sins you remit, they are remitted to them, and whosoever sins you retain, they are retained.
+
+Augustine: The love of the Church, which is shed abroad in our hearts by the Holy Spirit, remits the sins of those who partake of it; but retains the sins of those who do not. Where then He has said, Receive you the Holy Ghost, He instantly makes mention of the remission and retaining of sins.
+
+Gregory: We must understand that those who first received the Holy Ghost, for innocence of life in themselves, and preaching to a few others, received it openly after the resurrection, that they might profit not a few only, but many. The disciples who were called to such works of humility, to what a height of glory are they led! Lo, not only have they salvation for themselves, but are admitted to the powers of the supreme Judgment-seat; so that, in the place of God, they retain some men’s sins, and remit others. Their place in the Church, the Bishops now hold; who receive the authority to bind, when they are admitted to the ram; of government. Great the honor, but heavy the burden of the place. It is ill if one who knows not how to govern his own life, shall be judge of another’s.
+
+Chrysostom: A priest though he may have ordered well his own life, yet, if he have not exercised proper vigilance over others, is sent to hell with the evil doers. Wherefore, knowing the greatness of their danger, pay them all respect, even though they be not men of notable goodness. For they who are in rule, should not be judged by those who are under them. And their incorrectness of life will not at all invalidate what they do by commission from God. For not only cannot a priest, but not even angel or archangel, do any thing of themselves; the Father, Son, and Holy Ghost do all. The priest only furnishes the tongue, and the hand. For it were not just that the salvation of those who come to the Sacraments in faith, should be endangered by another’s wickedness.
+
+At the assembly of the disciples all were present but Thomas, who probably had not returned from the dispersion: But Thomas, one of the twelve, called Didymus, was not with them when Jesus came.
+
+Alcuin: Didymus, double or doubtful, because he doubted in believing: Thomas, depth, because with most sure faith he penetrated into the depth of our Lord’s divinity.
+
+Gregory: It was not an accident that that particular disciple was not present. The Divine mercy ordained that a doubting disciple should, by feeling in his Master the wounds of the flesh heal in us the wounds of unbelief. The unbelief of Thomas is more profitable to our faith, than the belief of the other disciples; for, the touch by which he is brought to believe, confirming our minds in belief, beyond all question.
+
+Bede: But why does this Evangelist say that Thomas was absent, when Luke writes that two disciples on their return from Emmaus found the eleven assembled? We must understand that Thomas had gone out, and that in the interval of his absence, Jesus came and stood in the midst.
+
+Chrysostom: As to believe directly, and any how, is the mark of too easy a mind, so is too much inquiring of a gross one: and this is Thomas’s fault. For when the Apostle said, We have seen the Lord, he did not believe, not because he discredited them, but from an idea of the impossibility of the thing itself: The other disciples therefore said to him, We have seen the Lord. But he said to them, Except I shall see in His hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into His side, I will not believe. Being the grossest of all, he required the evidence of the grossest sense, viz. the touch, and would not even believe his eyes: for he does not say only, Except I shall see, but adds, and put my finger into the print of the nails, and thrust my hand into His side.
+
+Ver. 26. And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be to you. 27. Then says he to Thomas, Reach hither your finger, and behold my hands; and reach hither your hand, and thrust it into my side: and be not faithless, but believing. 28. And Thomas answered and said to him, My Lord and My God. 29. Jesus says to him, Thomas, because you have seen me, you have believed: blessed are they that have not seen, and yet have believed. 30. And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:31. But these are written, that you might believe that Jesus is the Christ, the Son of God; and that believing you might have life through his name.
+
+Chrysostom: Consider the mercy of the Lord, how for the sake; of one soul, He exhibits His wounds. And yet the disciples deserved credit, and He had Himself foretold the event. Notwithstanding, because one person, Thomas, would examine Him, Christ allowed him. But He did not appear to him immediately, but waited till the eighth day, in order that the admonition being given in the presence of the disciples, might kindle in him greater desire, and strengthen his faith for the future. And after eight days again His disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be to you.
+
+Augustine: You ask; If He entered by the shut door, where is the nature of His body? And I reply; If He walked on the sea, where is the weight of His body? The Lord did that as the Lord; and did He, after His resurrection, cease to be the Lord?
+
+Chrysostom: Jesus then comes Himself, and does not wait till Thomas interrogates Him. But to show that He heard what Thomas said to the disciples, He uses the same words. And first He rebukes him; Then says He to Thomas, Reach hither your finger, and behold My hands; and reach hither your hand, and thrust it into My side: secondly, He admonishes him; And be not faithless, but believing. Note how that before they receive the Holy Ghost faith wavers, but afterward is firm. We may wonder how an incorruptible body could retain the marks of the nails. But it was done in condescension; in order that they might be sure that it was the very person Who was crucified.
+
+Augustine: He might, had He pleased, have wiped all spot and trace of wound from His glorified body; but He had reasons for retaining them. He showed them to Thomas, who would not believe except he saw and touched, and He will show them to His enemies, not to say, as He did to Thomas, Because you have seen, you have believed, but to convict them: Behold the Man whom you crucified, see the wounds which you inflicted, recognize the side which you pierced, that it was by you, and for you, that it was opened, and yet you cannot enter there.
+
+Augustine: We are, as I know not how, afflicted with such love for the blessed martyrs, that we would wish in that kingdom to see on their bodies the marks of those wounds which they have borne for Christ’s sake. And perhaps we shall see them; for they will not have deformity, but dignity, and, though on the body, shine forth not with bodily, but with spiritual beauty. Nor yet, if any of the limbs of martyrs have been cut off, shall they therefore appear without them in the resurrection of the dead; for it is said, There shall not an hair of your head perish. But if it be fit that in that new world, the traces of glorious wounds should still be preserved on the immortal flesh, in the places where the limbs were cut off there, though those same limbs withal be not lost but restored, shall the wounds appear. For though all the blemishes of the body shall then be no more, yet the evidences of virtue are not to be called blemishes.
+
+Gregory: Our Lord gave that flesh to be touched which He had introduced through shut doors: wherein two wonderful, and, according to human reason, contradictory things appear, viz. that after the resurrection He had a body incorruptible, and yet palpable. For that which is palpable must be corruptible, and that which is incorruptible must be impalpable. But He showed Himself incorruptible and yet palpable, to prove that His body after His resurrection was the same in nature as before, but different in glory.
+
+Gregory: Our body also in that resurrection to glory will be subtle by means of the action of the Spirit, but palpable by its true nature, not, as Eutychius says, impalpable, and subtler than the winds and the air.
+
+Augustine: Thomas saw and touched the man, and confessed the. God whom he neither saw nor touched. By means of the one he believed the other undoubtingly: Thomas answered and said to Him, My Lord and My God.
+
+Theophylact: He who had been before unbelieving, after touching the body showed himself the best divine; for he asserted the twofold nature and one Person of Christ; by saying, My Lord, the human nature by saying, My God, the divine, and by joining them both, confessed that one and the same Person was Lord and God.
+
+Jesus says to him, Because you have seen Me, you have believed.
+
+Augustine: He says not, has touched me, but, has seen me; the sight being a kind of general sense, and put in the place often of the other four senses; as when we say, Hear, and see how well it sounds; smell, and see how sweet it smells; taste, and see how well it tastes, touch, and see how warm it is. Wherefore also our Lord says, Reach hither your finger, and behold My hands. What is this but, Touch and see? And yet he had not eyes in his finger. He refers them both to seeing and to touching, when He says, Because you have seen, you have believed. Although it might be said, that the disciple did not dare to touch, what was offered to be touched.
+
+Gregory: But when the Apostle says, Faith is the substance of things hoped for, the evidence of things not seen, it is plain that things which are seen, are objects not of faith, but of knowledge. Why then is it said to Thomas who saw and touched, Because you have seen Me, you have believed? Because he saw one thing, believed another; saw the man, confessed the God. But what follows is very gladdening; Blessed are they that have not seen, and yet have believed. In which sentence we are specially included, who have not seen Him with the eye, but retain Him in the mind, provided we only develop our faith in good works. For he only really believes, who practices what he believes.
+
+Augustine: He uses the past tense, in the future to His knowledge having already taken place by His own predestination.
+
+Chrysostom: If any one then says, Would that I had lived in those times, and seen Christ doing miracles! let him reflect, Blessed are they that have not seen, and yet have believed.
+
+Theophylact: Here He means the disciples who had believed without seeing the print of the nails, and His side.
+
+Chrysostom: John having related less than the other Evangelists, adds, And many other signs truly did Jesus in the presence of His disciples, which are not written in this book. Yet neither did the others relate all, but only what was sufficient for the purpose of convincing men. He probably here refers to the miracles which our Lord did after His resurrection, and therefore says, In the presence of His disciples, and they being the only persons with whom He conversed after His resurrection.
+
+Then to let you understand, that the miracles were not done for the sake of the disciples only, He adds, But these are written, that you might believe that Jesus is the Christ, the Son of God; addressing Himself to mankind generally. And, this belief, he then profits ourselves, not Him in Whom we believe. And that believing you might have life through His name, i.e. through Jesus, which is life.

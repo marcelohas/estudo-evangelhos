@@ -1,0 +1,15 @@
+Projeto de tradução da coleção Catena Aurea para português do Brasil.
+
+Arquivos-fonte identificados:
+- Catena Aurea - Matthew Vol 1-2.pdf (772 páginas)
+- Catena Aurea - Matthew Vol 3.pdf (266 páginas)
+- Catena Aurea - Mark.pdf (368 páginas)
+- Catena Aurea - Luke.pdf (828 páginas)
+- Catena Aurea - John.pdf (650 páginas)
+
+Total: 2.884 páginas.
+
+Os PDFs traduzidos serão armazenados nesta pasta.
+
+Modalidade escolhida: tradução cuidadosa e revisada, volume por volume.
+Primeiro volume em produção: Mateus, volumes 1-2.

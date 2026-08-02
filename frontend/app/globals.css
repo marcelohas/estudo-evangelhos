@@ -1,0 +1,150 @@
+:root {
+  --ink: #29251f;
+  --muted: #70695f;
+  --paper: #f7f3eb;
+  --paper-deep: #eee5d7;
+  --card: #fffdf8;
+  --line: #ded3c2;
+  --gold: #9a7133;
+  --gold-dark: #765222;
+  --wine: #733f3b;
+  --shadow: 0 18px 48px rgba(68, 52, 30, 0.09);
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+button, input { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
+
+.site-header {
+  width: min(1180px, calc(100% - 40px));
+  margin: 0 auto;
+  min-height: 86px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--line);
+}
+.brand { display: flex; align-items: center; gap: 12px; color: inherit; text-decoration: none; }
+.brand-mark {
+  width: 42px; height: 42px; display: grid; place-items: center;
+  border-radius: 50%; background: var(--ink); color: #f6e7c7;
+  font-family: Georgia, serif; font-size: 14px; letter-spacing: .08em;
+}
+.brand strong { display: block; font-family: Georgia, serif; font-size: 18px; }
+.brand small { display: block; color: var(--muted); margin-top: 2px; font-size: 12px; }
+.about-link { color: var(--ink); text-decoration: none; font-size: 14px; border-bottom: 1px solid var(--gold); padding-bottom: 3px; }
+
+.hero {
+  position: relative;
+  width: min(920px, calc(100% - 40px));
+  margin: 0 auto;
+  padding: 86px 0 64px;
+  text-align: center;
+}
+.hero::before {
+  content: ""; position: absolute; inset: 30px 50% auto; width: 1px; height: 38px; background: var(--gold);
+}
+.eyebrow { color: var(--gold-dark); font-size: 11px; font-weight: 800; letter-spacing: .16em; text-transform: uppercase; }
+.hero h1, .result-heading h2, .about h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 500;
+  letter-spacing: -.025em;
+}
+.hero h1 { margin: 16px 0 20px; font-size: clamp(38px, 6vw, 66px); line-height: 1.08; }
+.intro { max-width: 700px; margin: 0 auto; color: var(--muted); font-size: 18px; line-height: 1.7; }
+
+.search { margin: 38px auto 0; max-width: 760px; text-align: left; }
+.search label { display: block; margin: 0 0 9px 3px; font-weight: 750; font-size: 13px; }
+.search-row { display: flex; padding: 7px; background: white; border: 1px solid #d3c5b0; border-radius: 16px; box-shadow: var(--shadow); }
+.search input { min-width: 0; flex: 1; border: 0; outline: 0; padding: 13px 15px; color: var(--ink); background: transparent; font-size: 16px; }
+.search button {
+  border: 0; border-radius: 11px; background: var(--ink); color: white; padding: 13px 24px; font-weight: 750; cursor: pointer;
+}
+.search button:hover { background: var(--gold-dark); }
+.search-message { margin: 10px 3px 0; color: var(--wine); font-size: 13px; line-height: 1.5; }
+.suggestions { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px; margin-top: 18px; font-size: 12px; color: var(--muted); }
+.suggestions button { border: 1px solid var(--line); border-radius: 999px; background: transparent; color: var(--ink); padding: 7px 11px; cursor: pointer; }
+.suggestions button:hover { border-color: var(--gold); background: #fffaf0; }
+
+.results { width: min(1180px, calc(100% - 40px)); margin: 0 auto; padding: 52px 0 90px; }
+.result-heading { display: flex; justify-content: space-between; align-items: end; gap: 24px; margin-bottom: 22px; }
+.result-heading h2 { margin: 7px 0 0; font-size: clamp(28px, 4vw, 42px); }
+.result-count { flex: 0 0 auto; color: var(--muted); font-size: 12px; border: 1px solid var(--line); border-radius: 999px; padding: 8px 12px; }
+.gospel-card, .catena-card { background: var(--card); border: 1px solid var(--line); box-shadow: 0 8px 28px rgba(72, 55, 33, .05); }
+.gospel-card { border-radius: 20px; padding: clamp(22px, 4vw, 36px); border-top: 4px solid var(--gold); }
+.card-topline { display: flex; align-items: start; justify-content: space-between; gap: 18px; }
+.card-kicker { color: var(--muted); font-size: 10px; font-weight: 850; letter-spacing: .14em; text-transform: uppercase; }
+.reference { flex: 0 0 auto; color: var(--gold-dark); background: #f4ead7; border-radius: 999px; padding: 7px 11px; font-size: 12px; font-weight: 800; }
+.gospel-content { display: grid; grid-template-columns: 58px 1fr; gap: 20px; align-items: start; margin-top: 24px; }
+.gospel-content h3 { margin: 0 0 12px; font-family: Georgia, serif; font-size: 24px; }
+blockquote { margin: 0; max-width: 900px; font-family: Georgia, serif; font-size: clamp(19px, 2.4vw, 25px); line-height: 1.55; }
+.source-note { color: var(--muted); font-size: 12px; margin: 13px 0 0; }
+.monogram { width: 44px; height: 44px; display: grid; place-items: center; border-radius: 50%; color: white; background: #6d5941; font-family: Georgia, serif; font-size: 18px; }
+.monogram.matthew { background: #7b4f3e; }
+.monogram.mark { background: #9a7133; }
+.monogram.luke { background: #546a70; }
+.monogram.john { background: #615478; }
+
+.catena-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; margin-top: 18px; }
+.catalog-comments { display: grid; gap: 18px; margin-top: 18px; }
+.catena-card { min-width: 0; border-radius: 17px; padding: 24px; display: flex; flex-direction: column; }
+.father-name { margin: 20px 0 0; font-family: Georgia, serif; font-size: 22px; }
+.evangelist-title { display: flex; align-items: center; gap: 11px; }
+.evangelist-title h3 { margin: 2px 0 0; font-family: Georgia, serif; font-size: 21px; }
+.parallel-badge { align-self: flex-start; margin-top: 20px; color: #3f654f; background: #e8f1e9; border-radius: 6px; padding: 6px 9px; font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: .08em; }
+.parallel-badge.temática { color: #765222; background: #f4ead7; }
+.parallel-badge.sem_paralelo { color: #6f4a4a; background: #f2e5e3; }
+.commentary { color: #49433c; font-family: Georgia, serif; font-size: 16px; line-height: 1.7; }
+.catena-card footer { margin-top: auto; padding-top: 18px; border-top: 1px solid var(--line); display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.catena-card footer > span { color: var(--muted); font-size: 11px; line-height: 1.5; }
+.catena-card footer > .collection-status { color: var(--gold-dark); font-size: 10px; font-weight: 800; letter-spacing: .05em; text-align: right; text-transform: uppercase; }
+.catena-card footer button { border: 0; background: transparent; padding: 0; color: var(--gold-dark); font-size: 12px; font-weight: 800; cursor: pointer; text-align: right; }
+
+.about { background: var(--ink); color: #f7f0e3; padding: 80px max(20px, calc((100vw - 900px) / 2)); text-align: center; }
+.about .eyebrow { color: #d7b978; }
+.about h2 { margin: 10px 0 18px; font-size: clamp(30px, 4vw, 46px); }
+.about > p:last-child { margin: 0 auto; max-width: 750px; color: #cfc7ba; line-height: 1.8; }
+.site-footer { min-height: 92px; padding: 24px max(20px, calc((100vw - 1180px) / 2)); display: flex; align-items: center; justify-content: space-between; gap: 20px; color: var(--muted); font-size: 12px; }
+.site-footer strong { color: var(--ink); font-family: Georgia, serif; font-size: 16px; }
+
+@media (max-width: 760px) {
+  .site-header { width: min(100% - 28px, 1180px); min-height: 74px; }
+  .about-link { display: none; }
+  .hero { width: min(100% - 28px, 920px); padding: 74px 0 44px; }
+  .hero::before { top: 24px; height: 28px; }
+  .hero h1 br { display: none; }
+  .intro { font-size: 16px; }
+  .search-row { display: block; padding: 6px; }
+  .search input { width: 100%; padding: 13px 12px; }
+  .search button { width: 100%; }
+  .results { width: min(100% - 28px, 1180px); padding: 42px 0 70px; }
+  .result-heading { display: block; }
+  .result-count { display: inline-block; margin-top: 14px; }
+  .gospel-content { grid-template-columns: 1fr; }
+  .catena-grid { grid-template-columns: 1fr; }
+  .catena-card footer { align-items: flex-start; }
+  .site-footer { display: block; text-align: center; }
+  .site-footer span { display: block; margin-top: 6px; }
+}
+
+@media (max-width: 420px) {
+  .brand strong { font-size: 16px; }
+  .brand small { font-size: 11px; }
+  .hero h1 { font-size: 36px; }
+  .gospel-card, .catena-card { padding: 19px; }
+  .card-topline { gap: 10px; }
+  .reference { font-size: 10px; padding: 6px 8px; }
+  .catena-card footer { display: block; }
+  .catena-card footer button { display: block; margin-top: 12px; text-align: left; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}

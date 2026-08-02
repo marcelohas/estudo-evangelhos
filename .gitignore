@@ -1,0 +1,24 @@
+# Dependências e compilações locais
+frontend/node_modules/
+frontend/dist/
+
+# Arquivos temporários
+tmp/
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Configuração local
+.env
+.env.*
+!.env.example
+
+# Fontes documentais grandes; não são necessárias no GitHub Pages
+*.pdf
+*.epub
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,39 @@
+{
+  "source": "Portugues-Catolica-AVM-All-Bible.pdf",
+  "translation": "Ave-Maria",
+  "books": {
+    "Mateus": {
+      "chapters": 28,
+      "verses": 1071,
+      "pages": [
+        2277,
+        2354
+      ]
+    },
+    "Marcos": {
+      "chapters": 16,
+      "verses": 678,
+      "pages": [
+        2355,
+        2405
+      ]
+    },
+    "Lucas": {
+      "chapters": 24,
+      "verses": 1151,
+      "pages": [
+        2406,
+        2491
+      ]
+    },
+    "João": {
+      "chapters": 21,
+      "verses": 879,
+      "pages": [
+        2492,
+        2556
+      ]
+    }
+  },
+  "totalVerses": 3779
+}

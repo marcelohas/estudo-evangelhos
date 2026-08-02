@@ -1,0 +1,84 @@
+Este pacote e o Meu Primeiro MVP.
+
+Nao implemente autenticacao JWT.
+Nao implemente Supabase.
+Use SQLite local, API Key simples para validacao rapida e a arquitetura descrita em config/TechSpecsConfig.md.
+Trate a API Key como protecao de MVP, nao como seguranca de producao.
+Login, JWT e Supabase so devem ser adicionados se o usuario pedir em uma etapa futura.
+
+Criar o projeto completo seguindo a ordem abaixo.
+
+## 1. Ler Especificacoes
+
+- Ler o arquivo `Project.md` na raiz do projeto
+- Ler o arquivo `config/TechSpecsConfig.md`
+- Ler o arquivo `config/DockerConfig.md`
+- Extrair: nome do projeto, objetivo, regras de negocio, entidades, requisitos funcionais e requisitos visuais
+
+## 2. Criar Estrutura de Diretorios
+
+```
+raiz-do-projeto/
+├── backend/
+│   └── src/
+│       ├── application/
+│       ├── domain/
+│       └── infrastructure/
+├── frontend/
+│   └── src/
+│       ├── components/
+│       ├── pages/
+│       ├── hooks/
+│       └── services/
+├── storage/
+├── docker/
+└── README.md
+```
+
+## 3. Implementar Backend
+
+- Seguir Clean Architecture com camadas de dominio, aplicacao e infraestrutura
+- Criar entidades com campos conforme Project.md
+- Usar UUID para todos os IDs
+- Implementar SQLAlchemy, Alembic, repositorios e servicos
+- Expor rotas CRUD via FastAPI
+- Configurar CORS permissivo
+- Usar variaveis de ambiente para API key, database URL, porta e storage path
+- Garantir no backend e no Alembic que o diretorio pai do SQLite definido em DATABASE_URL existe antes de abrir a conexao
+- Usar upload em `storage/<entidade_id>/` quando houver arquivos
+
+## 4. Implementar Frontend
+
+- Criar React + Vite + Tailwind + TypeScript
+- Usar dashboard como pagina inicial
+- Criar sidebar com as opcoes do requisito visual
+- Usar Modal no lugar de alert() ou confirm()
+- Aplicar tema visual especificado no Project.md
+- Formatar datas, horas, numeros e moeda no padrao brasileiro
+- Fazer o frontend se comunicar exclusivamente com o backend por REST API
+
+## 5. Configurar Docker
+
+- Seguir `config/DockerConfig.md`
+- Criar Dockerfile para backend e frontend
+- Criar docker compose na raiz do projeto
+- Montar `storage/` como bind mount
+- Criar `/storage` no Dockerfile do backend antes de executar Alembic
+- Verificar saude da API antes do frontend
+- Nao usar porta 80 para o backend
+
+## 6. Gerar README.md
+
+- Nome e descricao do projeto
+- Requisitos
+- Variaveis de ambiente
+- Como rodar com Docker Compose
+- Como rodar manualmente em desenvolvimento
+
+## 7. Validar
+
+- Backend inicia sem erros
+- Frontend compila sem erros
+- Migrações Alembic executam com sucesso
+- Docker compose sobe o ambiente
+

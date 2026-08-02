@@ -1,0 +1,7878 @@
+[
+  {
+    "id": "jo-1-1-1",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 1,
+    "verseEnd": 1,
+    "reference": "João 1,1",
+    "normalizedReference": "joao 1 1",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Basil",
+      "Chrysostom",
+      "Ex Gestis Concilii Ephesini",
+      "Hilary",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-1-2-2",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 2,
+    "verseEnd": 2,
+    "reference": "João 1,2",
+    "normalizedReference": "joao 1 2",
+    "authors": [
+      "Alcuin",
+      "Chrysostom",
+      "Hilary",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-1-3-3",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 3,
+    "verseEnd": 3,
+    "reference": "João 1,3",
+    "normalizedReference": "joao 1 3",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Hilary",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-1-4-4",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 4,
+    "verseEnd": 4,
+    "reference": "João 1,4",
+    "normalizedReference": "joao 1 4",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Hilary",
+      "Origen",
+      "Read the passage then thus",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-1-5-5",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 5,
+    "verseEnd": 5,
+    "reference": "João 1,5",
+    "normalizedReference": "joao 1 5",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Origen"
+    ]
+  },
+  {
+    "id": "jo-1-6-8",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 6,
+    "verseEnd": 8,
+    "reference": "João 1,6-8",
+    "normalizedReference": "joao 1 6 8",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-1-9-9",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 9,
+    "verseEnd": 9,
+    "reference": "João 1,9",
+    "normalizedReference": "joao 1 9",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-1-10-10",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 10,
+    "verseEnd": 10,
+    "reference": "João 1,10",
+    "normalizedReference": "joao 1 10",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-1-11-13",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 11,
+    "verseEnd": 13,
+    "reference": "João 1,11-13",
+    "normalizedReference": "joao 1 11 13",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-1-14-14",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 14,
+    "verseEnd": 14,
+    "reference": "João 1,14",
+    "normalizedReference": "joao 1 14",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Cyril",
+      "Ex Gestis Concilii Ephesini",
+      "Gregory",
+      "Hilary",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-1-15-15",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 15,
+    "verseEnd": 15,
+    "reference": "João 1,15",
+    "normalizedReference": "joao 1 15",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-1-16-17",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 16,
+    "verseEnd": 17,
+    "reference": "João 1,16-17",
+    "normalizedReference": "joao 1 16 17",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Origen"
+    ]
+  },
+  {
+    "id": "jo-1-18-18",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 18,
+    "verseEnd": 18,
+    "reference": "João 1,18",
+    "normalizedReference": "joao 1 18",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Hilary",
+      "Origen"
+    ]
+  },
+  {
+    "id": "jo-1-19-23",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 19,
+    "verseEnd": 23,
+    "reference": "João 1,19-23",
+    "normalizedReference": "joao 1 19 23",
+    "authors": [
+      "Accordingly, he first of all shows that he is not the Christ",
+      "And observe the wisdom of the Evangelist",
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-1-24-28",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 24,
+    "verseEnd": 28,
+    "reference": "João 1,24-28",
+    "normalizedReference": "joao 1 24 28",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Gloss",
+      "Gregory",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-1-29-31",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 29,
+    "verseEnd": 31,
+    "reference": "João 1,29-31",
+    "normalizedReference": "joao 1 29 31",
+    "authors": [
+      "Augustine",
+      "Behold Him Who takes away the sin of the world",
+      "Chrysostom",
+      "Gloss",
+      "Gregory",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-1-32-34",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 32,
+    "verseEnd": 34,
+    "reference": "João 1,32-34",
+    "normalizedReference": "joao 1 32 34",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Gregory"
+    ]
+  },
+  {
+    "id": "jo-1-35-36",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 35,
+    "verseEnd": 36,
+    "reference": "João 1,35-36",
+    "normalizedReference": "joao 1 35 36",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-1-37-40",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 37,
+    "verseEnd": 40,
+    "reference": "João 1,37-40",
+    "normalizedReference": "joao 1 37 40",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-1-41-42",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 41,
+    "verseEnd": 42,
+    "reference": "João 1,41-42",
+    "normalizedReference": "joao 1 41 42",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom"
+    ]
+  },
+  {
+    "id": "jo-1-43-46",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 43,
+    "verseEnd": 46,
+    "reference": "João 1,43-46",
+    "normalizedReference": "joao 1 43 46",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-1-47-51",
+    "book": "João",
+    "chapter": 1,
+    "verseStart": 47,
+    "verseEnd": 51,
+    "reference": "João 1,47-51",
+    "normalizedReference": "joao 1 47 51",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "Idem",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-2-1-4",
+    "book": "João",
+    "chapter": 2,
+    "verseStart": 1,
+    "verseEnd": 4,
+    "reference": "João 2,1-4",
+    "normalizedReference": "joao 2 1 4",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom"
+    ]
+  },
+  {
+    "id": "jo-2-5-11",
+    "book": "João",
+    "chapter": 2,
+    "verseStart": 5,
+    "verseEnd": 11,
+    "reference": "João 2,5-11",
+    "normalizedReference": "joao 2 5 11",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Hilary",
+      "Idem"
+    ]
+  },
+  {
+    "id": "jo-2-12-13",
+    "book": "João",
+    "chapter": 2,
+    "verseStart": 12,
+    "verseEnd": 13,
+    "reference": "João 2,12-13",
+    "normalizedReference": "joao 2 12 13",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Eusebius",
+      "Origen"
+    ]
+  },
+  {
+    "id": "jo-2-14-17",
+    "book": "João",
+    "chapter": 2,
+    "verseStart": 14,
+    "verseEnd": 17,
+    "reference": "João 2,14-17",
+    "normalizedReference": "joao 2 14 17",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Origen",
+      "Theopehyl"
+    ]
+  },
+  {
+    "id": "jo-2-18-22",
+    "book": "João",
+    "chapter": 2,
+    "verseStart": 18,
+    "verseEnd": 22,
+    "reference": "João 2,18-22",
+    "normalizedReference": "joao 2 18 22",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-2-23-25",
+    "book": "João",
+    "chapter": 2,
+    "verseStart": 23,
+    "verseEnd": 25,
+    "reference": "João 2,23-25",
+    "normalizedReference": "joao 2 23 25",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Origen"
+    ]
+  },
+  {
+    "id": "jo-3-1-3",
+    "book": "João",
+    "chapter": 3,
+    "verseStart": 1,
+    "verseEnd": 3,
+    "reference": "João 3,1-3",
+    "normalizedReference": "joao 3 1 3",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Haymo"
+    ]
+  },
+  {
+    "id": "jo-3-4-8",
+    "book": "João",
+    "chapter": 3,
+    "verseStart": 4,
+    "verseEnd": 8,
+    "reference": "João 3,4-8",
+    "normalizedReference": "joao 3 4 8",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Haymo",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-3-9-12",
+    "book": "João",
+    "chapter": 3,
+    "verseStart": 9,
+    "verseEnd": 12,
+    "reference": "João 3,9-12",
+    "normalizedReference": "joao 3 9 12",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Haymo",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-3-13-13",
+    "book": "João",
+    "chapter": 3,
+    "verseStart": 13,
+    "verseEnd": 13,
+    "reference": "João 3,13",
+    "normalizedReference": "joao 3 13",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Hilary",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-3-14-15",
+    "book": "João",
+    "chapter": 3,
+    "verseStart": 14,
+    "verseEnd": 15,
+    "reference": "João 3,14-15",
+    "normalizedReference": "joao 3 14 15",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-3-16-18",
+    "book": "João",
+    "chapter": 3,
+    "verseStart": 16,
+    "verseEnd": 18,
+    "reference": "João 3,16-18",
+    "normalizedReference": "joao 3 16 18",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Hilary",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-3-19-21",
+    "book": "João",
+    "chapter": 3,
+    "verseStart": 19,
+    "verseEnd": 21,
+    "reference": "João 3,19-21",
+    "normalizedReference": "joao 3 19 21",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom"
+    ]
+  },
+  {
+    "id": "jo-3-22-26",
+    "book": "João",
+    "chapter": 3,
+    "verseStart": 22,
+    "verseEnd": 26,
+    "reference": "João 3,22-26",
+    "normalizedReference": "joao 3 22 26",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Jerome"
+    ]
+  },
+  {
+    "id": "jo-3-27-30",
+    "book": "João",
+    "chapter": 3,
+    "verseStart": 27,
+    "verseEnd": 30,
+    "reference": "João 3,27-30",
+    "normalizedReference": "joao 3 27 30",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-3-31-31",
+    "book": "João",
+    "chapter": 3,
+    "verseStart": 31,
+    "verseEnd": 31,
+    "reference": "João 3,31",
+    "normalizedReference": "joao 3 31",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Gloss",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-3-32-36",
+    "book": "João",
+    "chapter": 3,
+    "verseStart": 32,
+    "verseEnd": 36,
+    "reference": "João 3,32-36",
+    "normalizedReference": "joao 3 32 36",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-4-1-6",
+    "book": "João",
+    "chapter": 4,
+    "verseStart": 1,
+    "verseEnd": 6,
+    "reference": "João 4,1-6",
+    "normalizedReference": "joao 4 1 6",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gloss",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-4-7-12",
+    "book": "João",
+    "chapter": 4,
+    "verseStart": 7,
+    "verseEnd": 12,
+    "reference": "João 4,7-12",
+    "normalizedReference": "joao 4 7 12",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-4-13-18",
+    "book": "João",
+    "chapter": 4,
+    "verseStart": 13,
+    "verseEnd": 18,
+    "reference": "João 4,13-18",
+    "normalizedReference": "joao 4 13 18",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-4-19-24",
+    "book": "João",
+    "chapter": 4,
+    "verseStart": 19,
+    "verseEnd": 24,
+    "reference": "João 4,19-24",
+    "normalizedReference": "joao 4 19 24",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Hilary",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-4-25-26",
+    "book": "João",
+    "chapter": 4,
+    "verseStart": 25,
+    "verseEnd": 26,
+    "reference": "João 4,25-26",
+    "normalizedReference": "joao 4 25 26",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Origen"
+    ]
+  },
+  {
+    "id": "jo-4-27-30",
+    "book": "João",
+    "chapter": 4,
+    "verseStart": 27,
+    "verseEnd": 30,
+    "reference": "João 4,27-30",
+    "normalizedReference": "joao 4 27 30",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Origen"
+    ]
+  },
+  {
+    "id": "jo-4-31-34",
+    "book": "João",
+    "chapter": 4,
+    "verseStart": 31,
+    "verseEnd": 34,
+    "reference": "João 4,31-34",
+    "normalizedReference": "joao 4 31 34",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-4-35-38",
+    "book": "João",
+    "chapter": 4,
+    "verseStart": 35,
+    "verseEnd": 38,
+    "reference": "João 4,35-38",
+    "normalizedReference": "joao 4 35 38",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-4-39-42",
+    "book": "João",
+    "chapter": 4,
+    "verseStart": 39,
+    "verseEnd": 42,
+    "reference": "João 4,39-42",
+    "normalizedReference": "joao 4 39 42",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Origen"
+    ]
+  },
+  {
+    "id": "jo-4-43-45",
+    "book": "João",
+    "chapter": 4,
+    "verseStart": 43,
+    "verseEnd": 45,
+    "reference": "João 4,43-45",
+    "normalizedReference": "joao 4 43 45",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-4-46-54",
+    "book": "João",
+    "chapter": 4,
+    "verseStart": 46,
+    "verseEnd": 54,
+    "reference": "João 4,46-54",
+    "normalizedReference": "joao 4 46 54",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-5-1-13",
+    "book": "João",
+    "chapter": 5,
+    "verseStart": 1,
+    "verseEnd": 13,
+    "reference": "João 5,1-13",
+    "normalizedReference": "joao 5 1 13",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom"
+    ]
+  },
+  {
+    "id": "jo-5-14-18",
+    "book": "João",
+    "chapter": 5,
+    "verseStart": 14,
+    "verseEnd": 18,
+    "reference": "João 5,14-18",
+    "normalizedReference": "joao 5 14 18",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Hilary"
+    ]
+  },
+  {
+    "id": "jo-5-19-20",
+    "book": "João",
+    "chapter": 5,
+    "verseStart": 19,
+    "verseEnd": 20,
+    "reference": "João 5,19-20",
+    "normalizedReference": "joao 5 19 20",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Hilary"
+    ]
+  },
+  {
+    "id": "jo-5-21-23",
+    "book": "João",
+    "chapter": 5,
+    "verseStart": 21,
+    "verseEnd": 23,
+    "reference": "João 5,21-23",
+    "normalizedReference": "joao 5 21 23",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Hilary"
+    ]
+  },
+  {
+    "id": "jo-5-24-24",
+    "book": "João",
+    "chapter": 5,
+    "verseStart": 24,
+    "verseEnd": 24,
+    "reference": "João 5,24",
+    "normalizedReference": "joao 5 24",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Gloss"
+    ]
+  },
+  {
+    "id": "jo-5-25-26",
+    "book": "João",
+    "chapter": 5,
+    "verseStart": 25,
+    "verseEnd": 26,
+    "reference": "João 5,25-26",
+    "normalizedReference": "joao 5 25 26",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Hilary",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-5-27-29",
+    "book": "João",
+    "chapter": 5,
+    "verseStart": 27,
+    "verseEnd": 29,
+    "reference": "João 5,27-29",
+    "normalizedReference": "joao 5 27 29",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-5-30-30",
+    "book": "João",
+    "chapter": 5,
+    "verseStart": 30,
+    "verseEnd": 30,
+    "reference": "João 5,30",
+    "normalizedReference": "joao 5 30",
+    "authors": [
+      "Augustine",
+      "Chrysostom"
+    ]
+  },
+  {
+    "id": "jo-5-31-40",
+    "book": "João",
+    "chapter": 5,
+    "verseStart": 31,
+    "verseEnd": 40,
+    "reference": "João 5,31-40",
+    "normalizedReference": "joao 5 31 40",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Hilary"
+    ]
+  },
+  {
+    "id": "jo-5-41-47",
+    "book": "João",
+    "chapter": 5,
+    "verseStart": 41,
+    "verseEnd": 47,
+    "reference": "João 5,41-47",
+    "normalizedReference": "joao 5 41 47",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-6-1-14",
+    "book": "João",
+    "chapter": 6,
+    "verseStart": 1,
+    "verseEnd": 14,
+    "reference": "João 6,1-14",
+    "normalizedReference": "joao 6 1 14",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Hilary",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-6-15-21",
+    "book": "João",
+    "chapter": 6,
+    "verseStart": 15,
+    "verseEnd": 21,
+    "reference": "João 6,15-21",
+    "normalizedReference": "joao 6 15 21",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-6-22-27",
+    "book": "João",
+    "chapter": 6,
+    "verseStart": 22,
+    "verseEnd": 27,
+    "reference": "João 6,22-27",
+    "normalizedReference": "joao 6 22 27",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Hilary"
+    ]
+  },
+  {
+    "id": "jo-6-28-34",
+    "book": "João",
+    "chapter": 6,
+    "verseStart": 28,
+    "verseEnd": 34,
+    "reference": "João 6,28-34",
+    "normalizedReference": "joao 6 28 34",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-6-35-40",
+    "book": "João",
+    "chapter": 6,
+    "verseStart": 35,
+    "verseEnd": 40,
+    "reference": "João 6,35-40",
+    "normalizedReference": "joao 6 35 40",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Hilary",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-6-41-46",
+    "book": "João",
+    "chapter": 6,
+    "verseStart": 41,
+    "verseEnd": 46,
+    "reference": "João 6,41-46",
+    "normalizedReference": "joao 6 41 46",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gloss"
+    ]
+  },
+  {
+    "id": "jo-6-47-51",
+    "book": "João",
+    "chapter": 6,
+    "verseStart": 47,
+    "verseEnd": 51,
+    "reference": "João 6,47-51",
+    "normalizedReference": "joao 6 47 51",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-6-52-54",
+    "book": "João",
+    "chapter": 6,
+    "verseStart": 52,
+    "verseEnd": 54,
+    "reference": "João 6,52-54",
+    "normalizedReference": "joao 6 52 54",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-6-55-59",
+    "book": "João",
+    "chapter": 6,
+    "verseStart": 55,
+    "verseEnd": 59,
+    "reference": "João 6,55-59",
+    "normalizedReference": "joao 6 55 59",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Hilary",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-6-60-71",
+    "book": "João",
+    "chapter": 6,
+    "verseStart": 60,
+    "verseEnd": 71,
+    "reference": "João 6,60-71",
+    "normalizedReference": "joao 6 60 71",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-7-1-8",
+    "book": "João",
+    "chapter": 7,
+    "verseStart": 1,
+    "verseEnd": 8,
+    "reference": "João 7,1-8",
+    "normalizedReference": "joao 7 1 8",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-7-9-13",
+    "book": "João",
+    "chapter": 7,
+    "verseStart": 9,
+    "verseEnd": 13,
+    "reference": "João 7,9-13",
+    "normalizedReference": "joao 7 9 13",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-7-14-18",
+    "book": "João",
+    "chapter": 7,
+    "verseStart": 14,
+    "verseEnd": 18,
+    "reference": "João 7,14-18",
+    "normalizedReference": "joao 7 14 18",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-7-19-24",
+    "book": "João",
+    "chapter": 7,
+    "verseStart": 19,
+    "verseEnd": 24,
+    "reference": "João 7,19-24",
+    "normalizedReference": "joao 7 19 24",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom"
+    ]
+  },
+  {
+    "id": "jo-7-25-30",
+    "book": "João",
+    "chapter": 7,
+    "verseStart": 25,
+    "verseEnd": 30,
+    "reference": "João 7,25-30",
+    "normalizedReference": "joao 7 25 30",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Hilary"
+    ]
+  },
+  {
+    "id": "jo-7-31-36",
+    "book": "João",
+    "chapter": 7,
+    "verseStart": 31,
+    "verseEnd": 36,
+    "reference": "João 7,31-36",
+    "normalizedReference": "joao 7 31 36",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-7-37-39",
+    "book": "João",
+    "chapter": 7,
+    "verseStart": 37,
+    "verseEnd": 39,
+    "reference": "João 7,37-39",
+    "normalizedReference": "joao 7 37 39",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-7-40-53",
+    "book": "João",
+    "chapter": 7,
+    "verseStart": 40,
+    "verseEnd": 53,
+    "reference": "João 7,40-53",
+    "normalizedReference": "joao 7 40 53",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-8-1-11",
+    "book": "João",
+    "chapter": 8,
+    "verseStart": 1,
+    "verseEnd": 11,
+    "reference": "João 8,1-11",
+    "normalizedReference": "joao 8 1 11",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Gloss",
+      "Gregory"
+    ]
+  },
+  {
+    "id": "jo-8-12-12",
+    "book": "João",
+    "chapter": 8,
+    "verseStart": 12,
+    "verseEnd": 12,
+    "reference": "João 8,12",
+    "normalizedReference": "joao 8 12",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-8-13-18",
+    "book": "João",
+    "chapter": 8,
+    "verseStart": 13,
+    "verseEnd": 18,
+    "reference": "João 8,13-18",
+    "normalizedReference": "joao 8 13 18",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-8-19-20",
+    "book": "João",
+    "chapter": 8,
+    "verseStart": 19,
+    "verseEnd": 20,
+    "reference": "João 8,19-20",
+    "normalizedReference": "joao 8 19 20",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-8-21-24",
+    "book": "João",
+    "chapter": 8,
+    "verseStart": 21,
+    "verseEnd": 24,
+    "reference": "João 8,21-24",
+    "normalizedReference": "joao 8 21 24",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-8-25-27",
+    "book": "João",
+    "chapter": 8,
+    "verseStart": 25,
+    "verseEnd": 27,
+    "reference": "João 8,25-27",
+    "normalizedReference": "joao 8 25 27",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-8-28-30",
+    "book": "João",
+    "chapter": 8,
+    "verseStart": 28,
+    "verseEnd": 30,
+    "reference": "João 8,28-30",
+    "normalizedReference": "joao 8 28 30",
+    "authors": [
+      "Augustine",
+      "Chrysostom"
+    ]
+  },
+  {
+    "id": "jo-8-31-36",
+    "book": "João",
+    "chapter": 8,
+    "verseStart": 31,
+    "verseEnd": 36,
+    "reference": "João 8,31-36",
+    "normalizedReference": "joao 8 31 36",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-8-37-40",
+    "book": "João",
+    "chapter": 8,
+    "verseStart": 37,
+    "verseEnd": 40,
+    "reference": "João 8,37-40",
+    "normalizedReference": "joao 8 37 40",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-8-41-43",
+    "book": "João",
+    "chapter": 8,
+    "verseStart": 41,
+    "verseEnd": 43,
+    "reference": "João 8,41-43",
+    "normalizedReference": "joao 8 41 43",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Hilary",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-8-44-47",
+    "book": "João",
+    "chapter": 8,
+    "verseStart": 44,
+    "verseEnd": 47,
+    "reference": "João 8,44-47",
+    "normalizedReference": "joao 8 44 47",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-8-48-51",
+    "book": "João",
+    "chapter": 8,
+    "verseStart": 48,
+    "verseEnd": 51,
+    "reference": "João 8,48-51",
+    "normalizedReference": "joao 8 48 51",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-8-52-56",
+    "book": "João",
+    "chapter": 8,
+    "verseStart": 52,
+    "verseEnd": 56,
+    "reference": "João 8,52-56",
+    "normalizedReference": "joao 8 52 56",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-8-57-59",
+    "book": "João",
+    "chapter": 8,
+    "verseStart": 57,
+    "verseEnd": 59,
+    "reference": "João 8,57-59",
+    "normalizedReference": "joao 8 57 59",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-9-1-7",
+    "book": "João",
+    "chapter": 9,
+    "verseStart": 1,
+    "verseEnd": 7,
+    "reference": "João 9,1-7",
+    "normalizedReference": "joao 9 1 7",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "He first saw the blind man, not the blind man Him",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-9-8-17",
+    "book": "João",
+    "chapter": 9,
+    "verseStart": 8,
+    "verseEnd": 17,
+    "reference": "João 9,8-17",
+    "normalizedReference": "joao 9 8 17",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-9-18-23",
+    "book": "João",
+    "chapter": 9,
+    "verseStart": 18,
+    "verseEnd": 23,
+    "reference": "João 9,18-23",
+    "normalizedReference": "joao 9 18 23",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "But the third they refuse to speak to",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-9-24-34",
+    "book": "João",
+    "chapter": 9,
+    "verseStart": 24,
+    "verseEnd": 34,
+    "reference": "João 9,24-34",
+    "normalizedReference": "joao 9 24 34",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Then he extols His creed",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-10-1-5",
+    "book": "João",
+    "chapter": 10,
+    "verseStart": 1,
+    "verseEnd": 5,
+    "reference": "João 10,1-5",
+    "normalizedReference": "joao 10 1 5",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Gloss",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-10-6-6",
+    "book": "João",
+    "chapter": 10,
+    "verseStart": 6,
+    "verseEnd": 6,
+    "reference": "João 10,6",
+    "normalizedReference": "joao 10 6",
+    "authors": [
+      "Augustine"
+    ]
+  },
+  {
+    "id": "jo-10-7-10",
+    "book": "João",
+    "chapter": 10,
+    "verseStart": 7,
+    "verseEnd": 10,
+    "reference": "João 10,7-10",
+    "normalizedReference": "joao 10 7 10",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-10-11-13",
+    "book": "João",
+    "chapter": 10,
+    "verseStart": 11,
+    "verseEnd": 13,
+    "reference": "João 10,11-13",
+    "normalizedReference": "joao 10 11 13",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "The hireling hurts, in that he does wrong, not in that he speaks right"
+    ]
+  },
+  {
+    "id": "jo-10-14-21",
+    "book": "João",
+    "chapter": 10,
+    "verseStart": 14,
+    "verseEnd": 21,
+    "reference": "João 10,14-21",
+    "normalizedReference": "joao 10 14 21",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-10-22-30",
+    "book": "João",
+    "chapter": 10,
+    "verseStart": 22,
+    "verseEnd": 30,
+    "reference": "João 10,22-30",
+    "normalizedReference": "joao 10 22 30",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Hilary",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-10-31-38",
+    "book": "João",
+    "chapter": 10,
+    "verseStart": 31,
+    "verseEnd": 38,
+    "reference": "João 10,31-38",
+    "normalizedReference": "joao 10 31 38",
+    "authors": [
+      "A creature is not equal and like to God",
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Hilary",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-10-39-42",
+    "book": "João",
+    "chapter": 10,
+    "verseStart": 39,
+    "verseEnd": 42,
+    "reference": "João 10,39-42",
+    "normalizedReference": "joao 10 39 42",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-11-1-5",
+    "book": "João",
+    "chapter": 11,
+    "verseStart": 1,
+    "verseEnd": 5,
+    "reference": "João 11,1-5",
+    "normalizedReference": "joao 11 1 5",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-11-6-10",
+    "book": "João",
+    "chapter": 11,
+    "verseStart": 6,
+    "verseEnd": 10,
+    "reference": "João 11,6-10",
+    "normalizedReference": "joao 11 6 10",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-11-11-16",
+    "book": "João",
+    "chapter": 11,
+    "verseStart": 11,
+    "verseEnd": 16,
+    "reference": "João 11,11-16",
+    "normalizedReference": "joao 11 11 16",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-11-17-27",
+    "book": "João",
+    "chapter": 11,
+    "verseStart": 17,
+    "verseEnd": 27,
+    "reference": "João 11,17-27",
+    "normalizedReference": "joao 11 17 27",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-11-28-32",
+    "book": "João",
+    "chapter": 11,
+    "verseStart": 28,
+    "verseEnd": 32,
+    "reference": "João 11,28-32",
+    "normalizedReference": "joao 11 28 32",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "The Jews accompanied her",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-11-33-40",
+    "book": "João",
+    "chapter": 11,
+    "verseStart": 33,
+    "verseEnd": 40,
+    "reference": "João 11,33-40",
+    "normalizedReference": "joao 11 33 40",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-11-41-46",
+    "book": "João",
+    "chapter": 11,
+    "verseStart": 41,
+    "verseEnd": 46,
+    "reference": "João 11,41-46",
+    "normalizedReference": "joao 11 41 46",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Hilary",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-11-47-53",
+    "book": "João",
+    "chapter": 11,
+    "verseStart": 47,
+    "verseEnd": 53,
+    "reference": "João 11,47-53",
+    "normalizedReference": "joao 11 47 53",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-11-54-57",
+    "book": "João",
+    "chapter": 11,
+    "verseStart": 54,
+    "verseEnd": 57,
+    "reference": "João 11,54-57",
+    "normalizedReference": "joao 11 54 57",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Ephraim signifies fertility. Ephraim was the younger brother of Manasses",
+      "Origen",
+      "The Law obliged everyone to go up to the feast",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-12-1-11",
+    "book": "João",
+    "chapter": 12,
+    "verseStart": 1,
+    "verseEnd": 11,
+    "reference": "João 12,1-11",
+    "normalizedReference": "joao 12 1 11",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Theophylact",
+      "Thus we find Jesus partook of a banquet at Bethany"
+    ]
+  },
+  {
+    "id": "jo-12-12-19",
+    "book": "João",
+    "chapter": 12,
+    "verseStart": 12,
+    "verseEnd": 19,
+    "reference": "João 12,12-19",
+    "normalizedReference": "joao 12 12 19",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Hence the spite and plotting of the Pharisees",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-12-20-26",
+    "book": "João",
+    "chapter": 12,
+    "verseStart": 20,
+    "verseEnd": 26,
+    "reference": "João 12,20-26",
+    "normalizedReference": "joao 12 20 26",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-12-27-33",
+    "book": "João",
+    "chapter": 12,
+    "verseStart": 27,
+    "verseEnd": 33,
+    "reference": "João 12,27-33",
+    "normalizedReference": "joao 12 27 33",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory"
+    ]
+  },
+  {
+    "id": "jo-12-34-36",
+    "book": "João",
+    "chapter": 12,
+    "verseStart": 34,
+    "verseEnd": 36,
+    "reference": "João 12,34-36",
+    "normalizedReference": "joao 12 34 36",
+    "authors": [
+      "Augustine",
+      "Chrysostom"
+    ]
+  },
+  {
+    "id": "jo-12-37-43",
+    "book": "João",
+    "chapter": 12,
+    "verseStart": 37,
+    "verseEnd": 43,
+    "reference": "João 12,37-43",
+    "normalizedReference": "joao 12 37 43",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-12-44-50",
+    "book": "João",
+    "chapter": 12,
+    "verseStart": 44,
+    "verseEnd": 50,
+    "reference": "João 12,44-50",
+    "normalizedReference": "joao 12 44 50",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-13-1-5",
+    "book": "João",
+    "chapter": 13,
+    "verseStart": 1,
+    "verseEnd": 5,
+    "reference": "João 13,1-5",
+    "normalizedReference": "joao 13 1 5",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "But God forbid that He should end His love by death, who is not ended by death",
+      "Chrysostom",
+      "Gregory",
+      "Origen",
+      "Theophylact",
+      "What follows"
+    ]
+  },
+  {
+    "id": "jo-13-6-11",
+    "book": "João",
+    "chapter": 13,
+    "verseStart": 6,
+    "verseEnd": 11,
+    "reference": "João 13,6-11",
+    "normalizedReference": "joao 13 6 11",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-13-12-20",
+    "book": "João",
+    "chapter": 13,
+    "verseStart": 12,
+    "verseEnd": 20,
+    "reference": "João 13,12-20",
+    "normalizedReference": "joao 13 12 20",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-13-21-30",
+    "book": "João",
+    "chapter": 13,
+    "verseStart": 21,
+    "verseEnd": 30,
+    "reference": "João 13,21-30",
+    "normalizedReference": "joao 13 21 30",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Origen"
+    ]
+  },
+  {
+    "id": "jo-13-31-32",
+    "book": "João",
+    "chapter": 13,
+    "verseStart": 31,
+    "verseEnd": 32,
+    "reference": "João 13,31-32",
+    "normalizedReference": "joao 13 31 32",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Hilary",
+      "Origen"
+    ]
+  },
+  {
+    "id": "jo-13-33-35",
+    "book": "João",
+    "chapter": 13,
+    "verseStart": 33,
+    "verseEnd": 35,
+    "reference": "João 13,33-35",
+    "normalizedReference": "joao 13 33 35",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Origen"
+    ]
+  },
+  {
+    "id": "jo-13-36-38",
+    "book": "João",
+    "chapter": 13,
+    "verseStart": 36,
+    "verseEnd": 38,
+    "reference": "João 13,36-38",
+    "normalizedReference": "joao 13 36 38",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "What say you, Peter? He has said, you can not, and you say, you can"
+    ]
+  },
+  {
+    "id": "jo-14-1-4",
+    "book": "João",
+    "chapter": 14,
+    "verseStart": 1,
+    "verseEnd": 4,
+    "reference": "João 14,1-4",
+    "normalizedReference": "joao 14 1 4",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "But why has He gone away to prepare it, if it is ourselves that He prepares",
+      "Chrysostom",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-14-5-7",
+    "book": "João",
+    "chapter": 14,
+    "verseStart": 5,
+    "verseEnd": 7,
+    "reference": "João 14,5-7",
+    "normalizedReference": "joao 14 5 7",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Hilary",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-14-8-11",
+    "book": "João",
+    "chapter": 14,
+    "verseStart": 8,
+    "verseEnd": 11,
+    "reference": "João 14,8-11",
+    "normalizedReference": "joao 14 8 11",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Hilary"
+    ]
+  },
+  {
+    "id": "jo-14-12-14",
+    "book": "João",
+    "chapter": 14,
+    "verseStart": 12,
+    "verseEnd": 14,
+    "reference": "João 14,12-14",
+    "normalizedReference": "joao 14 12 14",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-14-15-17",
+    "book": "João",
+    "chapter": 14,
+    "verseStart": 15,
+    "verseEnd": 17,
+    "reference": "João 14,15-17",
+    "normalizedReference": "joao 14 15 17",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Didymus",
+      "Gregory"
+    ]
+  },
+  {
+    "id": "jo-14-18-21",
+    "book": "João",
+    "chapter": 14,
+    "verseStart": 18,
+    "verseEnd": 21,
+    "reference": "João 14,18-21",
+    "normalizedReference": "joao 14 18 21",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Hilary",
+      "It follows",
+      "Theophylact",
+      "Yet a little while, and the world sees Me no more"
+    ]
+  },
+  {
+    "id": "jo-14-22-26",
+    "book": "João",
+    "chapter": 14,
+    "verseStart": 22,
+    "verseEnd": 26,
+    "reference": "João 14,22-26",
+    "normalizedReference": "joao 14 22 26",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Didymus",
+      "Gregory",
+      "He adds, Not as the world gives, give I unto you"
+    ]
+  },
+  {
+    "id": "jo-14-27-31",
+    "book": "João",
+    "chapter": 14,
+    "verseStart": 27,
+    "verseEnd": 31,
+    "reference": "João 14,27-31",
+    "normalizedReference": "joao 14 27 31",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Hilary"
+    ]
+  },
+  {
+    "id": "jo-15-1-3",
+    "book": "João",
+    "chapter": 15,
+    "verseStart": 1,
+    "verseEnd": 3,
+    "reference": "João 15,1-3",
+    "normalizedReference": "joao 15 1 3",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Hilary",
+      "Thus He calls Himself immediately the cleanser of the branches"
+    ]
+  },
+  {
+    "id": "jo-15-4-7",
+    "book": "João",
+    "chapter": 15,
+    "verseStart": 4,
+    "verseEnd": 7,
+    "reference": "João 15,4-7",
+    "normalizedReference": "joao 15 4 7",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom"
+    ]
+  },
+  {
+    "id": "jo-15-8-11",
+    "book": "João",
+    "chapter": 15,
+    "verseStart": 8,
+    "verseEnd": 11,
+    "reference": "João 15,8-11",
+    "normalizedReference": "joao 15 8 11",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-15-12-16",
+    "book": "João",
+    "chapter": 15,
+    "verseStart": 12,
+    "verseEnd": 16,
+    "reference": "João 15,12-16",
+    "normalizedReference": "joao 15 12 16",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-15-17-21",
+    "book": "João",
+    "chapter": 15,
+    "verseStart": 17,
+    "verseEnd": 21,
+    "reference": "João 15,17-21",
+    "normalizedReference": "joao 15 17 21",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Gloss",
+      "Gregory"
+    ]
+  },
+  {
+    "id": "jo-15-22-25",
+    "book": "João",
+    "chapter": 15,
+    "verseStart": 22,
+    "verseEnd": 25,
+    "reference": "João 15,22-25",
+    "normalizedReference": "joao 15 22 25",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Gregory"
+    ]
+  },
+  {
+    "id": "jo-15-26-27",
+    "book": "João",
+    "chapter": 15,
+    "verseStart": 26,
+    "verseEnd": 27,
+    "reference": "João 15,26-27",
+    "normalizedReference": "joao 15 26 27",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Didymus",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-16-1-4",
+    "book": "João",
+    "chapter": 16,
+    "verseStart": 1,
+    "verseEnd": 4,
+    "reference": "João 16,1-4",
+    "normalizedReference": "joao 16 1 4",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "He adds",
+      "What they were about to suffer follows next"
+    ]
+  },
+  {
+    "id": "jo-16-5-11",
+    "book": "João",
+    "chapter": 16,
+    "verseStart": 5,
+    "verseEnd": 11,
+    "reference": "João 16,5-11",
+    "normalizedReference": "joao 16 5 11",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "He then explains what He has said",
+      "Of righteousness because I go to the Father"
+    ]
+  },
+  {
+    "id": "jo-16-12-15",
+    "book": "João",
+    "chapter": 16,
+    "verseStart": 12,
+    "verseEnd": 15,
+    "reference": "João 16,12-15",
+    "normalizedReference": "joao 16 12 15",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Didymus",
+      "Hilary",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-16-16-22",
+    "book": "João",
+    "chapter": 16,
+    "verseStart": 16,
+    "verseEnd": 22,
+    "reference": "João 16,16-22",
+    "normalizedReference": "joao 16 16 22",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "It follows"
+    ]
+  },
+  {
+    "id": "jo-16-23-28",
+    "book": "João",
+    "chapter": 16,
+    "verseStart": 23,
+    "verseEnd": 28,
+    "reference": "João 16,23-28",
+    "normalizedReference": "joao 16 23 28",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "Hilary",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-16-29-33",
+    "book": "João",
+    "chapter": 16,
+    "verseStart": 29,
+    "verseEnd": 33,
+    "reference": "João 16,29-33",
+    "normalizedReference": "joao 16 29 33",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Hilary"
+    ]
+  },
+  {
+    "id": "jo-17-1-5",
+    "book": "João",
+    "chapter": 17,
+    "verseStart": 1,
+    "verseEnd": 5,
+    "reference": "João 17,1-5",
+    "normalizedReference": "joao 17 1 5",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Hilary"
+    ]
+  },
+  {
+    "id": "jo-17-6-8",
+    "book": "João",
+    "chapter": 17,
+    "verseStart": 6,
+    "verseEnd": 8,
+    "reference": "João 17,6-8",
+    "normalizedReference": "joao 17 6 8",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Or, They have kept your word, i.e. in that they have believed in Me"
+    ]
+  },
+  {
+    "id": "jo-17-9-13",
+    "book": "João",
+    "chapter": 17,
+    "verseStart": 9,
+    "verseEnd": 13,
+    "reference": "João 17,9-13",
+    "normalizedReference": "joao 17 9 13",
+    "authors": [
+      "Augustine",
+      "Chrysostom"
+    ]
+  },
+  {
+    "id": "jo-17-14-19",
+    "book": "João",
+    "chapter": 17,
+    "verseStart": 14,
+    "verseEnd": 19,
+    "reference": "João 17,14-19",
+    "normalizedReference": "joao 17 14 19",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gloss"
+    ]
+  },
+  {
+    "id": "jo-17-20-23",
+    "book": "João",
+    "chapter": 17,
+    "verseStart": 20,
+    "verseEnd": 23,
+    "reference": "João 17,20-23",
+    "normalizedReference": "joao 17 20 23",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Hilary"
+    ]
+  },
+  {
+    "id": "jo-17-24-26",
+    "book": "João",
+    "chapter": 17,
+    "verseStart": 24,
+    "verseEnd": 26,
+    "reference": "João 17,24-26",
+    "normalizedReference": "joao 17 24 26",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-18-1-2",
+    "book": "João",
+    "chapter": 18,
+    "verseStart": 1,
+    "verseEnd": 2,
+    "reference": "João 18,1-2",
+    "normalizedReference": "joao 18 1 2",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-18-3-9",
+    "book": "João",
+    "chapter": 18,
+    "verseStart": 3,
+    "verseEnd": 9,
+    "reference": "João 18,3-9",
+    "normalizedReference": "joao 18 3 9",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Gloss",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-18-10-11",
+    "book": "João",
+    "chapter": 18,
+    "verseStart": 10,
+    "verseEnd": 11,
+    "reference": "João 18,10-11",
+    "normalizedReference": "joao 18 10 11",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-18-12-14",
+    "book": "João",
+    "chapter": 18,
+    "verseStart": 12,
+    "verseEnd": 14,
+    "reference": "João 18,12-14",
+    "normalizedReference": "joao 18 12 14",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-18-15-18",
+    "book": "João",
+    "chapter": 18,
+    "verseStart": 15,
+    "verseEnd": 18,
+    "reference": "João 18,15-18",
+    "normalizedReference": "joao 18 15 18",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "He did not bring him in himself, because he kept near Christ. It follows",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-18-19-21",
+    "book": "João",
+    "chapter": 18,
+    "verseStart": 19,
+    "verseEnd": 21,
+    "reference": "João 18,19-21",
+    "normalizedReference": "joao 18 19 21",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-18-22-24",
+    "book": "João",
+    "chapter": 18,
+    "verseStart": 22,
+    "verseEnd": 24,
+    "reference": "João 18,22-24",
+    "normalizedReference": "joao 18 22 24",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-18-25-27",
+    "book": "João",
+    "chapter": 18,
+    "verseStart": 25,
+    "verseEnd": 27,
+    "reference": "João 18,25-27",
+    "normalizedReference": "joao 18 25 27",
+    "authors": [
+      "And then follows the third denial",
+      "Augustine",
+      "Bede",
+      "Chrysostom"
+    ]
+  },
+  {
+    "id": "jo-18-28-32",
+    "book": "João",
+    "chapter": 18,
+    "verseStart": 28,
+    "verseEnd": 32,
+    "reference": "João 18,28-32",
+    "normalizedReference": "joao 18 28 32",
+    "authors": [
+      "Alcuin",
+      "And here also in like manner",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact",
+      "They in reply bring forward no positive charge but only their own conjectures",
+      "They put to death in another way, as we see in the stoning of Stephen"
+    ]
+  },
+  {
+    "id": "jo-18-33-37",
+    "book": "João",
+    "chapter": 18,
+    "verseStart": 33,
+    "verseEnd": 37,
+    "reference": "João 18,33-37",
+    "normalizedReference": "joao 18 33 37",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Theophyl",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-18-38-40",
+    "book": "João",
+    "chapter": 18,
+    "verseStart": 38,
+    "verseEnd": 40,
+    "reference": "João 18,38-40",
+    "normalizedReference": "joao 18 38 40",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-19-1-5",
+    "book": "João",
+    "chapter": 19,
+    "verseStart": 1,
+    "verseEnd": 5,
+    "reference": "João 19,1-5",
+    "normalizedReference": "joao 19 1 5",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom"
+    ]
+  },
+  {
+    "id": "jo-19-6-8",
+    "book": "João",
+    "chapter": 19,
+    "verseStart": 6,
+    "verseEnd": 8,
+    "reference": "João 19,6-8",
+    "normalizedReference": "joao 19 6 8",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "But nothing could shame the Jewish hounds",
+      "Chrysostom"
+    ]
+  },
+  {
+    "id": "jo-19-9-11",
+    "book": "João",
+    "chapter": 19,
+    "verseStart": 9,
+    "verseEnd": 11,
+    "reference": "João 19,9-11",
+    "normalizedReference": "joao 19 9 11",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-19-12-15",
+    "book": "João",
+    "chapter": 19,
+    "verseStart": 12,
+    "verseEnd": 15,
+    "reference": "João 19,12-15",
+    "normalizedReference": "joao 19 12 15",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gloss",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-19-16-18",
+    "book": "João",
+    "chapter": 19,
+    "verseStart": 16,
+    "verseEnd": 18,
+    "reference": "João 19,16-18",
+    "normalizedReference": "joao 19 16 18",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Gloss",
+      "Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-19-19-22",
+    "book": "João",
+    "chapter": 19,
+    "verseStart": 19,
+    "verseEnd": 22,
+    "reference": "João 19,19-22",
+    "normalizedReference": "joao 19 19 22",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "But Pilate was firm",
+      "Chrysostom",
+      "Theophylact",
+      "This title then read many of the Jews"
+    ]
+  },
+  {
+    "id": "jo-19-23-23",
+    "book": "João",
+    "chapter": 19,
+    "verseStart": 23,
+    "verseEnd": 23,
+    "reference": "João 19,23",
+    "normalizedReference": "joao 19 23",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "On Pilate giving sentence, the soldiers under his command crucified Jesus",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-19-24-27",
+    "book": "João",
+    "chapter": 19,
+    "verseStart": 24,
+    "verseEnd": 27,
+    "reference": "João 19,24-27",
+    "normalizedReference": "joao 19 24 27",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-19-28-30",
+    "book": "João",
+    "chapter": 19,
+    "verseStart": 28,
+    "verseEnd": 30,
+    "reference": "João 19,28-30",
+    "normalizedReference": "joao 19 28 30",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Now there was a vessel full of vinegar",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-19-31-37",
+    "book": "João",
+    "chapter": 19,
+    "verseStart": 31,
+    "verseEnd": 37,
+    "reference": "João 19,31-37",
+    "normalizedReference": "joao 19 31 37",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-19-38-42",
+    "book": "João",
+    "chapter": 19,
+    "verseStart": 38,
+    "verseEnd": 42,
+    "reference": "João 19,38-42",
+    "normalizedReference": "joao 19 38 42",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-20-1-9",
+    "book": "João",
+    "chapter": 20,
+    "verseStart": 1,
+    "verseEnd": 9,
+    "reference": "João 20,1-9",
+    "normalizedReference": "joao 20 1 9",
+    "authors": [
+      "After Peter however, John entered",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gloss",
+      "Gregory",
+      "The synagogue came first to the sepulcher, but entered not",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-20-10-18",
+    "book": "João",
+    "chapter": 20,
+    "verseStart": 10,
+    "verseEnd": 18,
+    "reference": "João 20,10-18",
+    "normalizedReference": "joao 20 10 18",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Hilary",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-20-19-25",
+    "book": "João",
+    "chapter": 20,
+    "verseStart": 19,
+    "verseEnd": 25,
+    "reference": "João 20,19-25",
+    "normalizedReference": "joao 20 19 25",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-20-26-31",
+    "book": "João",
+    "chapter": 20,
+    "verseStart": 26,
+    "verseEnd": 31,
+    "reference": "João 20,26-31",
+    "normalizedReference": "joao 20 26 31",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-21-1-11",
+    "book": "João",
+    "chapter": 21,
+    "verseStart": 1,
+    "verseEnd": 11,
+    "reference": "João 21,1-11",
+    "normalizedReference": "joao 21 1 11",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gloss",
+      "Gregory",
+      "He then gives them a sign to know Him by",
+      "John is the first to recognize our Lord",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-21-12-14",
+    "book": "João",
+    "chapter": 21,
+    "verseStart": 12,
+    "verseEnd": 14,
+    "reference": "João 21,12-14",
+    "normalizedReference": "joao 21 12 14",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Gregory"
+    ]
+  },
+  {
+    "id": "jo-21-15-17",
+    "book": "João",
+    "chapter": 21,
+    "verseStart": 15,
+    "verseEnd": 17,
+    "reference": "João 21,15-17",
+    "normalizedReference": "joao 21 15 17",
+    "authors": [
+      "Alcuin",
+      "Augustine",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-21-18-18",
+    "book": "João",
+    "chapter": 21,
+    "verseStart": 18,
+    "verseEnd": 18,
+    "reference": "João 21,18",
+    "normalizedReference": "joao 21 18",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Origen"
+    ]
+  },
+  {
+    "id": "jo-21-19-23",
+    "book": "João",
+    "chapter": 21,
+    "verseStart": 19,
+    "verseEnd": 23,
+    "reference": "João 21,19-23",
+    "normalizedReference": "joao 21 19 23",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Gloss",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "jo-21-24-25",
+    "book": "João",
+    "chapter": 21,
+    "verseStart": 24,
+    "verseEnd": 25,
+    "reference": "João 21,24-25",
+    "normalizedReference": "joao 21 24 25",
+    "authors": [
+      "Augustine",
+      "Chrysostom"
+    ]
+  },
+  {
+    "id": "lc-1-1-4",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 1,
+    "verseEnd": 4,
+    "reference": "Lucas 1,1-4",
+    "normalizedReference": "lucas 1 1 4",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Eusebius",
+      "Origen",
+      "Theophylact",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-1-5-7",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 5,
+    "verseEnd": 7,
+    "reference": "Lucas 1,5-7",
+    "normalizedReference": "lucas 1 5 7",
+    "authors": [
+      "Ambrose",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-8-10",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 8,
+    "verseEnd": 10,
+    "reference": "Lucas 1,8-10",
+    "normalizedReference": "lucas 1 8 10",
+    "authors": [
+      "Ambrose",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-11-14",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 11,
+    "verseEnd": 14,
+    "reference": "Lucas 1,11-14",
+    "normalizedReference": "lucas 1 11 14",
+    "authors": [
+      "Ambrose",
+      "Athanasius",
+      "Augustine",
+      "Chrysostom",
+      "Damascene",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-15-17",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 15,
+    "verseEnd": 17,
+    "reference": "Lucas 1,15-17",
+    "normalizedReference": "lucas 1 15 17",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-18-22",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 18,
+    "verseEnd": 22,
+    "reference": "Lucas 1,18-22",
+    "normalizedReference": "lucas 1 18 22",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Chrysostom",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-23-25",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 23,
+    "verseEnd": 25,
+    "reference": "Lucas 1,23-25",
+    "normalizedReference": "lucas 1 23 25",
+    "authors": [
+      "Ambrose",
+      "Chrysostom",
+      "It follows",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-26-27",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 26,
+    "verseEnd": 27,
+    "reference": "Lucas 1,26-27",
+    "normalizedReference": "lucas 1 26 27",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Chrysostom",
+      "Gloss",
+      "Gregory",
+      "Idem",
+      "Origen",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-28-29",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 28,
+    "verseEnd": 29,
+    "reference": "Lucas 1,28-29",
+    "normalizedReference": "lucas 1 28 29",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Gregory of Nyssa",
+      "Origen",
+      "Pseudo-Augustine"
+    ]
+  },
+  {
+    "id": "lc-1-30-33",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 30,
+    "verseEnd": 33,
+    "reference": "Lucas 1,30-33",
+    "normalizedReference": "lucas 1 30 33",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Basil",
+      "Chrysostom",
+      "Cyril",
+      "Glosa",
+      "Gregory of Nyssa",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-34-35",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 34,
+    "verseEnd": 35,
+    "reference": "Lucas 1,34-35",
+    "normalizedReference": "lucas 1 34 35",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Athanasius",
+      "Basil",
+      "Chrysostom",
+      "Gregory",
+      "Gregory of Nyssa",
+      "Idem",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-36-38",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 36,
+    "verseEnd": 38,
+    "reference": "Lucas 1,36-38",
+    "normalizedReference": "lucas 1 36 38",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Augustine",
+      "Chrysostom",
+      "Eusebius",
+      "Gregory",
+      "Gregory Naz.",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-39-45",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 39,
+    "verseEnd": 45,
+    "reference": "Lucas 1,39-45",
+    "normalizedReference": "lucas 1 39 45",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Origen",
+      "Theophylact",
+      "Tit. bos"
+    ]
+  },
+  {
+    "id": "lc-1-46-46",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 46,
+    "verseEnd": 46,
+    "reference": "Lucas 1,46",
+    "normalizedReference": "lucas 1 46",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Basil",
+      "Origen"
+    ]
+  },
+  {
+    "id": "lc-1-47-47",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 47,
+    "verseEnd": 47,
+    "reference": "Lucas 1,47",
+    "normalizedReference": "lucas 1 47",
+    "authors": [
+      "Ambrose",
+      "Basil",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-48-48",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 48,
+    "verseEnd": 48,
+    "reference": "Lucas 1,48",
+    "normalizedReference": "lucas 1 48",
+    "authors": [
+      "A Greek expositor",
+      "Athanasius",
+      "Augustine",
+      "Origen",
+      "Theophyl",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-49-49",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 49,
+    "verseEnd": 49,
+    "reference": "Lucas 1,49",
+    "normalizedReference": "lucas 1 49",
+    "authors": [
+      "Augustine",
+      "Basil",
+      "Theophylact",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-1-50-50",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 50,
+    "verseEnd": 50,
+    "reference": "Lucas 1,50",
+    "normalizedReference": "lucas 1 50",
+    "authors": [
+      "A Greek expositor",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-51-51",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 51,
+    "verseEnd": 51,
+    "reference": "Lucas 1,51",
+    "normalizedReference": "lucas 1 51",
+    "authors": [
+      "A Greek expositor",
+      "Cyril of jerus",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-52-52",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 52,
+    "verseEnd": 52,
+    "reference": "Lucas 1,52",
+    "normalizedReference": "lucas 1 52",
+    "authors": [
+      "A Greek expositor",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-53-53",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 53,
+    "verseEnd": 53,
+    "reference": "Lucas 1,53",
+    "normalizedReference": "lucas 1 53",
+    "authors": [
+      "Basil",
+      "Gloss"
+    ]
+  },
+  {
+    "id": "lc-1-54-55",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 54,
+    "verseEnd": 55,
+    "reference": "Lucas 1,54-55",
+    "normalizedReference": "lucas 1 54 55",
+    "authors": [
+      "Basil",
+      "Gloss",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-56-56",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 56,
+    "verseEnd": 56,
+    "reference": "Lucas 1,56",
+    "normalizedReference": "lucas 1 56",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Theophyl",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-57-58",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 57,
+    "verseEnd": 58,
+    "reference": "Lucas 1,57-58",
+    "normalizedReference": "lucas 1 57 58",
+    "authors": [
+      "Ambrose",
+      "Chrysostom"
+    ]
+  },
+  {
+    "id": "lc-1-59-64",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 59,
+    "verseEnd": 64,
+    "reference": "Lucas 1,59-64",
+    "normalizedReference": "lucas 1 59 64",
+    "authors": [
+      "Ambrose",
+      "Chrysostom",
+      "Gregory Naz.",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-65-66",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 65,
+    "verseEnd": 66,
+    "reference": "Lucas 1,65-66",
+    "normalizedReference": "lucas 1 65 66",
+    "authors": [
+      "A Greek expositor",
+      "Gloss",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-67-68",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 67,
+    "verseEnd": 68,
+    "reference": "Lucas 1,67-68",
+    "normalizedReference": "lucas 1 67 68",
+    "authors": [
+      "Ambrose",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-69-69",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 69,
+    "verseEnd": 69,
+    "reference": "Lucas 1,69",
+    "normalizedReference": "lucas 1 69",
+    "authors": [
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-70-70",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 70,
+    "verseEnd": 70,
+    "reference": "Lucas 1,70",
+    "normalizedReference": "lucas 1 70",
+    "authors": [
+      "A Greek expositor",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-71-71",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 71,
+    "verseEnd": 71,
+    "reference": "Lucas 1,71",
+    "normalizedReference": "lucas 1 71",
+    "authors": [
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-72-73",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 72,
+    "verseEnd": 73,
+    "reference": "Lucas 1,72-73",
+    "normalizedReference": "lucas 1 72 73",
+    "authors": [
+      "Basil",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-74-74",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 74,
+    "verseEnd": 74,
+    "reference": "Lucas 1,74",
+    "normalizedReference": "lucas 1 74",
+    "authors": [
+      "Chrysostom",
+      "Origen"
+    ]
+  },
+  {
+    "id": "lc-1-75-75",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 75,
+    "verseEnd": 75,
+    "reference": "Lucas 1,75",
+    "normalizedReference": "lucas 1 75",
+    "authors": [
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-76-76",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 76,
+    "verseEnd": 76,
+    "reference": "Lucas 1,76",
+    "normalizedReference": "lucas 1 76",
+    "authors": [
+      "Ambrose",
+      "Chrysostom",
+      "Gregory",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-77-77",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 77,
+    "verseEnd": 77,
+    "reference": "Lucas 1,77",
+    "normalizedReference": "lucas 1 77",
+    "authors": [
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-78-78",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 78,
+    "verseEnd": 78,
+    "reference": "Lucas 1,78",
+    "normalizedReference": "lucas 1 78",
+    "authors": [
+      "A Greek expositor",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-79-79",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 79,
+    "verseEnd": 79,
+    "reference": "Lucas 1,79",
+    "normalizedReference": "lucas 1 79",
+    "authors": [
+      "Ambrose",
+      "Basil",
+      "Chrysostom",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-1-80-80",
+    "book": "Lucas",
+    "chapter": 1,
+    "verseStart": 80,
+    "verseEnd": 80,
+    "reference": "Lucas 1,80",
+    "normalizedReference": "lucas 1 80",
+    "authors": [
+      "Ambrose",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-2-1-5",
+    "book": "Lucas",
+    "chapter": 2,
+    "verseStart": 1,
+    "verseEnd": 5,
+    "reference": "Lucas 2,1-5",
+    "normalizedReference": "lucas 2 1 5",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Chrysostom",
+      "Cyril",
+      "Gregory",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-2-6-7",
+    "book": "Lucas",
+    "chapter": 2,
+    "verseStart": 6,
+    "verseEnd": 7,
+    "reference": "Lucas 2,6-7",
+    "normalizedReference": "lucas 2 6 7",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Chrysostom",
+      "Cyril",
+      "Gregory",
+      "Gregory of Nyssa",
+      "Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-2-8-12",
+    "book": "Lucas",
+    "chapter": 2,
+    "verseStart": 8,
+    "verseEnd": 12,
+    "reference": "Lucas 2,8-12",
+    "normalizedReference": "lucas 2 8 12",
+    "authors": [
+      "Ambrose",
+      "Chrysostom",
+      "Cyril",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-10-3-4",
+    "book": "Lucas",
+    "chapter": 10,
+    "verseStart": 3,
+    "verseEnd": 4,
+    "reference": "Lucas 10,3-4",
+    "normalizedReference": "lucas 10 3 4",
+    "authors": [
+      "Ambrose",
+      "Chrysostom",
+      "Cyril",
+      "Gregory",
+      "Gregory Naz.",
+      "Isidore",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-10-5-11",
+    "book": "Lucas",
+    "chapter": 10,
+    "verseStart": 5,
+    "verseEnd": 11,
+    "reference": "Lucas 10,5-11",
+    "normalizedReference": "lucas 10 5 11",
+    "authors": [
+      "Ambrose",
+      "Chrysostom",
+      "Eusebius",
+      "Gregory",
+      "Hence it follows",
+      "Max",
+      "Origen",
+      "Theophylact",
+      "Tit bos",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-10-13-16",
+    "book": "Lucas",
+    "chapter": 10,
+    "verseStart": 13,
+    "verseEnd": 16,
+    "reference": "Lucas 10,13-16",
+    "normalizedReference": "lucas 10 13 16",
+    "authors": [
+      "Ambrose",
+      "And in another place",
+      "Augustine",
+      "Chrysostom",
+      "Cyril",
+      "Theophylact",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-10-17-20",
+    "book": "Lucas",
+    "chapter": 10,
+    "verseStart": 17,
+    "verseEnd": 20,
+    "reference": "Lucas 10,17-20",
+    "normalizedReference": "lucas 10 17 20",
+    "authors": [
+      "Athanasius",
+      "Basil",
+      "Chrysostom",
+      "Cyril",
+      "Gregory",
+      "Gregory of Nyssa",
+      "Theophylact",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-10-21-22",
+    "book": "Lucas",
+    "chapter": 10,
+    "verseStart": 21,
+    "verseEnd": 22,
+    "reference": "Lucas 10,21-22",
+    "normalizedReference": "lucas 10 21 22",
+    "authors": [
+      "Ambrose",
+      "Athanasius",
+      "Chrysostom",
+      "Cyril",
+      "Epiphanius",
+      "Gregory",
+      "Origen",
+      "Theophylact",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-10-23-24",
+    "book": "Lucas",
+    "chapter": 10,
+    "verseStart": 23,
+    "verseEnd": 24,
+    "reference": "Lucas 10,23-24",
+    "normalizedReference": "lucas 10 23 24",
+    "authors": [
+      "Chrysostom",
+      "Cyril",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-10-25-28",
+    "book": "Lucas",
+    "chapter": 10,
+    "verseStart": 25,
+    "verseEnd": 28,
+    "reference": "Lucas 10,25-28",
+    "normalizedReference": "lucas 10 25 28",
+    "authors": [
+      "Ambrose",
+      "Basil",
+      "Chrysostom",
+      "Cyril",
+      "Gregory",
+      "Gregory of Nyssa",
+      "Maximus",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-10-29-37",
+    "book": "Lucas",
+    "chapter": 10,
+    "verseStart": 29,
+    "verseEnd": 37,
+    "reference": "Lucas 10,29-37",
+    "normalizedReference": "lucas 10 29 37",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Chrysostom",
+      "Cyril",
+      "Gregory",
+      "Origen",
+      "Pseudo-Augustine",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-10-38-42",
+    "book": "Lucas",
+    "chapter": 10,
+    "verseStart": 38,
+    "verseEnd": 42,
+    "reference": "Lucas 10,38-42",
+    "normalizedReference": "lucas 10 38 42",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Chrysostom",
+      "Cyril",
+      "Gregory",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-11-1-4",
+    "book": "Lucas",
+    "chapter": 11,
+    "verseStart": 1,
+    "verseEnd": 4,
+    "reference": "Lucas 11,1-4",
+    "normalizedReference": "lucas 11 1 4",
+    "authors": [
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gregory Nyss.",
+      "Max",
+      "Origen",
+      "Pseudo-Augustine",
+      "Theophylact",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-11-5-8",
+    "book": "Lucas",
+    "chapter": 11,
+    "verseStart": 5,
+    "verseEnd": 8,
+    "reference": "Lucas 11,5-8",
+    "normalizedReference": "lucas 11 5 8",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Cyril",
+      "Gloss",
+      "Gregory Nyss.",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-11-9-13",
+    "book": "Lucas",
+    "chapter": 11,
+    "verseStart": 9,
+    "verseEnd": 13,
+    "reference": "Lucas 11,9-13",
+    "normalizedReference": "lucas 11 9 13",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Athanasius",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Origen"
+    ]
+  },
+  {
+    "id": "lc-11-14-16",
+    "book": "Lucas",
+    "chapter": 11,
+    "verseStart": 14,
+    "verseEnd": 16,
+    "reference": "Lucas 11,14-16",
+    "normalizedReference": "lucas 11 14 16",
+    "authors": [
+      "Bede",
+      "Cyril",
+      "Gloss",
+      "Theophylact",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-11-17-20",
+    "book": "Lucas",
+    "chapter": 11,
+    "verseStart": 17,
+    "verseEnd": 20,
+    "reference": "Lucas 11,17-20",
+    "normalizedReference": "lucas 11 17 20",
+    "authors": [
+      "Ambrose",
+      "Athanasius",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-11-21-23",
+    "book": "Lucas",
+    "chapter": 11,
+    "verseStart": 21,
+    "verseEnd": 23,
+    "reference": "Lucas 11,21-23",
+    "normalizedReference": "lucas 11 21 23",
+    "authors": [
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-11-24-26",
+    "book": "Lucas",
+    "chapter": 11,
+    "verseStart": 24,
+    "verseEnd": 26,
+    "reference": "Lucas 11,24-26",
+    "normalizedReference": "lucas 11 24 26",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Origen"
+    ]
+  },
+  {
+    "id": "lc-11-27-28",
+    "book": "Lucas",
+    "chapter": 11,
+    "verseStart": 27,
+    "verseEnd": 28,
+    "reference": "Lucas 11,27-28",
+    "normalizedReference": "lucas 11 27 28",
+    "authors": [
+      "Bede",
+      "Chrysostom"
+    ]
+  },
+  {
+    "id": "lc-11-29-32",
+    "book": "Lucas",
+    "chapter": 11,
+    "verseStart": 29,
+    "verseEnd": 32,
+    "reference": "Lucas 11,29-32",
+    "normalizedReference": "lucas 11 29 32",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Gregory Nyss.",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-11-33-36",
+    "book": "Lucas",
+    "chapter": 11,
+    "verseStart": 33,
+    "verseEnd": 36,
+    "reference": "Lucas 11,33-36",
+    "normalizedReference": "lucas 11 33 36",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gregory",
+      "Gregory Naz.",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-11-37-44",
+    "book": "Lucas",
+    "chapter": 11,
+    "verseStart": 37,
+    "verseEnd": 44,
+    "reference": "Lucas 11,37-44",
+    "normalizedReference": "lucas 11 37 44",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyprian",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-11-45-54",
+    "book": "Lucas",
+    "chapter": 11,
+    "verseStart": 45,
+    "verseEnd": 54,
+    "reference": "Lucas 11,45-54",
+    "normalizedReference": "lucas 11 45 54",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Athanasius",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gregory Nyss.",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-12-1-3",
+    "book": "Lucas",
+    "chapter": 12,
+    "verseStart": 1,
+    "verseEnd": 3,
+    "reference": "Lucas 12,1-3",
+    "normalizedReference": "lucas 12 1 3",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gregory Naz.",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-12-4-7",
+    "book": "Lucas",
+    "chapter": 12,
+    "verseStart": 4,
+    "verseEnd": 7,
+    "reference": "Lucas 12,4-7",
+    "normalizedReference": "lucas 12 4 7",
+    "authors": [
+      "Ambrose",
+      "Athanasius",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gloss",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-12-8-12",
+    "book": "Lucas",
+    "chapter": 12,
+    "verseStart": 8,
+    "verseEnd": 12,
+    "reference": "Lucas 12,8-12",
+    "normalizedReference": "lucas 12 8 12",
+    "authors": [
+      "Ambrose",
+      "Athanasius",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Eusebius",
+      "Gloss",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-12-13-15",
+    "book": "Lucas",
+    "chapter": 12,
+    "verseStart": 13,
+    "verseEnd": 15,
+    "reference": "Lucas 12,13-15",
+    "normalizedReference": "lucas 12 13 15",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-12-16-21",
+    "book": "Lucas",
+    "chapter": 12,
+    "verseStart": 16,
+    "verseEnd": 21,
+    "reference": "Lucas 12,16-21",
+    "normalizedReference": "lucas 12 16 21",
+    "authors": [
+      "Ambrose",
+      "Athanasius",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-12-22-23",
+    "book": "Lucas",
+    "chapter": 12,
+    "verseStart": 22,
+    "verseEnd": 23,
+    "reference": "Lucas 12,22-23",
+    "normalizedReference": "lucas 12 22 23",
+    "authors": [
+      "Ambrose",
+      "Chrysostom",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-12-24-26",
+    "book": "Lucas",
+    "chapter": 12,
+    "verseStart": 24,
+    "verseEnd": 26,
+    "reference": "Lucas 12,24-26",
+    "normalizedReference": "lucas 12 24 26",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Eusebius",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-12-27-31",
+    "book": "Lucas",
+    "chapter": 12,
+    "verseStart": 27,
+    "verseEnd": 31,
+    "reference": "Lucas 12,27-31",
+    "normalizedReference": "lucas 12 27 31",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Eusebius",
+      "Gregory of Nyssa",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-12-32-34",
+    "book": "Lucas",
+    "chapter": 12,
+    "verseStart": 32,
+    "verseEnd": 34,
+    "reference": "Lucas 12,32-34",
+    "normalizedReference": "lucas 12 32 34",
+    "authors": [
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Eusebius",
+      "Gloss",
+      "Gregory Naz.",
+      "Gregory of Nyssa",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-12-35-40",
+    "book": "Lucas",
+    "chapter": 12,
+    "verseStart": 35,
+    "verseEnd": 40,
+    "reference": "Lucas 12,35-40",
+    "normalizedReference": "lucas 12 35 40",
+    "authors": [
+      "A Greek expositor",
+      "Augustine",
+      "Cyril",
+      "Dionysius ar",
+      "Gregory",
+      "Gregory of Nyssa",
+      "Maximus",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-12-41-46",
+    "book": "Lucas",
+    "chapter": 12,
+    "verseStart": 41,
+    "verseEnd": 46,
+    "reference": "Lucas 12,41-46",
+    "normalizedReference": "lucas 12 41 46",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Isidore",
+      "Theophyl",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-12-47-48",
+    "book": "Lucas",
+    "chapter": 12,
+    "verseStart": 47,
+    "verseEnd": 48,
+    "reference": "Lucas 12,47-48",
+    "normalizedReference": "lucas 12 47 48",
+    "authors": [
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-12-49-53",
+    "book": "Lucas",
+    "chapter": 12,
+    "verseStart": 49,
+    "verseEnd": 53,
+    "reference": "Lucas 12,49-53",
+    "normalizedReference": "lucas 12 49 53",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gregory",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-12-54-57",
+    "book": "Lucas",
+    "chapter": 12,
+    "verseStart": 54,
+    "verseEnd": 57,
+    "reference": "Lucas 12,54-57",
+    "normalizedReference": "lucas 12 54 57",
+    "authors": [
+      "Basil",
+      "Bede",
+      "Cyril",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-12-58-59",
+    "book": "Lucas",
+    "chapter": 12,
+    "verseStart": 58,
+    "verseEnd": 59,
+    "reference": "Lucas 12,58-59",
+    "normalizedReference": "lucas 12 58 59",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-13-1-5",
+    "book": "Lucas",
+    "chapter": 13,
+    "verseStart": 1,
+    "verseEnd": 5,
+    "reference": "Lucas 13,1-5",
+    "normalizedReference": "lucas 13 1 5",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gloss",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-13-6-9",
+    "book": "Lucas",
+    "chapter": 13,
+    "verseStart": 6,
+    "verseEnd": 9,
+    "reference": "Lucas 13,6-9",
+    "normalizedReference": "lucas 13 6 9",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Gregory",
+      "Gregory Naz.",
+      "Pseudo-Basil",
+      "Theophylact",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-13-10-17",
+    "book": "Lucas",
+    "chapter": 13,
+    "verseStart": 10,
+    "verseEnd": 17,
+    "reference": "Lucas 13,10-17",
+    "normalizedReference": "lucas 13 10 17",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gregory"
+    ]
+  },
+  {
+    "id": "lc-13-18-21",
+    "book": "Lucas",
+    "chapter": 13,
+    "verseStart": 18,
+    "verseEnd": 21,
+    "reference": "Lucas 13,18-21",
+    "normalizedReference": "lucas 13 18 21",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Cyril",
+      "Eusebius",
+      "Gloss",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-13-22-30",
+    "book": "Lucas",
+    "chapter": 13,
+    "verseStart": 22,
+    "verseEnd": 30,
+    "reference": "Lucas 13,22-30",
+    "normalizedReference": "lucas 13 22 30",
+    "authors": [
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Eusebius",
+      "Gloss",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-13-31-35",
+    "book": "Lucas",
+    "chapter": 13,
+    "verseStart": 31,
+    "verseEnd": 35,
+    "reference": "Lucas 13,31-35",
+    "normalizedReference": "lucas 13 31 35",
+    "authors": [
+      "A Greek expositor",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-14-1-6",
+    "book": "Lucas",
+    "chapter": 14,
+    "verseStart": 1,
+    "verseEnd": 6,
+    "reference": "Lucas 14,1-6",
+    "normalizedReference": "lucas 14 1 6",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Cyril",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-14-7-11",
+    "book": "Lucas",
+    "chapter": 14,
+    "verseStart": 7,
+    "verseEnd": 11,
+    "reference": "Lucas 14,7-11",
+    "normalizedReference": "lucas 14 7 11",
+    "authors": [
+      "Ambrose",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-14-12-14",
+    "book": "Lucas",
+    "chapter": 14,
+    "verseStart": 12,
+    "verseEnd": 14,
+    "reference": "Lucas 14,12-14",
+    "normalizedReference": "lucas 14 12 14",
+    "authors": [
+      "Bede",
+      "Chrysostom",
+      "Gregory of Nyssa",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-14-15-24",
+    "book": "Lucas",
+    "chapter": 14,
+    "verseStart": 15,
+    "verseEnd": 24,
+    "reference": "Lucas 14,15-24",
+    "normalizedReference": "lucas 14 15 24",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Cyril",
+      "Eusebius",
+      "Gregory",
+      "Origen",
+      "Pseudo-Basil"
+    ]
+  },
+  {
+    "id": "lc-14-25-27",
+    "book": "Lucas",
+    "chapter": 14,
+    "verseStart": 25,
+    "verseEnd": 27,
+    "reference": "Lucas 14,25-27",
+    "normalizedReference": "lucas 14 25 27",
+    "authors": [
+      "Ambrose",
+      "Basil",
+      "Chrysostom",
+      "Cyril",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-14-28-33",
+    "book": "Lucas",
+    "chapter": 14,
+    "verseStart": 28,
+    "verseEnd": 33,
+    "reference": "Lucas 14,28-33",
+    "normalizedReference": "lucas 14 28 33",
+    "authors": [
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Cyril",
+      "Gregory",
+      "Gregory of Nyssa",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-14-34-35",
+    "book": "Lucas",
+    "chapter": 14,
+    "verseStart": 34,
+    "verseEnd": 35,
+    "reference": "Lucas 14,34-35",
+    "normalizedReference": "lucas 14 34 35",
+    "authors": [
+      "Bede",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-15-1-7",
+    "book": "Lucas",
+    "chapter": 15,
+    "verseStart": 1,
+    "verseEnd": 7,
+    "reference": "Lucas 15,1-7",
+    "normalizedReference": "lucas 15 1 7",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Cyril",
+      "Gloss",
+      "Gregory",
+      "Gregory Nyss.",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-15-8-10",
+    "book": "Lucas",
+    "chapter": 15,
+    "verseStart": 8,
+    "verseEnd": 10,
+    "reference": "Lucas 15,8-10",
+    "normalizedReference": "lucas 15 8 10",
+    "authors": [
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "Gregory Naz.",
+      "Gregory Nyss.",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-15-11-16",
+    "book": "Lucas",
+    "chapter": 15,
+    "verseStart": 11,
+    "verseEnd": 16,
+    "reference": "Lucas 15,11-16",
+    "normalizedReference": "lucas 15 11 16",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gloss",
+      "Theophylact",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-15-17-24",
+    "book": "Lucas",
+    "chapter": 15,
+    "verseStart": 17,
+    "verseEnd": 24,
+    "reference": "Lucas 15,17-24",
+    "normalizedReference": "lucas 15 17 24",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Gregory Nyss.",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-15-25-32",
+    "book": "Lucas",
+    "chapter": 15,
+    "verseStart": 25,
+    "verseEnd": 32,
+    "reference": "Lucas 15,25-32",
+    "normalizedReference": "lucas 15 25 32",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Jerome",
+      "Theophylact",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-16-1-7",
+    "book": "Lucas",
+    "chapter": 16,
+    "verseStart": 1,
+    "verseEnd": 7,
+    "reference": "Lucas 16,1-7",
+    "normalizedReference": "lucas 16 1 7",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Pseudo-Chrysostom",
+      "Pseudo.",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-16-8-13",
+    "book": "Lucas",
+    "chapter": 16,
+    "verseStart": 8,
+    "verseEnd": 13,
+    "reference": "Lucas 16,8-13",
+    "normalizedReference": "lucas 16 8 13",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gregory",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-16-14-18",
+    "book": "Lucas",
+    "chapter": 16,
+    "verseStart": 14,
+    "verseEnd": 18,
+    "reference": "Lucas 16,14-18",
+    "normalizedReference": "lucas 16 14 18",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Eusebius",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-16-19-21",
+    "book": "Lucas",
+    "chapter": 16,
+    "verseStart": 19,
+    "verseEnd": 21,
+    "reference": "Lucas 16,19-21",
+    "normalizedReference": "lucas 16 19 21",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gregory",
+      "Pseudo-Chrysostom"
+    ]
+  },
+  {
+    "id": "lc-16-22-26",
+    "book": "Lucas",
+    "chapter": 16,
+    "verseStart": 22,
+    "verseEnd": 26,
+    "reference": "Lucas 16,22-26",
+    "normalizedReference": "lucas 16 22 26",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Chrysostom",
+      "Gregory",
+      "Gregory Nyss.",
+      "Pseudo-Basil",
+      "Pseudo-Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-16-27-31",
+    "book": "Lucas",
+    "chapter": 16,
+    "verseStart": 27,
+    "verseEnd": 31,
+    "reference": "Lucas 16,27-31",
+    "normalizedReference": "lucas 16 27 31",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Chrysostom",
+      "Gregory",
+      "Gregory Nyss."
+    ]
+  },
+  {
+    "id": "lc-17-1-2",
+    "book": "Lucas",
+    "chapter": 17,
+    "verseStart": 1,
+    "verseEnd": 2,
+    "reference": "Lucas 17,1-2",
+    "normalizedReference": "lucas 17 1 2",
+    "authors": [
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-17-3-4",
+    "book": "Lucas",
+    "chapter": 17,
+    "verseStart": 3,
+    "verseEnd": 4,
+    "reference": "Lucas 17,3-4",
+    "normalizedReference": "lucas 17 3 4",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-17-5-6",
+    "book": "Lucas",
+    "chapter": 17,
+    "verseStart": 5,
+    "verseEnd": 6,
+    "reference": "Lucas 17,5-6",
+    "normalizedReference": "lucas 17 5 6",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-17-7-10",
+    "book": "Lucas",
+    "chapter": 17,
+    "verseStart": 7,
+    "verseEnd": 10,
+    "reference": "Lucas 17,7-10",
+    "normalizedReference": "lucas 17 7 10",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-17-20-21",
+    "book": "Lucas",
+    "chapter": 17,
+    "verseStart": 20,
+    "verseEnd": 21,
+    "reference": "Lucas 17,20-21",
+    "normalizedReference": "lucas 17 20 21",
+    "authors": [
+      "Bede",
+      "Cyril",
+      "Gregory Nyss."
+    ]
+  },
+  {
+    "id": "lc-17-22-25",
+    "book": "Lucas",
+    "chapter": 17,
+    "verseStart": 22,
+    "verseEnd": 25,
+    "reference": "Lucas 17,22-25",
+    "normalizedReference": "lucas 17 22 25",
+    "authors": [
+      "Bede",
+      "Cyril",
+      "Eusebius",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-17-26-30",
+    "book": "Lucas",
+    "chapter": 17,
+    "verseStart": 26,
+    "verseEnd": 30,
+    "reference": "Lucas 17,26-30",
+    "normalizedReference": "lucas 17 26 30",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Chrysostom",
+      "Eusebius",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-17-31-33",
+    "book": "Lucas",
+    "chapter": 17,
+    "verseStart": 31,
+    "verseEnd": 33,
+    "reference": "Lucas 17,31-33",
+    "normalizedReference": "lucas 17 31 33",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Cyril",
+      "Eusebius",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-17-34-37",
+    "book": "Lucas",
+    "chapter": 17,
+    "verseStart": 34,
+    "verseEnd": 37,
+    "reference": "Lucas 17,34-37",
+    "normalizedReference": "lucas 17 34 37",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Cyril",
+      "Eusebius",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-18-1-8",
+    "book": "Lucas",
+    "chapter": 18,
+    "verseStart": 1,
+    "verseEnd": 8,
+    "reference": "Lucas 18,1-8",
+    "normalizedReference": "lucas 18 1 8",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-18-9-14",
+    "book": "Lucas",
+    "chapter": 18,
+    "verseStart": 9,
+    "verseEnd": 14,
+    "reference": "Lucas 18,9-14",
+    "normalizedReference": "lucas 18 9 14",
+    "authors": [
+      "A Greek expositor",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-18-15-17",
+    "book": "Lucas",
+    "chapter": 18,
+    "verseStart": 15,
+    "verseEnd": 17,
+    "reference": "Lucas 18,15-17",
+    "normalizedReference": "lucas 18 15 17",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-18-18-23",
+    "book": "Lucas",
+    "chapter": 18,
+    "verseStart": 18,
+    "verseEnd": 23,
+    "reference": "Lucas 18,18-23",
+    "normalizedReference": "lucas 18 18 23",
+    "authors": [
+      "Ambrose",
+      "Athanasius",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Jerome",
+      "Theophylact",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-18-24-30",
+    "book": "Lucas",
+    "chapter": 18,
+    "verseStart": 24,
+    "verseEnd": 30,
+    "reference": "Lucas 18,24-30",
+    "normalizedReference": "lucas 18 24 30",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-18-31-33",
+    "book": "Lucas",
+    "chapter": 18,
+    "verseStart": 31,
+    "verseEnd": 33,
+    "reference": "Lucas 18,31-33",
+    "normalizedReference": "lucas 18 31 33",
+    "authors": [
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gregory",
+      "Isidore"
+    ]
+  },
+  {
+    "id": "lc-18-34-43",
+    "book": "Lucas",
+    "chapter": 18,
+    "verseStart": 34,
+    "verseEnd": 43,
+    "reference": "Lucas 18,34-43",
+    "normalizedReference": "lucas 18 34 43",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Cyril",
+      "Gregory",
+      "Pseudo-Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-19-1-10",
+    "book": "Lucas",
+    "chapter": 19,
+    "verseStart": 1,
+    "verseEnd": 10,
+    "reference": "Lucas 19,1-10",
+    "normalizedReference": "lucas 19 1 10",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Cyril",
+      "Gregory",
+      "Pseudo-Chrysostom",
+      "Theophylact",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-19-11-27",
+    "book": "Lucas",
+    "chapter": 19,
+    "verseStart": 11,
+    "verseEnd": 27,
+    "reference": "Lucas 19,11-27",
+    "normalizedReference": "lucas 19 11 27",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Eusebius",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-19-28-36",
+    "book": "Lucas",
+    "chapter": 19,
+    "verseStart": 28,
+    "verseEnd": 36,
+    "reference": "Lucas 19,28-36",
+    "normalizedReference": "lucas 19 28 36",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gloss",
+      "Origen",
+      "Theophylact",
+      "Titus",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-19-37-40",
+    "book": "Lucas",
+    "chapter": 19,
+    "verseStart": 37,
+    "verseEnd": 40,
+    "reference": "Lucas 19,37-40",
+    "normalizedReference": "lucas 19 37 40",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Cyril",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-19-41-44",
+    "book": "Lucas",
+    "chapter": 19,
+    "verseStart": 41,
+    "verseEnd": 44,
+    "reference": "Lucas 19,41-44",
+    "normalizedReference": "lucas 19 41 44",
+    "authors": [
+      "Cyril",
+      "Eusebius",
+      "Gregory",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-19-45-48",
+    "book": "Lucas",
+    "chapter": 19,
+    "verseStart": 45,
+    "verseEnd": 48,
+    "reference": "Lucas 19,45-48",
+    "normalizedReference": "lucas 19 45 48",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Cyril",
+      "Gregory",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-20-1-8",
+    "book": "Lucas",
+    "chapter": 20,
+    "verseStart": 1,
+    "verseEnd": 8,
+    "reference": "Lucas 20,1-8",
+    "normalizedReference": "lucas 20 1 8",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Eusebius",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-20-9-18",
+    "book": "Lucas",
+    "chapter": 20,
+    "verseStart": 9,
+    "verseEnd": 18,
+    "reference": "Lucas 20,9-18",
+    "normalizedReference": "lucas 20 9 18",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "But He does not stop here, for it follows, And again he sent a third",
+      "Chrysostom",
+      "Cyril",
+      "Eusebius",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-20-19-26",
+    "book": "Lucas",
+    "chapter": 20,
+    "verseStart": 19,
+    "verseEnd": 26,
+    "reference": "Lucas 20,19-26",
+    "normalizedReference": "lucas 20 19 26",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Cyril",
+      "Origen",
+      "Theophylact",
+      "Titus"
+    ]
+  },
+  {
+    "id": "lc-20-27-40",
+    "book": "Lucas",
+    "chapter": 20,
+    "verseStart": 27,
+    "verseEnd": 40,
+    "reference": "Lucas 20,27-40",
+    "normalizedReference": "lucas 20 27 40",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-20-41-44",
+    "book": "Lucas",
+    "chapter": 20,
+    "verseStart": 41,
+    "verseEnd": 44,
+    "reference": "Lucas 20,41-44",
+    "normalizedReference": "lucas 20 41 44",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Chrysostom",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-20-45-47",
+    "book": "Lucas",
+    "chapter": 20,
+    "verseStart": 45,
+    "verseEnd": 47,
+    "reference": "Lucas 20,45-47",
+    "normalizedReference": "lucas 20 45 47",
+    "authors": [
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-21-1-4",
+    "book": "Lucas",
+    "chapter": 21,
+    "verseStart": 1,
+    "verseEnd": 4,
+    "reference": "Lucas 21,1-4",
+    "normalizedReference": "lucas 21 1 4",
+    "authors": [
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gloss",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-21-5-8",
+    "book": "Lucas",
+    "chapter": 21,
+    "verseStart": 5,
+    "verseEnd": 8,
+    "reference": "Lucas 21,5-8",
+    "normalizedReference": "lucas 21 5 8",
+    "authors": [
+      "Ambrose",
+      "Athanasius",
+      "Bede",
+      "Cyril",
+      "Eusebius",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-21-9-11",
+    "book": "Lucas",
+    "chapter": 21,
+    "verseStart": 9,
+    "verseEnd": 11,
+    "reference": "Lucas 21,9-11",
+    "normalizedReference": "lucas 21 9 11",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-21-12-19",
+    "book": "Lucas",
+    "chapter": 21,
+    "verseStart": 12,
+    "verseEnd": 19,
+    "reference": "Lucas 21,12-19",
+    "normalizedReference": "lucas 21 12 19",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Cyril",
+      "Gregory",
+      "Gregory of Nyssa",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-21-20-24",
+    "book": "Lucas",
+    "chapter": 21,
+    "verseStart": 20,
+    "verseEnd": 24,
+    "reference": "Lucas 21,20-24",
+    "normalizedReference": "lucas 21 20 24",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Eusebius",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-21-25-27",
+    "book": "Lucas",
+    "chapter": 21,
+    "verseStart": 25,
+    "verseEnd": 27,
+    "reference": "Lucas 21,25-27",
+    "normalizedReference": "lucas 21 25 27",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Eusebius",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-21-28-33",
+    "book": "Lucas",
+    "chapter": 21,
+    "verseStart": 28,
+    "verseEnd": 33,
+    "reference": "Lucas 21,28-33",
+    "normalizedReference": "lucas 21 28 33",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Eusebius",
+      "Gregory",
+      "Theophylact",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-21-34-36",
+    "book": "Lucas",
+    "chapter": 21,
+    "verseStart": 34,
+    "verseEnd": 36,
+    "reference": "Lucas 21,34-36",
+    "normalizedReference": "lucas 21 34 36",
+    "authors": [
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Clem. alex",
+      "Eusebius",
+      "Theophylact",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-21-37-38",
+    "book": "Lucas",
+    "chapter": 21,
+    "verseStart": 37,
+    "verseEnd": 38,
+    "reference": "Lucas 21,37-38",
+    "normalizedReference": "lucas 21 37 38",
+    "authors": [
+      "Bede",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-22-1-2",
+    "book": "Lucas",
+    "chapter": 22,
+    "verseStart": 1,
+    "verseEnd": 2,
+    "reference": "Lucas 22,1-2",
+    "normalizedReference": "lucas 22 1 2",
+    "authors": [
+      "Bede",
+      "Chrysostom",
+      "Gloss"
+    ]
+  },
+  {
+    "id": "lc-22-3-6",
+    "book": "Lucas",
+    "chapter": 22,
+    "verseStart": 3,
+    "verseEnd": 6,
+    "reference": "Lucas 22,3-6",
+    "normalizedReference": "lucas 22 3 6",
+    "authors": [
+      "Bede",
+      "Chrysostom",
+      "Theophylact",
+      "Tit bost",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-22-7-13",
+    "book": "Lucas",
+    "chapter": 22,
+    "verseStart": 7,
+    "verseEnd": 13,
+    "reference": "Lucas 22,7-13",
+    "normalizedReference": "lucas 22 7 13",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Chrysostom",
+      "Eusebius",
+      "Gloss",
+      "Origen",
+      "Theophylact",
+      "Titus of Bostra"
+    ]
+  },
+  {
+    "id": "lc-22-14-18",
+    "book": "Lucas",
+    "chapter": 22,
+    "verseStart": 14,
+    "verseEnd": 18,
+    "reference": "Lucas 22,14-18",
+    "normalizedReference": "lucas 22 14 18",
+    "authors": [
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Epiphanius",
+      "Eusebius",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-22-19-20",
+    "book": "Lucas",
+    "chapter": 22,
+    "verseStart": 19,
+    "verseEnd": 20,
+    "reference": "Lucas 22,19-20",
+    "normalizedReference": "lucas 22 19 20",
+    "authors": [
+      "A Greek expositor",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gregory of Nyssa",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-22-21-23",
+    "book": "Lucas",
+    "chapter": 22,
+    "verseStart": 21,
+    "verseEnd": 23,
+    "reference": "Lucas 22,21-23",
+    "normalizedReference": "lucas 22 21 23",
+    "authors": [
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-22-24-27",
+    "book": "Lucas",
+    "chapter": 22,
+    "verseStart": 24,
+    "verseEnd": 27,
+    "reference": "Lucas 22,24-27",
+    "normalizedReference": "lucas 22 24 27",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-22-28-30",
+    "book": "Lucas",
+    "chapter": 22,
+    "verseStart": 28,
+    "verseEnd": 30,
+    "reference": "Lucas 22,28-30",
+    "normalizedReference": "lucas 22 28 30",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-22-31-34",
+    "book": "Lucas",
+    "chapter": 22,
+    "verseStart": 31,
+    "verseEnd": 34,
+    "reference": "Lucas 22,31-34",
+    "normalizedReference": "lucas 22 31 34",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-22-35-38",
+    "book": "Lucas",
+    "chapter": 22,
+    "verseStart": 35,
+    "verseEnd": 38,
+    "reference": "Lucas 22,35-38",
+    "normalizedReference": "lucas 22 35 38",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Basil",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-22-39-42",
+    "book": "Lucas",
+    "chapter": 22,
+    "verseStart": 39,
+    "verseEnd": 42,
+    "reference": "Lucas 22,39-42",
+    "normalizedReference": "lucas 22 39 42",
+    "authors": [
+      "Ambrose",
+      "Athanasius",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Dion. alex",
+      "Gregory of Nyssa",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-22-43-46",
+    "book": "Lucas",
+    "chapter": 22,
+    "verseStart": 43,
+    "verseEnd": 46,
+    "reference": "Lucas 22,43-46",
+    "normalizedReference": "lucas 22 43 46",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-22-47-53",
+    "book": "Lucas",
+    "chapter": 22,
+    "verseStart": 47,
+    "verseEnd": 53,
+    "reference": "Lucas 22,47-53",
+    "normalizedReference": "lucas 22 47 53",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gloss",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-22-54-62",
+    "book": "Lucas",
+    "chapter": 22,
+    "verseStart": 54,
+    "verseEnd": 62,
+    "reference": "Lucas 22,54-62",
+    "normalizedReference": "lucas 22 54 62",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Pseudo-Augustine"
+    ]
+  },
+  {
+    "id": "lc-22-63-71",
+    "book": "Lucas",
+    "chapter": 22,
+    "verseStart": 63,
+    "verseEnd": 71,
+    "reference": "Lucas 22,63-71",
+    "normalizedReference": "lucas 22 63 71",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-23-1-5",
+    "book": "Lucas",
+    "chapter": 23,
+    "verseStart": 1,
+    "verseEnd": 5,
+    "reference": "Lucas 23,1-5",
+    "normalizedReference": "lucas 23 1 5",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-23-6-12",
+    "book": "Lucas",
+    "chapter": 23,
+    "verseStart": 6,
+    "verseEnd": 12,
+    "reference": "Lucas 23,6-12",
+    "normalizedReference": "lucas 23 6 12",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-23-13-25",
+    "book": "Lucas",
+    "chapter": 23,
+    "verseStart": 13,
+    "verseEnd": 25,
+    "reference": "Lucas 23,13-25",
+    "normalizedReference": "lucas 23 13 25",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-23-26-32",
+    "book": "Lucas",
+    "chapter": 23,
+    "verseStart": 26,
+    "verseEnd": 32,
+    "reference": "Lucas 23,26-32",
+    "normalizedReference": "lucas 23 26 32",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Cyril",
+      "Gloss",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-23-33-33",
+    "book": "Lucas",
+    "chapter": 23,
+    "verseStart": 33,
+    "verseEnd": 33,
+    "reference": "Lucas 23,33",
+    "normalizedReference": "lucas 23 33",
+    "authors": [
+      "Athanasius",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Eusebius",
+      "Gregory of Nyssa",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-23-34-37",
+    "book": "Lucas",
+    "chapter": 23,
+    "verseStart": 34,
+    "verseEnd": 37,
+    "reference": "Lucas 23,34-37",
+    "normalizedReference": "lucas 23 34 37",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Athanasius",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-23-38-43",
+    "book": "Lucas",
+    "chapter": 23,
+    "verseStart": 38,
+    "verseEnd": 43,
+    "reference": "Lucas 23,38-43",
+    "normalizedReference": "lucas 23 38 43",
+    "authors": [
+      "Ambrose",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Gregory",
+      "Gregory of Nyssa",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-23-44-46",
+    "book": "Lucas",
+    "chapter": 23,
+    "verseStart": 44,
+    "verseEnd": 46,
+    "reference": "Lucas 23,44-46",
+    "normalizedReference": "lucas 23 44 46",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Athanasius",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Dionys",
+      "Gregory of Nyssa",
+      "John of Damascus",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-23-47-49",
+    "book": "Lucas",
+    "chapter": 23,
+    "verseStart": 47,
+    "verseEnd": 49,
+    "reference": "Lucas 23,47-49",
+    "normalizedReference": "lucas 23 47 49",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-23-50-56",
+    "book": "Lucas",
+    "chapter": 23,
+    "verseStart": 50,
+    "verseEnd": 56,
+    "reference": "Lucas 23,50-56",
+    "normalizedReference": "lucas 23 50 56",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Athanasius",
+      "Augustine",
+      "Bede",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-24-1-12",
+    "book": "Lucas",
+    "chapter": 24,
+    "verseStart": 1,
+    "verseEnd": 12,
+    "reference": "Lucas 24,1-12",
+    "normalizedReference": "lucas 24 1 12",
+    "authors": [
+      "Ambrose",
+      "Athanasius",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Eusebius",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-24-13-24",
+    "book": "Lucas",
+    "chapter": 24,
+    "verseStart": 13,
+    "verseEnd": 24,
+    "reference": "Lucas 24,13-24",
+    "normalizedReference": "lucas 24 13 24",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Gloss",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-24-25-35",
+    "book": "Lucas",
+    "chapter": 24,
+    "verseStart": 25,
+    "verseEnd": 35,
+    "reference": "Lucas 24,25-35",
+    "normalizedReference": "lucas 24 25 35",
+    "authors": [
+      "A Greek expositor",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Gloss",
+      "Gregory",
+      "Isidore of Pelusium",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-24-36-40",
+    "book": "Lucas",
+    "chapter": 24,
+    "verseStart": 36,
+    "verseEnd": 40,
+    "reference": "Lucas 24,36-40",
+    "normalizedReference": "lucas 24 36 40",
+    "authors": [
+      "A Greek expositor",
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Cyril",
+      "Eusebius",
+      "Gregory",
+      "Gregory Naz.",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-24-41-44",
+    "book": "Lucas",
+    "chapter": 24,
+    "verseStart": 41,
+    "verseEnd": 44,
+    "reference": "Lucas 24,41-44",
+    "normalizedReference": "lucas 24 41 44",
+    "authors": [
+      "A Greek expositor",
+      "Augustine",
+      "Bede",
+      "Cyril",
+      "Gregory of Nyssa",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-24-45-49",
+    "book": "Lucas",
+    "chapter": 24,
+    "verseStart": 45,
+    "verseEnd": 49,
+    "reference": "Lucas 24,45-49",
+    "normalizedReference": "lucas 24 45 49",
+    "authors": [
+      "Ambrose",
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Eusebius",
+      "Gregory",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "lc-24-50-53",
+    "book": "Lucas",
+    "chapter": 24,
+    "verseStart": 50,
+    "verseEnd": 53,
+    "reference": "Lucas 24,50-53",
+    "normalizedReference": "lucas 24 50 53",
+    "authors": [
+      "A Greek expositor",
+      "Bede",
+      "Chrysostom",
+      "Origen",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-1-1-1",
+    "book": "Marcos",
+    "chapter": 1,
+    "verseStart": 1,
+    "verseEnd": 1,
+    "reference": "Marcos 1,1",
+    "normalizedReference": "marcos 1 1",
+    "authors": [
+      "Bede, in Marc., i, 1",
+      "Hilary, de Trin., iii, 11",
+      "Jerome, in Prolog",
+      "Pseudo-Jerome"
+    ]
+  },
+  {
+    "id": "mc-1-2-3",
+    "book": "Marcos",
+    "chapter": 1,
+    "verseStart": 2,
+    "verseEnd": 3,
+    "reference": "Marcos 1,2-3",
+    "normalizedReference": "marcos 1 2 3",
+    "authors": [
+      "Bede",
+      "Jerome",
+      "Jerome, Hierom. ad Pammach, Epist 57",
+      "Pseudo-Aug., Quaest. nov. et vet. Test. lvii",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-1-4-8",
+    "book": "Marcos",
+    "chapter": 1,
+    "verseStart": 4,
+    "verseEnd": 8,
+    "reference": "Marcos 1,4-8",
+    "normalizedReference": "marcos 1 4 8",
+    "authors": [
+      "Bede",
+      "Gloss",
+      "Gregory",
+      "Gregory, Moral., xxxi, 25",
+      "Jerome",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-1-9-11",
+    "book": "Marcos",
+    "chapter": 1,
+    "verseStart": 9,
+    "verseEnd": 11,
+    "reference": "Marcos 1,9-11",
+    "normalizedReference": "marcos 1 9 11",
+    "authors": [
+      "Augustine, de Con. Ev., ii, 14",
+      "Bede",
+      "Bede, in Marc., i, 4",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome"
+    ]
+  },
+  {
+    "id": "mc-1-12-13",
+    "book": "Marcos",
+    "chapter": 1,
+    "verseStart": 12,
+    "verseEnd": 13,
+    "reference": "Marcos 1,12-13",
+    "normalizedReference": "marcos 1 12 13",
+    "authors": [
+      "Bede",
+      "Bede, in Marc., 1, 5",
+      "Chrys., Hom. in Matt., xiii",
+      "Chrys., in Matt., Hom., xiii",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome"
+    ]
+  },
+  {
+    "id": "mc-1-14-15",
+    "book": "Marcos",
+    "chapter": 1,
+    "verseStart": 14,
+    "verseEnd": 15,
+    "reference": "Marcos 1,14-15",
+    "normalizedReference": "marcos 1 14 15",
+    "authors": [
+      "Bede",
+      "Origen, in Matt., tom. x, 14",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Chrysostom, vict. Ant. Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-1-16-20",
+    "book": "Marcos",
+    "chapter": 1,
+    "verseStart": 16,
+    "verseEnd": 20,
+    "reference": "Marcos 1,16-20",
+    "normalizedReference": "marcos 1 16 20",
+    "authors": [
+      "Bede",
+      "Bede, in Marc., 1, 6",
+      "Gloss",
+      "Pseudo-Jerome",
+      "Remigius",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-1-21-22",
+    "book": "Marcos",
+    "chapter": 1,
+    "verseStart": 21,
+    "verseEnd": 22,
+    "reference": "Marcos 1,21-22",
+    "normalizedReference": "marcos 1 21 22",
+    "authors": [
+      "Bede",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-1-23-28",
+    "book": "Marcos",
+    "chapter": 1,
+    "verseStart": 23,
+    "verseEnd": 28,
+    "reference": "Marcos 1,23-28",
+    "normalizedReference": "marcos 1 23 28",
+    "authors": [
+      "Augustine",
+      "Augustine, City of God, 21",
+      "Bede",
+      "Bede, in Marc., 1, 7",
+      "Gloss",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-1-29-31",
+    "book": "Marcos",
+    "chapter": 1,
+    "verseStart": 29,
+    "verseEnd": 31,
+    "reference": "Marcos 1,29-31",
+    "normalizedReference": "marcos 1 29 31",
+    "authors": [
+      "Bede",
+      "Bede, in Marc., 1, 6",
+      "Bede, in Marc., 1, 7",
+      "Bede, in Marc., 1, 8",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc., 1, 32",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-1-32-34",
+    "book": "Marcos",
+    "chapter": 1,
+    "verseStart": 32,
+    "verseEnd": 34,
+    "reference": "Marcos 1,32-34",
+    "normalizedReference": "marcos 1 32 34",
+    "authors": [
+      "Bede",
+      "Pseudo-Augustine, Quaest. e Vet. et Nov. Test. 16",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-1-35-39",
+    "book": "Marcos",
+    "chapter": 1,
+    "verseStart": 35,
+    "verseEnd": 39,
+    "reference": "Marcos 1,35-39",
+    "normalizedReference": "marcos 1 35 39",
+    "authors": [
+      "And therefore there follows",
+      "Augustine, de Con. Evan., ii, 19",
+      "Bede",
+      "For there follows",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-1-40-45",
+    "book": "Marcos",
+    "chapter": 1,
+    "verseStart": 40,
+    "verseEnd": 45,
+    "reference": "Marcos 1,40-45",
+    "normalizedReference": "marcos 1 40 45",
+    "authors": [
+      "Augustine, de Con. Evan., ii, 19",
+      "Bede",
+      "Bede, in Marc., i, 10",
+      "Bede, in Marc., i, 7",
+      "Bede, in Marc., i, 9",
+      "Bede, see Greg., Moral., 19, 22",
+      "Chrys., Hom 25",
+      "Chrys., Hom. in Matt., 25",
+      "Chrysostom",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-2-1-12",
+    "book": "Marcos",
+    "chapter": 2,
+    "verseStart": 1,
+    "verseEnd": 12,
+    "reference": "Marcos 2,1-12",
+    "normalizedReference": "marcos 2 1 12",
+    "authors": [
+      "And this is that which is added",
+      "Augustine, de Con. Evan., ii, 25",
+      "Bede",
+      "Bede, in Marc., 1, 10",
+      "Chrysostom",
+      "It goes on",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Psuedo-Chrys., Vict. Ant. e Cat. in Marc.",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-2-13-17",
+    "book": "Marcos",
+    "chapter": 2,
+    "verseStart": 13,
+    "verseEnd": 17,
+    "reference": "Marcos 2,13-17",
+    "normalizedReference": "marcos 2 13 17",
+    "authors": [
+      "Bede",
+      "Bede, in Marc. i, 12",
+      "Bede, in Marc., 11",
+      "Chrysostom",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-2-18-22",
+    "book": "Marcos",
+    "chapter": 2,
+    "verseStart": 18,
+    "verseEnd": 22,
+    "reference": "Marcos 2,18-22",
+    "normalizedReference": "marcos 2 18 22",
+    "authors": [
+      "Augustine",
+      "Augustine, de Con. Evan., ii, 27",
+      "Bede",
+      "Chrysostom",
+      "Gloss",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-2-23-28",
+    "book": "Marcos",
+    "chapter": 2,
+    "verseStart": 23,
+    "verseEnd": 28,
+    "reference": "Marcos 2,23-28",
+    "normalizedReference": "marcos 2 23 28",
+    "authors": [
+      "Augustine, de Op. Monach., 23",
+      "Bede",
+      "Bede, in Marc., 1, 13",
+      "Chrys., see Hom. in Matt., 39",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-3-1-5",
+    "book": "Marcos",
+    "chapter": 3,
+    "verseStart": 1,
+    "verseEnd": 5,
+    "reference": "Marcos 3,1-5",
+    "normalizedReference": "marcos 3 1 5",
+    "authors": [
+      "Augustine, de Con. Evan., ii, 35",
+      "Bede",
+      "Bede, in Marc., 1, 14",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc., see Chrys, Hom. in Matt., 40",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-3-6-12",
+    "book": "Marcos",
+    "chapter": 3,
+    "verseStart": 6,
+    "verseEnd": 12,
+    "reference": "Marcos 3,6-12",
+    "normalizedReference": "marcos 3 6 12",
+    "authors": [
+      "Bede",
+      "Bede, in Marc., 1, 15",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-3-13-18",
+    "book": "Marcos",
+    "chapter": 3,
+    "verseStart": 13,
+    "verseEnd": 18,
+    "reference": "Marcos 3,13-18",
+    "normalizedReference": "marcos 3 13 18",
+    "authors": [
+      "Augustine, de Con. Evan. ii, 17",
+      "Bede",
+      "Bede, in Marc., 1, 16",
+      "It goes on",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Pseudo-Jerome, Gen. 27:36 see Catena Aurea, Matt. 10:2",
+      "Theophylact",
+      "There follows"
+    ]
+  },
+  {
+    "id": "mc-3-19-22",
+    "book": "Marcos",
+    "chapter": 3,
+    "verseStart": 19,
+    "verseEnd": 22,
+    "reference": "Marcos 3,19-22",
+    "normalizedReference": "marcos 3 19 22",
+    "authors": [
+      "Bede",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-3-23-30",
+    "book": "Marcos",
+    "chapter": 3,
+    "verseStart": 23,
+    "verseEnd": 30,
+    "reference": "Marcos 3,23-30",
+    "normalizedReference": "marcos 3 23 30",
+    "authors": [
+      "Augustine, Serm., 71, 12, 22",
+      "Bede",
+      "Bede, in Marc., 1, 17",
+      "Gloss",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-3-31-35",
+    "book": "Marcos",
+    "chapter": 3,
+    "verseStart": 31,
+    "verseEnd": 35,
+    "reference": "Marcos 3,31-35",
+    "normalizedReference": "marcos 3 31 35",
+    "authors": [
+      "Bede",
+      "Bede; see Ambr. in Luc. 6, 36",
+      "Chrysostom",
+      "Pseudo-Chrys., Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Wherefore it goes on"
+    ]
+  },
+  {
+    "id": "mc-4-1-2",
+    "book": "Marcos",
+    "chapter": 4,
+    "verseStart": 1,
+    "verseEnd": 2,
+    "reference": "Marcos 4,1-2",
+    "normalizedReference": "marcos 4 1 2",
+    "authors": [
+      "Aug., Lib. 83. Quest. q. 81",
+      "Aug., Serm. 210, 2",
+      "Aug., de Trin., 4, 13",
+      "Chrys., Hom. 13",
+      "Chrysostom",
+      "Gloss. ap. Anselm",
+      "Greg., Hom. in Ev., 16, 1",
+      "Greg., Hom. in Ev., 16, 5",
+      "Gregory",
+      "Hilary",
+      "Jerome",
+      "Pseudo-Chrysostom"
+    ]
+  },
+  {
+    "id": "mc-4-3-4",
+    "book": "Marcos",
+    "chapter": 4,
+    "verseStart": 3,
+    "verseEnd": 4,
+    "reference": "Marcos 4,3-4",
+    "normalizedReference": "marcos 4 3 4",
+    "authors": [
+      "Ambrose, Ambros. in Luc., c. 4. 3",
+      "Gregory",
+      "Hilary",
+      "Jerome",
+      "Leo, Serm. 39, 3",
+      "Pseudo-Chrysostom",
+      "Rabanus"
+    ]
+  },
+  {
+    "id": "mc-4-5-7",
+    "book": "Marcos",
+    "chapter": 4,
+    "verseStart": 5,
+    "verseEnd": 7,
+    "reference": "Marcos 4,5-7",
+    "normalizedReference": "marcos 4 5 7",
+    "authors": [
+      "Ambrose",
+      "Aug., contr. Faust., 22, 36",
+      "Chrysostom",
+      "Gloss. ap. Anselm",
+      "Gloss. ord.",
+      "Gloss., ap Anselm",
+      "Gregory",
+      "Hilary",
+      "Jerome",
+      "Pseudo-Chrysostom",
+      "Rabanus",
+      "Remigius",
+      "Theod. non occ."
+    ]
+  },
+  {
+    "id": "mc-4-8-11",
+    "book": "Marcos",
+    "chapter": 4,
+    "verseStart": 8,
+    "verseEnd": 11,
+    "reference": "Marcos 4,8-11",
+    "normalizedReference": "marcos 4 8 11",
+    "authors": [
+      "Ambrose, in Luc., c. iv, 11",
+      "Aug., City of God, book 10, ch. 1",
+      "Aug., City of God, book 9, ch. 21",
+      "Aug., cont. Serm. Arian, 29",
+      "Aug., de Cons. Evan., ii, 16",
+      "Gloss. ap. Anselm",
+      "Gloss. non occ.",
+      "Gloss. ord.",
+      "Gregory, non occ. vid. in Ezek. i. 8. n. 24. in 1 Reg. i. I. n. 1. 2",
+      "Hilary",
+      "Jerome",
+      "Origen, in Luc., Hom. 30",
+      "Pseudo-Chrysostom",
+      "Rabanus",
+      "Remigius"
+    ]
+  },
+  {
+    "id": "mc-4-12-16",
+    "book": "Marcos",
+    "chapter": 4,
+    "verseStart": 12,
+    "verseEnd": 16,
+    "reference": "Marcos 4,12-16",
+    "normalizedReference": "marcos 4 12 16",
+    "authors": [
+      "Aug., de Cons. Evan., ii, 17",
+      "Chrysostom",
+      "Euseb., H. E. iii. 24",
+      "Gloss. ap. Anselm",
+      "Gloss. ord.",
+      "Jerome, Hieron.",
+      "Jerome, Hieron. in Esai. c. 9. 1",
+      "Pseudo-Chrysostom",
+      "Rabanus",
+      "Rabanus, ap. Anselm",
+      "Remigius"
+    ]
+  },
+  {
+    "id": "mc-4-17-17",
+    "book": "Marcos",
+    "chapter": 4,
+    "verseStart": 17,
+    "verseEnd": 17,
+    "reference": "Marcos 4,17",
+    "normalizedReference": "marcos 4 17",
+    "authors": [
+      "Chrysostom",
+      "Jerome",
+      "Pseudo-Chrysostom",
+      "Rabanus",
+      "Remigius"
+    ]
+  },
+  {
+    "id": "mc-4-18-22",
+    "book": "Marcos",
+    "chapter": 4,
+    "verseStart": 18,
+    "verseEnd": 22,
+    "reference": "Marcos 4,18-22",
+    "normalizedReference": "marcos 4 18 22",
+    "authors": [
+      "Aug., Serm. 197, 2",
+      "Aug., Tract. in Joann. 8, 7",
+      "Aug., de Cons. Evan., ii, 17",
+      "Chrysostom",
+      "Gloss. ap. Anselm",
+      "Gloss. interlin.",
+      "Gloss. ord.",
+      "Greg., Hom. in Evan., v. 1",
+      "Greg., Hom. in Ex., 17, 1",
+      "Hilary",
+      "Pseudo-Chrysostom",
+      "Rabanus",
+      "Remigius"
+    ]
+  },
+  {
+    "id": "mc-4-23-25",
+    "book": "Marcos",
+    "chapter": 4,
+    "verseStart": 23,
+    "verseEnd": 25,
+    "reference": "Marcos 4,23-25",
+    "normalizedReference": "marcos 4 23 25",
+    "authors": [
+      "Aug., City of God, book 21, ch. 6",
+      "Chrysostom",
+      "Gloss",
+      "Gloss. ap. Anselm",
+      "Jerome",
+      "Mystically, Syria is interpreted ’lofty,’ Galilee, ’turning",
+      "Pseudo-Chrysostom",
+      "Rabanus",
+      "Remigius"
+    ]
+  },
+  {
+    "id": "mc-5-1-20",
+    "book": "Marcos",
+    "chapter": 5,
+    "verseStart": 1,
+    "verseEnd": 20,
+    "reference": "Marcos 5,1-20",
+    "normalizedReference": "marcos 5 1 20",
+    "authors": [
+      "Augustine, de Con. Evan, ii, 24",
+      "Augustine, de Con. Evan., 2, 24",
+      "Bede",
+      "Bede, in Marc., 2, 21",
+      "Chrys., Vict. Ant. e Cat. in Marc., and Chrys., Hom. in Matt., 28",
+      "Chrys., Vict. Ant. e Cat. in Marc., see Chrys., Hom. in Matthew, 28",
+      "Chrysostom",
+      "Cyril",
+      "Greg. Nyss.",
+      "Greg., Mor., 37",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Chyrs., Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Remig., see Aurea Catena in Matt., p.327",
+      "Theophylact",
+      "Titus",
+      "Wherefore it goes on"
+    ]
+  },
+  {
+    "id": "mc-5-21-34",
+    "book": "Marcos",
+    "chapter": 5,
+    "verseStart": 21,
+    "verseEnd": 34,
+    "reference": "Marcos 5,21-34",
+    "normalizedReference": "marcos 5 21 34",
+    "authors": [
+      "Augustine",
+      "Augustine, de Con. Evan., 2, 28",
+      "Bede",
+      "Bede, in Marc., 2, 22",
+      "Chrys., Vict. Ant. e Cat. in Marc., see Chrys., Hom. in Matt., 31",
+      "Chrys., see Chrys., Hom. in Matt., 31",
+      "Pseudo-Chrysostom",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-5-35-43",
+    "book": "Marcos",
+    "chapter": 5,
+    "verseStart": 35,
+    "verseEnd": 43,
+    "reference": "Marcos 5,35-43",
+    "normalizedReference": "marcos 5 35 43",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Chrysostom",
+      "Chrysostom, Hom. in Matt., 81",
+      "Gloss.",
+      "Greg., Mor. 4, 27",
+      "Jerome, Hier. ad Pam., Ep. 57",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-6-1-5",
+    "book": "Marcos",
+    "chapter": 6,
+    "verseStart": 1,
+    "verseEnd": 5,
+    "reference": "Marcos 6,1-5",
+    "normalizedReference": "marcos 6 1 5",
+    "authors": [
+      "Augustine, de Con. Evan., ii, 42",
+      "Bede",
+      "Bede, in Marc., 2, 23",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-6-6-13",
+    "book": "Marcos",
+    "chapter": 6,
+    "verseStart": 6,
+    "verseEnd": 13,
+    "reference": "Marcos 6,6-13",
+    "normalizedReference": "marcos 6 6 13",
+    "authors": [
+      "Augustine, de Con. Evan., 2, 30",
+      "Bede",
+      "Bede, in Marc., 2, 24",
+      "Greg., Hom. in Evan., 17",
+      "It goes on",
+      "Pseudo-Chrysostom",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Theophylact",
+      "There follows",
+      "Wherefore it goes on"
+    ]
+  },
+  {
+    "id": "mc-6-14-16",
+    "book": "Marcos",
+    "chapter": 6,
+    "verseStart": 14,
+    "verseEnd": 16,
+    "reference": "Marcos 6,14-16",
+    "normalizedReference": "marcos 6 14 16",
+    "authors": [
+      "Augustine, de Con. Even., ii, 43",
+      "Bede, in Marc., 2, 25",
+      "Gloss",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Chrysostom, Vict. Aut. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows"
+    ]
+  },
+  {
+    "id": "mc-6-17-29",
+    "book": "Marcos",
+    "chapter": 6,
+    "verseStart": 17,
+    "verseEnd": 29,
+    "reference": "Marcos 6,17-29",
+    "normalizedReference": "marcos 6 17 29",
+    "authors": [
+      "Bede",
+      "For there follows",
+      "Gloss",
+      "Greg., Mor., 3, 7",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Remigius",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-6-30-34",
+    "book": "Marcos",
+    "chapter": 6,
+    "verseStart": 30,
+    "verseEnd": 34,
+    "reference": "Marcos 6,30-34",
+    "normalizedReference": "marcos 6 30 34",
+    "authors": [
+      "Augustine, de Con. Evan., 2, 45",
+      "Bede",
+      "Bede, in Marc., 2, 25",
+      "Bede, in Marc., 2, 26",
+      "Gloss",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows"
+    ]
+  },
+  {
+    "id": "mc-6-35-44",
+    "book": "Marcos",
+    "chapter": 6,
+    "verseStart": 35,
+    "verseEnd": 44,
+    "reference": "Marcos 6,35-44",
+    "normalizedReference": "marcos 6 35 44",
+    "authors": [
+      "Augustine, de Con. Evan., 2, 46",
+      "Bede",
+      "Chrys., Vict. Ant. e Cat. in Marc., see Hom. in Matt., 49",
+      "Greg., Mor. 16, 55",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-6-45-52",
+    "book": "Marcos",
+    "chapter": 6,
+    "verseStart": 45,
+    "verseEnd": 52,
+    "reference": "Marcos 6,45-52",
+    "normalizedReference": "marcos 6 45 52",
+    "authors": [
+      "Augustine",
+      "Augustine, de Con. Evan., 2, 47",
+      "Bede",
+      "Bede, in Marc., 2, 27",
+      "Bede, in Marc., 2, 28",
+      "Chrys., Hom. in Matt., 50",
+      "For there follows",
+      "Gloss",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-6-53-56",
+    "book": "Marcos",
+    "chapter": 6,
+    "verseStart": 53,
+    "verseEnd": 56,
+    "reference": "Marcos 6,53-56",
+    "normalizedReference": "marcos 6 53 56",
+    "authors": [
+      "Bede",
+      "Gloss",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-7-1-13",
+    "book": "Marcos",
+    "chapter": 7,
+    "verseStart": 1,
+    "verseEnd": 13,
+    "reference": "Marcos 7,1-13",
+    "normalizedReference": "marcos 7 1 13",
+    "authors": [
+      "Bede",
+      "Bede, in Marc., 2, 29",
+      "It goes on",
+      "Jerome, Hier. in Matt., 15",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-7-14-23",
+    "book": "Marcos",
+    "chapter": 7,
+    "verseStart": 14,
+    "verseEnd": 23,
+    "reference": "Marcos 7,14-23",
+    "normalizedReference": "marcos 7 14 23",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Gloss",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Theophylact",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-7-24-30",
+    "book": "Marcos",
+    "chapter": 7,
+    "verseStart": 24,
+    "verseEnd": 30,
+    "reference": "Marcos 7,24-30",
+    "normalizedReference": "marcos 7 24 30",
+    "authors": [
+      "Augustine, de Con. Evan., 2, 49",
+      "Bede",
+      "Bede, in Marc., 2, 30",
+      "Pseudo-Augustine",
+      "Pseudo-Augustine, Quaest e Vet. et N. Test. 77",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Wherefore it continues"
+    ]
+  },
+  {
+    "id": "mc-7-31-37",
+    "book": "Marcos",
+    "chapter": 7,
+    "verseStart": 31,
+    "verseEnd": 37,
+    "reference": "Marcos 7,31-37",
+    "normalizedReference": "marcos 7 31 37",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Bede, in Marc., 2, 31",
+      "Gloss",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-8-1-9",
+    "book": "Marcos",
+    "chapter": 8,
+    "verseStart": 1,
+    "verseEnd": 9,
+    "reference": "Marcos 8,1-9",
+    "normalizedReference": "marcos 8 1 9",
+    "authors": [
+      "Ambrose, in Luc., 6, 73",
+      "Bede",
+      "Bede, in Marc., 2, 32",
+      "Greg., Mor. 1, 19",
+      "Pseudo-Jerome",
+      "Remigius",
+      "Theophylact",
+      "Wherefore it goes on"
+    ]
+  },
+  {
+    "id": "mc-8-10-21",
+    "book": "Marcos",
+    "chapter": 8,
+    "verseStart": 10,
+    "verseEnd": 21,
+    "reference": "Marcos 8,10-21",
+    "normalizedReference": "marcos 8 10 21",
+    "authors": [
+      "Augustine",
+      "Augustine, de Con. Evan., 2, 51",
+      "Bede",
+      "Bede, in Marc., 2, 33",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Theophylact",
+      "There follows"
+    ]
+  },
+  {
+    "id": "mc-8-22-26",
+    "book": "Marcos",
+    "chapter": 8,
+    "verseStart": 22,
+    "verseEnd": 26,
+    "reference": "Marcos 8,22-26",
+    "normalizedReference": "marcos 8 22 26",
+    "authors": [
+      "Bede",
+      "Bede, in Marc., 2, 34",
+      "Gloss",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-8-27-33",
+    "book": "Marcos",
+    "chapter": 8,
+    "verseStart": 27,
+    "verseEnd": 33,
+    "reference": "Marcos 8,27-33",
+    "normalizedReference": "marcos 8 27 33",
+    "authors": [
+      "Bede",
+      "Bede, in Marc., 2, 35",
+      "Chrys., Hom. in Matt., 54",
+      "Chrys., Vict. Ant. e Cat. in Marc.",
+      "Chrysostom",
+      "Origen, in Matt. Tom., 12, 15",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-8-34-38",
+    "book": "Marcos",
+    "chapter": 8,
+    "verseStart": 34,
+    "verseEnd": 38,
+    "reference": "Marcos 8,34-38",
+    "normalizedReference": "marcos 8 34 38",
+    "authors": [
+      "Bede",
+      "Bede, in Marc. 2, 36",
+      "Bede, in Marc., 3, 36",
+      "Chrys., Hom. in Matt., 55",
+      "Chrys., Hom. in Matt., 56",
+      "Chrysostom",
+      "Greg., Hom. in 32, in Evang.",
+      "Pseudo-Chrysostom, Orig. in Matt. tom., 12, 33, 35",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Remigius",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-9-1-8",
+    "book": "Marcos",
+    "chapter": 9,
+    "verseStart": 1,
+    "verseEnd": 8,
+    "reference": "Marcos 9,1-8",
+    "normalizedReference": "marcos 9 1 8",
+    "authors": [
+      "Bede",
+      "Bede, 3, 37",
+      "Chrys., Hom. in Matt. 65",
+      "Chrys., Hom. in Matt., 56",
+      "Chrysostom",
+      "Greg., Mor. 32",
+      "Origen, in Matt. tom. 12, 39",
+      "Origen, in Matt. tom. 12, 40",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Remigius",
+      "Theophylact",
+      "There follows"
+    ]
+  },
+  {
+    "id": "mc-9-9-13",
+    "book": "Marcos",
+    "chapter": 9,
+    "verseStart": 9,
+    "verseEnd": 13,
+    "reference": "Marcos 9,9-13",
+    "normalizedReference": "marcos 9 9 13",
+    "authors": [
+      "Bede",
+      "Chrys., Hom. in Matt. 57",
+      "Chrys., Hom. in Matt., 56",
+      "Chrysostom",
+      "Gloss",
+      "Origen, in Matt. tom. 12, 43",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-9-14-29",
+    "book": "Marcos",
+    "chapter": 9,
+    "verseStart": 14,
+    "verseEnd": 29,
+    "reference": "Marcos 9,14-29",
+    "normalizedReference": "marcos 9 14 29",
+    "authors": [
+      "Bede",
+      "Bede, in Marc., 3, 38",
+      "Chrys., Vict. Ant. e Cat. in Marc.",
+      "Chrysostom",
+      "Gloss",
+      "Greg., Mor. x., 30",
+      "It goes on",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-9-30-37",
+    "book": "Marcos",
+    "chapter": 9,
+    "verseStart": 30,
+    "verseEnd": 37,
+    "reference": "Marcos 9,30-37",
+    "normalizedReference": "marcos 9 30 37",
+    "authors": [
+      "Bede",
+      "Bede, in Marc., 1, 39",
+      "Chrys., Vict. Ant. e Cat. in Marc. see Chrys., Hom. in Matt., 58",
+      "It goes on",
+      "Jerome",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows",
+      "Wherefore it goes on",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-9-38-42",
+    "book": "Marcos",
+    "chapter": 9,
+    "verseStart": 38,
+    "verseEnd": 42,
+    "reference": "Marcos 9,38-42",
+    "normalizedReference": "marcos 9 38 42",
+    "authors": [
+      "Augustine, de Con. Evan., 4, 5",
+      "Augustine, de Con. Evan., 4, 6",
+      "Bede",
+      "Greg, de eura, past. p.i.v.2",
+      "Greg., in Faeceh., 1, Hom. 7",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Theophylact",
+      "There follows"
+    ]
+  },
+  {
+    "id": "mc-9-43-50",
+    "book": "Marcos",
+    "chapter": 9,
+    "verseStart": 43,
+    "verseEnd": 50,
+    "reference": "Marcos 9,43-50",
+    "normalizedReference": "marcos 9 43 50",
+    "authors": [
+      "Afterwards he brings in a witness from Leviticus",
+      "Augustine, de Civ. Dei, 21, 9",
+      "Augustine, de. Con, iv. 6",
+      "Augustine, de. Con. Evan., 4, 6",
+      "Bede",
+      "Chrys., Hom. in Matt., 59",
+      "Gloss",
+      "Greg., De cura past., ii, 4",
+      "Greg., De cura past., iii, e.22",
+      "It goes on",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Chrysostom, Vict. Ant. in Cat.",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "They also think that by the worm must be understood the same grief, as is said"
+    ]
+  },
+  {
+    "id": "mc-10-1-12",
+    "book": "Marcos",
+    "chapter": 10,
+    "verseStart": 1,
+    "verseEnd": 12,
+    "reference": "Marcos 10,1-12",
+    "normalizedReference": "marcos 10 1 12",
+    "authors": [
+      "Augustine, cont. Faust, XIX, 26",
+      "Augustine, cont. Faust, XIX, 29",
+      "Augustine, de Con. Evan., ii, 62",
+      "Bede",
+      "Bede, In Marcum, 3, 40",
+      "Chrysostom",
+      "Gloss",
+      "Pseudo-Chrysostom, Cat. in Marc. Oxon",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Chrysostom, Vict. Ant., e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Wherefore it goes on",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-10-13-16",
+    "book": "Marcos",
+    "chapter": 10,
+    "verseStart": 13,
+    "verseEnd": 16,
+    "reference": "Marcos 10,13-16",
+    "normalizedReference": "marcos 10 13 16",
+    "authors": [
+      "Bede",
+      "Chrysostom",
+      "Origin, in Matt., XV, 7",
+      "Pseudo-Chrysostom, Vict. Ant, e Cat. in Marc.",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-10-17-27",
+    "book": "Marcos",
+    "chapter": 10,
+    "verseStart": 17,
+    "verseEnd": 27,
+    "reference": "Marcos 10,17-27",
+    "normalizedReference": "marcos 10 17 27",
+    "authors": [
+      "Bede",
+      "Chrys., Hom. in Matt., 63",
+      "Chrysostom",
+      "It goes on",
+      "Or else",
+      "Origen, in Evan. tom. xv, 14",
+      "Pseudo-Chrysostom, Cat. in Marc. Oxon.",
+      "Theophylact",
+      "There follows",
+      "Wherefore it is said",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-10-28-31",
+    "book": "Marcos",
+    "chapter": 10,
+    "verseStart": 28,
+    "verseEnd": 31,
+    "reference": "Marcos 10,28-31",
+    "normalizedReference": "marcos 10 28 31",
+    "authors": [
+      "Bede",
+      "Chrys., Cat. in Marc. Oxon.",
+      "Chrys., Hom. in Matt., 64",
+      "Gloss",
+      "Pseudo-Chrysostom",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-10-32-34",
+    "book": "Marcos",
+    "chapter": 10,
+    "verseStart": 32,
+    "verseEnd": 34,
+    "reference": "Marcos 10,32-34",
+    "normalizedReference": "marcos 10 32 34",
+    "authors": [
+      "Bede",
+      "Chrys., Hom. in Matt., 65",
+      "Chrys., Vict. Ant. e Cat. in Marc. sed v. Chrys. Hom. 65",
+      "Gloss",
+      "Theophylact",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-10-35-40",
+    "book": "Marcos",
+    "chapter": 10,
+    "verseStart": 35,
+    "verseEnd": 40,
+    "reference": "Marcos 10,35-40",
+    "normalizedReference": "marcos 10 35 40",
+    "authors": [
+      "Augustine",
+      "Augustine, de Con. Evan., ii, 64",
+      "Bede",
+      "Chrysostom",
+      "It goes on",
+      "Theophylact",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-10-41-45",
+    "book": "Marcos",
+    "chapter": 10,
+    "verseStart": 41,
+    "verseEnd": 45,
+    "reference": "Marcos 10,41-45",
+    "normalizedReference": "marcos 10 41 45",
+    "authors": [
+      "Bede",
+      "Theophylact",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-10-46-52",
+    "book": "Marcos",
+    "chapter": 10,
+    "verseStart": 46,
+    "verseEnd": 52,
+    "reference": "Marcos 10,46-52",
+    "normalizedReference": "marcos 10 46 52",
+    "authors": [
+      "Augustine, de Con. Evan., ii, 65",
+      "Bede",
+      "Chrys., Hom. in Matt., 56",
+      "It goes on",
+      "Jerome",
+      "Origen",
+      "Pseudo-Chrysostom, Vict. Ant. e Cat. in Marc.",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Wherefore it goes on",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-11-1-10",
+    "book": "Marcos",
+    "chapter": 11,
+    "verseStart": 1,
+    "verseEnd": 10,
+    "reference": "Marcos 11,1-10",
+    "normalizedReference": "marcos 11 1 10",
+    "authors": [
+      "Ambrose, in Luc. 9, 6",
+      "Augustine, de Con. Evan, ii, 66",
+      "Bede",
+      "Bede, in Marc., 3, 41",
+      "Chrysostom",
+      "It goes on",
+      "Pseudo-Chrysostom, Cat. in Marc. Oxon.",
+      "Pseudo-Jerome",
+      "Psuedo-Chrys., Cat. in Marc. Oxon.",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-11-11-14",
+    "book": "Marcos",
+    "chapter": 11,
+    "verseStart": 11,
+    "verseEnd": 14,
+    "reference": "Marcos 11,11-14",
+    "normalizedReference": "marcos 11 11 14",
+    "authors": [
+      "Bede",
+      "Chrys., in Matt. Hom., 87",
+      "Chrysostom",
+      "For it goes on",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-11-15-18",
+    "book": "Marcos",
+    "chapter": 11,
+    "verseStart": 15,
+    "verseEnd": 18,
+    "reference": "Marcos 11,15-18",
+    "normalizedReference": "marcos 11 15 18",
+    "authors": [
+      "Augustine, de Con. Evan, ii, 67",
+      "Augustine, de Con. Evan, ii, 68",
+      "Bede",
+      "Gloss",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-11-19-26",
+    "book": "Marcos",
+    "chapter": 11,
+    "verseStart": 19,
+    "verseEnd": 26,
+    "reference": "Marcos 11,19-26",
+    "normalizedReference": "marcos 11 19 26",
+    "authors": [
+      "Augustine, de Con. Evan, ii, 68",
+      "Bede",
+      "Chrysostom",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-11-27-33",
+    "book": "Marcos",
+    "chapter": 11,
+    "verseStart": 27,
+    "verseEnd": 33,
+    "reference": "Marcos 11,27-33",
+    "normalizedReference": "marcos 11 27 33",
+    "authors": [
+      "Bede",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows",
+      "Wherefore it is said",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-12-1-12",
+    "book": "Marcos",
+    "chapter": 12,
+    "verseStart": 1,
+    "verseEnd": 12,
+    "reference": "Marcos 12,1-12",
+    "normalizedReference": "marcos 12 1 12",
+    "authors": [
+      "Augustine, de Con Evan, ii, 70",
+      "Bede",
+      "Bede, in Marc., 3, 42",
+      "Gloss",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows",
+      "Wherefore it goes on"
+    ]
+  },
+  {
+    "id": "mc-12-13-16",
+    "book": "Marcos",
+    "chapter": 12,
+    "verseStart": 13,
+    "verseEnd": 16,
+    "reference": "Marcos 12,13-16",
+    "normalizedReference": "marcos 12 13 16",
+    "authors": [
+      "And therefore they add, \"And carest for no man",
+      "Bede",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-12-18-27",
+    "book": "Marcos",
+    "chapter": 12,
+    "verseStart": 18,
+    "verseEnd": 27,
+    "reference": "Marcos 12,18-27",
+    "normalizedReference": "marcos 12 18 27",
+    "authors": [
+      "Bede",
+      "Gloss",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows",
+      "Wherefore it goes on"
+    ]
+  },
+  {
+    "id": "mc-12-28-34",
+    "book": "Marcos",
+    "chapter": 12,
+    "verseStart": 28,
+    "verseEnd": 34,
+    "reference": "Marcos 12,28-34",
+    "normalizedReference": "marcos 12 28 34",
+    "authors": [
+      "Augustine, de Con. Evan, ii, 73",
+      "Bede",
+      "But it continues",
+      "Gloss",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-12-35-37",
+    "book": "Marcos",
+    "chapter": 12,
+    "verseStart": 35,
+    "verseEnd": 37,
+    "reference": "Marcos 12,35-37",
+    "normalizedReference": "marcos 12 35 37",
+    "authors": [
+      "Bede",
+      "Gloss",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-12-38-40",
+    "book": "Marcos",
+    "chapter": 12,
+    "verseStart": 38,
+    "verseEnd": 40,
+    "reference": "Marcos 12,38-40",
+    "normalizedReference": "marcos 12 38 40",
+    "authors": [
+      "Bede",
+      "For it goes on",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-12-41-44",
+    "book": "Marcos",
+    "chapter": 12,
+    "verseStart": 41,
+    "verseEnd": 44,
+    "reference": "Marcos 12,41-44",
+    "normalizedReference": "marcos 12 41 44",
+    "authors": [
+      "Bede",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-13-1-2",
+    "book": "Marcos",
+    "chapter": 13,
+    "verseStart": 1,
+    "verseEnd": 2,
+    "reference": "Marcos 13,1-2",
+    "normalizedReference": "marcos 13 1 2",
+    "authors": [
+      "Bede",
+      "Bede, in Marc., iv, 42",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Wherefore it goes on"
+    ]
+  },
+  {
+    "id": "mc-13-3-8",
+    "book": "Marcos",
+    "chapter": 13,
+    "verseStart": 3,
+    "verseEnd": 8,
+    "reference": "Marcos 13,3-8",
+    "normalizedReference": "marcos 13 3 8",
+    "authors": [
+      "And this is what is added",
+      "Augustine, Epist., cxcix, 9",
+      "Bede",
+      "It goes on",
+      "Theophylact",
+      "Wherefore it goes on",
+      "Wherefore it is said"
+    ]
+  },
+  {
+    "id": "mc-13-9-13",
+    "book": "Marcos",
+    "chapter": 13,
+    "verseStart": 9,
+    "verseEnd": 13,
+    "reference": "Marcos 13,9-13",
+    "normalizedReference": "marcos 13 9 13",
+    "authors": [
+      "Augustine, de Con. Evan., ii, 77",
+      "Bede",
+      "Gloss",
+      "Theophylact",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-13-14-20",
+    "book": "Marcos",
+    "chapter": 13,
+    "verseStart": 14,
+    "verseEnd": 20,
+    "reference": "Marcos 13,14-20",
+    "normalizedReference": "marcos 13 14 20",
+    "authors": [
+      "Augustine",
+      "Augustine, Epist., cxcix, 9",
+      "Augustine, de Con Evan, ii, 77",
+      "Bede",
+      "Gloss",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-13-21-27",
+    "book": "Marcos",
+    "chapter": 13,
+    "verseStart": 21,
+    "verseEnd": 27,
+    "reference": "Marcos 13,21-27",
+    "normalizedReference": "marcos 13 21 27",
+    "authors": [
+      "Augustine, Epist., 78",
+      "Augustine, Epist., cxcix, 11",
+      "Augustine, de Civ. Dei, xx, 19",
+      "Augustine, de Trin., i, 13",
+      "Bede",
+      "Greg., Hom in Ezech. i, 9",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Wherefore it goes on"
+    ]
+  },
+  {
+    "id": "mc-13-28-31",
+    "book": "Marcos",
+    "chapter": 13,
+    "verseStart": 28,
+    "verseEnd": 31,
+    "reference": "Marcos 13,28-31",
+    "normalizedReference": "marcos 13 28 31",
+    "authors": [
+      "Augustine, Epist., 119, 11",
+      "Bede",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows"
+    ]
+  },
+  {
+    "id": "mc-13-32-37",
+    "book": "Marcos",
+    "chapter": 13,
+    "verseStart": 32,
+    "verseEnd": 37,
+    "reference": "Marcos 13,32-37",
+    "normalizedReference": "marcos 13 32 37",
+    "authors": [
+      "Augustine, Epist., 199, 3",
+      "Bede",
+      "Greg, Hom in Evan, 9",
+      "Hilary, de Trin., ix",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Wherefore concluding this parable He adds, \"Watch ye therefore"
+    ]
+  },
+  {
+    "id": "mc-14-1-2",
+    "book": "Marcos",
+    "chapter": 14,
+    "verseStart": 1,
+    "verseEnd": 2,
+    "reference": "Marcos 14,1-2",
+    "normalizedReference": "marcos 14 1 2",
+    "authors": [
+      "Bede",
+      "Bede, Marc., iv, 43",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Wherefore it goes on",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-14-3-9",
+    "book": "Marcos",
+    "chapter": 14,
+    "verseStart": 3,
+    "verseEnd": 9,
+    "reference": "Marcos 14,3-9",
+    "normalizedReference": "marcos 14 3 9",
+    "authors": [
+      "Augustine, de Con. Evan. ii, 78",
+      "Augustine, de Con. Evan., ii, 79",
+      "Bede",
+      "For it goes on",
+      "It goes on",
+      "Origen, on Matthew, 35",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Wherefore it goes on"
+    ]
+  },
+  {
+    "id": "mc-14-10-11",
+    "book": "Marcos",
+    "chapter": 14,
+    "verseStart": 10,
+    "verseEnd": 11,
+    "reference": "Marcos 14,10-11",
+    "normalizedReference": "marcos 14 10 11",
+    "authors": [
+      "Bede",
+      "Chrysostom",
+      "Chrysostom, de Prod. Jud., Homily 1",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Where it is said"
+    ]
+  },
+  {
+    "id": "mc-14-12-16",
+    "book": "Marcos",
+    "chapter": 14,
+    "verseStart": 12,
+    "verseEnd": 16,
+    "reference": "Marcos 14,12-16",
+    "normalizedReference": "marcos 14 12 16",
+    "authors": [
+      "Augustine, de Con. Evan, ii, 80",
+      "Bede",
+      "Chrysostom",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-14-17-21",
+    "book": "Marcos",
+    "chapter": 14,
+    "verseStart": 17,
+    "verseEnd": 21,
+    "reference": "Marcos 14,17-21",
+    "normalizedReference": "marcos 14 17 21",
+    "authors": [
+      "Bede",
+      "Chrysostom",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-14-22-25",
+    "book": "Marcos",
+    "chapter": 14,
+    "verseStart": 22,
+    "verseEnd": 25,
+    "reference": "Marcos 14,22-25",
+    "normalizedReference": "marcos 14 22 25",
+    "authors": [
+      "Bede",
+      "Chrysostom",
+      "Gregory, Mor. ii, 37",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows"
+    ]
+  },
+  {
+    "id": "mc-14-26-31",
+    "book": "Marcos",
+    "chapter": 14,
+    "verseStart": 26,
+    "verseEnd": 31,
+    "reference": "Marcos 14,26-31",
+    "normalizedReference": "marcos 14 26 31",
+    "authors": [
+      "Augustine, de Con. Even. iii, 2",
+      "Bede",
+      "For it goes on",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Wherefore it goes on",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-14-32-42",
+    "book": "Marcos",
+    "chapter": 14,
+    "verseStart": 32,
+    "verseEnd": 42,
+    "reference": "Marcos 14,32-42",
+    "normalizedReference": "marcos 14 32 42",
+    "authors": [
+      "Augustine",
+      "Augustine, de Con. iii, iv",
+      "Bede",
+      "Gloss",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows",
+      "Wherefore it goes on",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-14-43-51",
+    "book": "Marcos",
+    "chapter": 14,
+    "verseStart": 43,
+    "verseEnd": 51,
+    "reference": "Marcos 14,43-51",
+    "normalizedReference": "marcos 14 43 51",
+    "authors": [
+      "Bede",
+      "Greg., Mor. 14, 49",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows",
+      "Wherefore it goes on"
+    ]
+  },
+  {
+    "id": "mc-14-52-59",
+    "book": "Marcos",
+    "chapter": 14,
+    "verseStart": 52,
+    "verseEnd": 59,
+    "reference": "Marcos 14,52-59",
+    "normalizedReference": "marcos 14 52 59",
+    "authors": [
+      "Bede",
+      "Gloss",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows",
+      "Wherefore it goes on"
+    ]
+  },
+  {
+    "id": "mc-14-60-65",
+    "book": "Marcos",
+    "chapter": 14,
+    "verseStart": 60,
+    "verseEnd": 65,
+    "reference": "Marcos 14,60-65",
+    "normalizedReference": "marcos 14 60 65",
+    "authors": [
+      "Augustine",
+      "Augustine, de Con., iii, 6",
+      "Bede",
+      "For there follows",
+      "It goes on",
+      "Leo, Sermon 5, de Pass.",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-14-66-72",
+    "book": "Marcos",
+    "chapter": 14,
+    "verseStart": 66,
+    "verseEnd": 72,
+    "reference": "Marcos 14,66-72",
+    "normalizedReference": "marcos 14 66 72",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows",
+      "Wherefore it is added",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-15-1-5",
+    "book": "Marcos",
+    "chapter": 15,
+    "verseStart": 1,
+    "verseEnd": 5,
+    "reference": "Marcos 15,1-5",
+    "normalizedReference": "marcos 15 1 5",
+    "authors": [
+      "Augustine, de. Con. Evan., iii, 8",
+      "Bede",
+      "Bede, in Marc., 4, 44",
+      "It goes on",
+      "Theophylact",
+      "There follows"
+    ]
+  },
+  {
+    "id": "mc-15-6-15",
+    "book": "Marcos",
+    "chapter": 15,
+    "verseStart": 6,
+    "verseEnd": 15,
+    "reference": "Marcos 15,6-15",
+    "normalizedReference": "marcos 15 6 15",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "For there follows",
+      "Gloss",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows",
+      "Wherefore it is said",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-15-16-19",
+    "book": "Marcos",
+    "chapter": 15,
+    "verseStart": 16,
+    "verseEnd": 19,
+    "reference": "Marcos 15,16-19",
+    "normalizedReference": "marcos 15 16 19",
+    "authors": [
+      "Augustine",
+      "Augustine, de Con. Evan., iii, 9",
+      "Bede",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  },
+  {
+    "id": "mc-15-20-28",
+    "book": "Marcos",
+    "chapter": 15,
+    "verseStart": 20,
+    "verseEnd": 28,
+    "reference": "Marcos 15,20-28",
+    "normalizedReference": "marcos 15 20 28",
+    "authors": [
+      "Augustine",
+      "Augustine, de. Con. Evan., iii, 11",
+      "Augustine, de. Con. Evan., iii, 13",
+      "Bede",
+      "Gloss",
+      "It goes on",
+      "Pseudo-Augustine, Quaest. Vet. et Nov. Test. 65",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows"
+    ]
+  },
+  {
+    "id": "mc-15-29-32",
+    "book": "Marcos",
+    "chapter": 15,
+    "verseStart": 29,
+    "verseEnd": 32,
+    "reference": "Marcos 15,29-32",
+    "normalizedReference": "marcos 15 29 32",
+    "authors": [
+      "Augustine, de. Con. Evan. 3, 16",
+      "Bede",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Wherefore it goes on",
+      "Wherefore it is said"
+    ]
+  },
+  {
+    "id": "mc-15-33-37",
+    "book": "Marcos",
+    "chapter": 15,
+    "verseStart": 33,
+    "verseEnd": 37,
+    "reference": "Marcos 15,33-37",
+    "normalizedReference": "marcos 15 33 37",
+    "authors": [
+      "Augustine",
+      "Augustine, de. Con. Evan. 3, 17",
+      "Bede",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows",
+      "Wherefore it goes on",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-15-38-41",
+    "book": "Marcos",
+    "chapter": 15,
+    "verseStart": 38,
+    "verseEnd": 41,
+    "reference": "Marcos 15,38-41",
+    "normalizedReference": "marcos 15 38 41",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "For there follows",
+      "Gloss",
+      "Origin, in Matt. Tract. 35",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "Wherefore it is said",
+      "Wherefore there follows"
+    ]
+  },
+  {
+    "id": "mc-15-42-47",
+    "book": "Marcos",
+    "chapter": 15,
+    "verseStart": 42,
+    "verseEnd": 47,
+    "reference": "Marcos 15,42-47",
+    "normalizedReference": "marcos 15 42 47",
+    "authors": [
+      "Bede",
+      "Gloss",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows"
+    ]
+  },
+  {
+    "id": "mc-16-1-8",
+    "book": "Marcos",
+    "chapter": 16,
+    "verseStart": 1,
+    "verseEnd": 8,
+    "reference": "Marcos 16,1-8",
+    "normalizedReference": "marcos 16 1 8",
+    "authors": [
+      "Augustine",
+      "Augustine, Con. Evang., iii, 24",
+      "Augustine, de Con. Evan., iii, 24",
+      "Augustine, de. Con. Evan., iii, 25",
+      "Bede",
+      "Bede, in Marc., 4, 40",
+      "Gloss",
+      "Greg., Hom. in. Evan., 21",
+      "Gregory",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Severianus",
+      "Severianus Chrysologus",
+      "Severianus, ap. Chrysologum, sermon 89",
+      "Theophylact",
+      "There follows",
+      "Wherefore it goes on",
+      "Wherefore it is said"
+    ]
+  },
+  {
+    "id": "mc-16-9-13",
+    "book": "Marcos",
+    "chapter": 16,
+    "verseStart": 9,
+    "verseEnd": 13,
+    "reference": "Marcos 16,9-13",
+    "normalizedReference": "marcos 16 9 13",
+    "authors": [
+      "Augustine",
+      "Augustine, de Con. Evan., iii, 25",
+      "Bede",
+      "For it goes on",
+      "Gregory",
+      "Pseudo-Jerome",
+      "Severianus Chrysologus",
+      "Theophyact",
+      "Theophylact",
+      "There follows"
+    ]
+  },
+  {
+    "id": "mc-16-14-18",
+    "book": "Marcos",
+    "chapter": 16,
+    "verseStart": 14,
+    "verseEnd": 18,
+    "reference": "Marcos 16,14-18",
+    "normalizedReference": "marcos 16 14 18",
+    "authors": [
+      "Augustine",
+      "Bede",
+      "Gloss",
+      "Gregory",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact",
+      "There follows"
+    ]
+  },
+  {
+    "id": "mc-16-19-20",
+    "book": "Marcos",
+    "chapter": 16,
+    "verseStart": 19,
+    "verseEnd": 20,
+    "reference": "Marcos 16,19-20",
+    "normalizedReference": "marcos 16 19 20",
+    "authors": [
+      "Augustine",
+      "Augustine, Epist., CXCIX 199, 12",
+      "Augustine, de Symbolic, 7",
+      "Bede",
+      "Gregory",
+      "It goes on",
+      "Pseudo-Jerome",
+      "Theophylact"
+    ]
+  }
+]
