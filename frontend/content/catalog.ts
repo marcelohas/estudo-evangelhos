@@ -1,11 +1,12 @@
 import catalogData from "../../content/generated/catalog-pt-BR.json";
+import matthew141321 from "../../content/curated/mateus-14-13-21.pt-BR.json";
 import { normalizeSearchText } from "./search";
 
 export type CatalogComment = { author: string; text: string };
 
 export type CatalogRecord = {
   id: string;
-  book: "Marcos" | "Lucas" | "João";
+  book: "Mateus" | "Marcos" | "Lucas" | "João";
   chapter: number;
   verseStart: number;
   verseEnd: number;
@@ -16,7 +17,7 @@ export type CatalogRecord = {
   reviewStatus: "em_revisao";
 };
 
-export const catalog = catalogData as CatalogRecord[];
+export const catalog = [matthew141321, ...catalogData] as CatalogRecord[];
 
 function referenceScore(record: CatalogRecord, query: string) {
   const reference = normalizeSearchText(record.reference);

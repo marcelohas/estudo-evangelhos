@@ -61,3 +61,14 @@ test("a Bíblia Ave-Maria contém os quatro Evangelhos completos e versículos �
   assert.equal(new Set(verses.map((verse) => verse.id)).size, verses.length);
   assert.ok(verses.every((verse) => verse.text && !verse.text.includes("�")));
 });
+
+test("Mateus 14,13-21 possui texto bíblico e Catena em português", async () => {
+  const record = JSON.parse(await readFile(
+    new URL("../../content/curated/mateus-14-13-21.pt-BR.json", import.meta.url),
+    "utf8",
+  ));
+  assert.equal(record.reference, "Mateus 14,13-21");
+  assert.match(record.bibleText, /cinco pães e dois peixes/i);
+  assert.ok(record.comments.length >= 4);
+  assert.ok(record.comments.every((comment) => comment.author && comment.text));
+});
