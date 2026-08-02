@@ -111,6 +111,23 @@ blockquote { margin: 0; max-width: 900px; font-family: Georgia, serif; font-size
 .comment-number { position: absolute; top: 20px; right: 22px; color: #b5a58e; font-size: 11px; font-weight: 850; letter-spacing: .08em; }
 .parallel-catena .father-name { margin: 0 38px 10px 0; }
 .parallel-catena .commentary:first-of-type { margin-top: 0; }
+.escriva-card { margin-top: 24px; padding: clamp(22px, 4vw, 32px); background: #26382f; color: #f8f2e8; border-radius: 20px; box-shadow: var(--shadow); }
+.escriva-card-heading { display: flex; align-items: center; gap: 14px; }
+.escriva-card-heading h3 { margin: 3px 0 0; font-family: Georgia, serif; font-size: 27px; }
+.escriva-card .card-kicker { color: #d9bd83; }
+.escriva-mark { width: 46px; height: 46px; display: grid; place-items: center; flex: 0 0 auto; border: 1px solid #d9bd83; border-radius: 50%; color: #f0d8a4; font-family: Georgia, serif; }
+.escriva-status { margin: 20px 0 0; color: #d8d1c7; }
+.escriva-reading { margin-top: 22px; overflow: hidden; border: 1px solid #ffffff24; border-radius: 15px; background: #ffffff0b; }
+.escriva-reading summary { display: flex; align-items: center; justify-content: space-between; gap: 18px; padding: 18px 20px; cursor: pointer; list-style: none; }
+.escriva-reading summary::-webkit-details-marker { display: none; }
+.escriva-reading summary strong, .escriva-reading summary small { display: block; }
+.escriva-reading summary strong { font-family: Georgia, serif; font-size: 20px; }
+.escriva-reading summary small { margin-top: 5px; color: #c9c1b6; }
+.read-label { flex: 0 0 auto; color: #f0d8a4; font-size: 12px; font-weight: 800; }
+.escriva-text { padding: 8px 20px 4px; border-top: 1px solid #ffffff1c; color: #eee8de; font-family: Georgia, serif; font-size: 16px; line-height: 1.75; }
+.escriva-text p { margin: 16px 0; }
+.escriva-text i { color: #f4dba8; }
+.escriva-reading > a { display: inline-block; margin: 8px 20px 22px; color: #f0d8a4; font-size: 12px; font-weight: 800; }
 .catena-card { min-width: 0; border-radius: 17px; padding: 24px; display: flex; flex-direction: column; }
 .father-name { margin: 20px 0 0; font-family: Georgia, serif; font-size: 22px; }
 .evangelist-title { display: flex; align-items: center; gap: 11px; }
@@ -150,6 +167,7 @@ blockquote { margin: 0; max-width: 900px; font-family: Georgia, serif; font-size
   .parallel-catena[open] { grid-column: auto; }
   .parallel-catena summary { align-items: flex-start; flex-wrap: wrap; }
   .parallel-catena-meta { order: 3; width: 100%; margin-left: 58px; align-items: flex-start; }
+  .escriva-reading summary { align-items: flex-start; flex-direction: column; }
   .catena-card footer { align-items: flex-start; }
   .site-footer { display: block; text-align: center; }
   .site-footer span { display: block; margin-top: 6px; }
