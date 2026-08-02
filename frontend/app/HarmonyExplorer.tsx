@@ -178,6 +178,35 @@ export function HarmonyExplorer() {
             </div>
           </article>
 
+          {escrivaStatus !== "idle" && (
+            <aside className="escriva-card" aria-live="polite">
+              <div className="escriva-card-heading">
+                <span className="escriva-mark">JE</span>
+                <div>
+                  <span className="card-kicker">Leitura relacionada</span>
+                  <h3>São Josemaria Escrivá</h3>
+                </div>
+              </div>
+              {escrivaStatus === "loading" && <p className="escriva-status">Consultando os livros do Escriva.org…</p>}
+              {escrivaStatus === "error" && <p className="escriva-status">Não foi possível consultar o Escriva.org agora.</p>}
+              {escrivaResult && (
+                <details className="escriva-reading" open>
+                  <summary>
+                    <span>
+                      <strong>{escrivaResult.book.name}</strong>
+                      <small>{escrivaResult.chapter.name} · ponto {escrivaResult.label}</small>
+                    </span>
+                    <span className="read-label">Mostrar ou ocultar reflexão</span>
+                  </summary>
+                  <div className="escriva-text" dangerouslySetInnerHTML={{ __html: escrivaResult.text }} />
+                  <a href={escrivaResult.public_url} target="_blank" rel="noreferrer">
+                    Fonte e texto original em Escriva.org
+                  </a>
+                </details>
+              )}
+            </aside>
+          )}
+
           <div className="parallel-catenas">
             {parallelResults.map((record) => (
               <details className="parallel-catena" key={record.book} open={record.book === "Mateus"}>
@@ -209,34 +238,6 @@ export function HarmonyExplorer() {
             ))}
           </div>
 
-          {escrivaStatus !== "idle" && (
-            <aside className="escriva-card" aria-live="polite">
-              <div className="escriva-card-heading">
-                <span className="escriva-mark">JE</span>
-                <div>
-                  <span className="card-kicker">Leitura relacionada</span>
-                  <h3>São Josemaria Escrivá</h3>
-                </div>
-              </div>
-              {escrivaStatus === "loading" && <p className="escriva-status">Consultando os livros do Escriva.org…</p>}
-              {escrivaStatus === "error" && <p className="escriva-status">Não foi possível consultar o Escriva.org agora.</p>}
-              {escrivaResult && (
-                <details className="escriva-reading">
-                  <summary>
-                    <span>
-                      <strong>{escrivaResult.book.name}</strong>
-                      <small>{escrivaResult.chapter.name} · ponto {escrivaResult.label}</small>
-                    </span>
-                    <span className="read-label">Ler reflexão</span>
-                  </summary>
-                  <div className="escriva-text" dangerouslySetInnerHTML={{ __html: escrivaResult.text }} />
-                  <a href={escrivaResult.public_url} target="_blank" rel="noreferrer">
-                    Fonte e texto original em Escriva.org
-                  </a>
-                </details>
-              )}
-            </aside>
-          )}
         </section>
       ) : catalogResult ? (
         <section className="results" aria-live="polite">
