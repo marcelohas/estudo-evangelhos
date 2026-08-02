@@ -167,24 +167,32 @@ export function HarmonyExplorer() {
 
           <div className="parallel-catenas">
             {parallelResults.map((record) => (
-              <section className="parallel-catena" key={record.book}>
-                <div className="parallel-catena-heading">
-                  <CardMonogram evangelist={record.book} />
-                  <div>
-                    <span className="card-kicker">Catena de</span>
-                    <h3>{record.book}</h3>
-                    <span className="reference">{record.reference}</span>
+              <details className="parallel-catena" key={record.book} open={record.book === "Mateus"}>
+                <summary>
+                  <div className="parallel-catena-heading">
+                    <CardMonogram evangelist={record.book} />
+                    <div>
+                      <span className="card-kicker">Catena de</span>
+                      <h3>{record.book}</h3>
+                    </div>
                   </div>
+                  <div className="parallel-catena-meta">
+                    <span className="reference">{record.reference}</span>
+                    <span className="comment-count">{record.comments.length} comentários</span>
+                  </div>
+                </summary>
+                <div className="comment-card-grid">
+                  {record.comments.map((comment, index) => (
+                    <article className="catena-card" key={`${record.book}-${comment.author}-${index}`}>
+                      <span className="comment-number">{String(index + 1).padStart(2, "0")}</span>
+                      <h4 className="father-name">{comment.author}</h4>
+                      {comment.text.split(/\n\s*\n/).map((paragraph, paragraphIndex) => (
+                        <p className="commentary" key={paragraphIndex}>{paragraph}</p>
+                      ))}
+                    </article>
+                  ))}
                 </div>
-                {record.comments.map((comment, index) => (
-                  <article className="catena-card" key={`${record.book}-${comment.author}-${index}`}>
-                    <h4 className="father-name">{comment.author}</h4>
-                    {comment.text.split(/\n\s*\n/).map((paragraph, paragraphIndex) => (
-                      <p className="commentary" key={paragraphIndex}>{paragraph}</p>
-                    ))}
-                  </article>
-                ))}
-              </section>
+              </details>
             ))}
           </div>
         </section>

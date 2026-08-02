@@ -94,11 +94,23 @@ blockquote { margin: 0; max-width: 900px; font-family: Georgia, serif; font-size
 
 .catena-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; margin-top: 18px; }
 .catalog-comments { display: grid; gap: 18px; margin-top: 18px; }
-.parallel-catenas { display: grid; gap: 28px; margin-top: 24px; }
-.parallel-catena { display: grid; gap: 14px; padding-top: 22px; border-top: 1px solid var(--line); }
-.parallel-catena-heading { display: flex; align-items: center; gap: 14px; }
+.parallel-catenas { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; margin-top: 24px; align-items: start; }
+.parallel-catena { min-width: 0; overflow: hidden; background: #f1e9dc; border: 1px solid var(--line); border-radius: 20px; box-shadow: 0 12px 34px rgba(72, 55, 33, .07); }
+.parallel-catena[open] { grid-column: 1 / -1; background: #eee5d7; }
+.parallel-catena summary { display: flex; align-items: center; justify-content: space-between; gap: 18px; padding: 22px; cursor: pointer; list-style: none; background: var(--card); transition: background .2s ease; }
+.parallel-catena summary::-webkit-details-marker { display: none; }
+.parallel-catena summary:hover { background: #fffaf0; }
+.parallel-catena summary::after { content: "+"; flex: 0 0 auto; width: 32px; height: 32px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 50%; color: var(--gold-dark); font-size: 21px; line-height: 1; }
+.parallel-catena[open] summary::after { content: "−"; }
+.parallel-catena-heading { display: flex; align-items: center; gap: 14px; min-width: 0; }
 .parallel-catena-heading h3 { margin: 2px 0 4px; font-family: Georgia, serif; font-size: 28px; }
-.parallel-catena .catena-card { margin: 0; }
+.parallel-catena-meta { margin-left: auto; display: flex; align-items: flex-end; gap: 8px; flex-direction: column; }
+.comment-count { color: var(--muted); font-size: 11px; font-weight: 700; }
+.comment-card-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; padding: 18px; }
+.parallel-catena .catena-card { position: relative; margin: 0; padding: 25px; border: 0; box-shadow: 0 5px 18px rgba(72, 55, 33, .06); }
+.comment-number { position: absolute; top: 20px; right: 22px; color: #b5a58e; font-size: 11px; font-weight: 850; letter-spacing: .08em; }
+.parallel-catena .father-name { margin: 0 38px 10px 0; }
+.parallel-catena .commentary:first-of-type { margin-top: 0; }
 .catena-card { min-width: 0; border-radius: 17px; padding: 24px; display: flex; flex-direction: column; }
 .father-name { margin: 20px 0 0; font-family: Georgia, serif; font-size: 22px; }
 .evangelist-title { display: flex; align-items: center; gap: 11px; }
@@ -134,6 +146,10 @@ blockquote { margin: 0; max-width: 900px; font-family: Georgia, serif; font-size
   .result-count { display: inline-block; margin-top: 14px; }
   .gospel-content { grid-template-columns: 1fr; }
   .catena-grid { grid-template-columns: 1fr; }
+  .parallel-catenas, .comment-card-grid { grid-template-columns: 1fr; }
+  .parallel-catena[open] { grid-column: auto; }
+  .parallel-catena summary { align-items: flex-start; flex-wrap: wrap; }
+  .parallel-catena-meta { order: 3; width: 100%; margin-left: 58px; align-items: flex-start; }
   .catena-card footer { align-items: flex-start; }
   .site-footer { display: block; text-align: center; }
   .site-footer span { display: block; margin-top: 6px; }
@@ -144,6 +160,8 @@ blockquote { margin: 0; max-width: 900px; font-family: Georgia, serif; font-size
   .brand small { font-size: 11px; }
   .hero h1 { font-size: 36px; }
   .gospel-card, .catena-card { padding: 19px; }
+  .parallel-catena summary { padding: 18px; gap: 10px; }
+  .comment-card-grid { padding: 10px; gap: 10px; }
   .card-topline { gap: 10px; }
   .reference { font-size: 10px; padding: 6px 8px; }
   .catena-card footer { display: block; }
