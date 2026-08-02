@@ -108,6 +108,37 @@ export function HarmonyExplorer() {
     setEscrivaStatus("idle");
   }
 
+  const escrivaSection = escrivaStatus !== "idle" && (
+    <details className="escriva-card" aria-live="polite">
+      <summary className="escriva-card-summary">
+        <div className="escriva-card-heading">
+          <span className="escriva-mark">JE</span>
+          <div>
+            <span className="card-kicker">Leitura relacionada</span>
+            <h3>São Josemaria Escrivá</h3>
+          </div>
+        </div>
+        <span className="read-label">Mostrar / Ocultar</span>
+      </summary>
+      <div className="escriva-card-content">
+        {escrivaStatus === "loading" && <p className="escriva-status">Consultando os livros do Escriva.org…</p>}
+        {escrivaStatus === "error" && <p className="escriva-status">Não foi possível consultar o Escriva.org agora.</p>}
+        {escrivaResult && (
+          <div className="escriva-reading">
+            <div className="escriva-reading-header">
+              <strong>{escrivaResult.book.name}</strong>
+              <small>{escrivaResult.chapter.name} · ponto {escrivaResult.label}</small>
+            </div>
+            <div className="escriva-text" dangerouslySetInnerHTML={{ __html: escrivaResult.text }} />
+            <a href={escrivaResult.public_url} target="_blank" rel="noreferrer">
+              Fonte e texto original em Escriva.org
+            </a>
+          </div>
+        )}
+      </div>
+    </details>
+  );
+
   return (
     <main>
       <header className="site-header">
@@ -163,6 +194,20 @@ export function HarmonyExplorer() {
             <span className="result-count">1 Evangelho + 4 Catenas</span>
           </div>
 
+          <div className="quick-links">
+            <span className="quick-links-label">Ir para:</span>
+            {parallelResults.map((record) => (
+              <a href={`#catena-${record.book.toLowerCase()}`} key={`link-${record.book}`} onClick={(e) => {
+                const el = document.getElementById(`catena-${record.book.toLowerCase()}`);
+                if (el) {
+                  el.setAttribute('open', 'true');
+                }
+              }}>
+                Catena de {record.book}
+              </a>
+            ))}
+          </div>
+
           <article className="gospel-card">
             <div className="card-topline">
               <span className="card-kicker">Evangelho consultado</span>
@@ -178,38 +223,9 @@ export function HarmonyExplorer() {
             </div>
           </article>
 
-          {escrivaStatus !== "idle" && (
-            <aside className="escriva-card" aria-live="polite">
-              <div className="escriva-card-heading">
-                <span className="escriva-mark">JE</span>
-                <div>
-                  <span className="card-kicker">Leitura relacionada</span>
-                  <h3>São Josemaria Escrivá</h3>
-                </div>
-              </div>
-              {escrivaStatus === "loading" && <p className="escriva-status">Consultando os livros do Escriva.org…</p>}
-              {escrivaStatus === "error" && <p className="escriva-status">Não foi possível consultar o Escriva.org agora.</p>}
-              {escrivaResult && (
-                <details className="escriva-reading" open>
-                  <summary>
-                    <span>
-                      <strong>{escrivaResult.book.name}</strong>
-                      <small>{escrivaResult.chapter.name} · ponto {escrivaResult.label}</small>
-                    </span>
-                    <span className="read-label">Mostrar ou ocultar reflexão</span>
-                  </summary>
-                  <div className="escriva-text" dangerouslySetInnerHTML={{ __html: escrivaResult.text }} />
-                  <a href={escrivaResult.public_url} target="_blank" rel="noreferrer">
-                    Fonte e texto original em Escriva.org
-                  </a>
-                </details>
-              )}
-            </aside>
-          )}
-
           <div className="parallel-catenas">
             {parallelResults.map((record) => (
-              <details className="parallel-catena" key={record.book} open={record.book === "Mateus"}>
+              <details className="parallel-catena" id={`catena-${record.book.toLowerCase()}`} key={record.book} open={record.book === "Mateus"}>
                 <summary>
                   <div className="parallel-catena-heading">
                     <CardMonogram evangelist={record.book} />
@@ -238,6 +254,7 @@ export function HarmonyExplorer() {
             ))}
           </div>
 
+          {escrivaSection}
         </section>
       ) : catalogResult ? (
         <section className="results" aria-live="polite">
@@ -278,6 +295,8 @@ export function HarmonyExplorer() {
               </article>
             ))}
           </div>
+
+          {escrivaSection}
         </section>
       ) : (
       <section className="results" aria-live="polite">
@@ -332,6 +351,8 @@ export function HarmonyExplorer() {
             </article>
           ))}
         </div>
+
+        {escrivaSection}
       </section>
       )}
 
