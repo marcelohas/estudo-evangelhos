@@ -3,7 +3,8 @@
 import { FormEvent, useMemo, useState } from "react";
 import { harmonies, type Harmony } from "../content/harmonies";
 import { searchHarmonies } from "../content/search";
-import { searchCatalog, type CatalogRecord } from "../content/catalog";
+import { catalogRange, searchCatalog, type CatalogRecord } from "../content/catalog";
+import { normalizeSearchText } from "../content/search";
 
 const evangelistClass: Record<string, string> = {
   Mateus: "matthew",
@@ -11,6 +12,25 @@ const evangelistClass: Record<string, string> = {
   Lucas: "luke",
   João: "john",
 };
+
+const loavesParallelReferences = [
+  { book: "Mateus", chapter: 14, verseStart: 13, verseEnd: 21 },
+  { book: "Marcos", chapter: 6, verseStart: 30, verseEnd: 44 },
+  { book: "Lucas", chapter: 9, verseStart: 10, verseEnd: 17 },
+  { book: "João", chapter: 6, verseStart: 1, verseEnd: 15 },
+] as const;
+
+function loavesParallelResult(value: string) {
+  const query = normalizeSearchText(value);
+  const isParallel = loavesParallelReferences.some(({ book, chapter, verseStart, verseEnd }) =>
+    query === normalizeSearchText(`${book} ${chapter},${verseStart}-${verseEnd}`),
+  );
+  if (!isParallel) return null;
+  const records = loavesParallelReferences.map(({ book, chapter, verseStart, verseEnd }) =>
+    catalogRange(book, chapter, verseStart, verseEnd),
+  );
+  return records.every((record): record is CatalogRecord => record !== null) ? records : null;
+}
 
 function CardMonogram({ evangelist }: { evangelist: string }) {
   return (
@@ -26,6 +46,7 @@ export function HarmonyExplorer() {
   const [selectedEvangelist, setSelectedEvangelist] = useState(harmonies[0].primary.evangelist);
   const [message, setMessage] = useState("");
   const [catalogResult, setCatalogResult] = useState<CatalogRecord | null>(null);
+  const [parallelResults, setParallelResults] = useState<CatalogRecord[] | null>(null);
 
   const selected = useMemo(
     () => harmonies.find((item) => item.id === selectedId) ?? harmonies[0],
@@ -37,17 +58,26 @@ export function HarmonyExplorer() {
 
   function submit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
+    const parallelMatch = loavesParallelResult(query);
+    if (parallelMatch) {
+      setParallelResults(parallelMatch);
+      setCatalogResult(null);
+      setMessage("");
+      return;
+    }
     const found = searchHarmonies(query)[0];
     if (found) {
       setSelectedId(found.harmony.id);
       setSelectedEvangelist(found.evangelist);
       setMessage("");
       setCatalogResult(null);
+      setParallelResults(null);
       return;
     }
     const catalogMatch = searchCatalog(query)[0];
     if (catalogMatch) {
       setCatalogResult(catalogMatch);
+      setParallelResults(null);
       setMessage("");
       return;
     }
@@ -62,6 +92,7 @@ export function HarmonyExplorer() {
     setQuery(item.primary.reference);
     setMessage("");
     setCatalogResult(null);
+    setParallelResults(null);
   }
 
   return (
@@ -109,7 +140,55 @@ export function HarmonyExplorer() {
         </div>
       </section>
 
-      {catalogResult ? (
+      {parallelResults ? (
+        <section className="results" aria-live="polite">
+          <div className="result-heading">
+            <div>
+              <p className="eyebrow">Resultado da comparação</p>
+              <h2>Multiplicação dos pães</h2>
+            </div>
+            <span className="result-count">1 Evangelho + 4 Catenas</span>
+          </div>
+
+          <article className="gospel-card">
+            <div className="card-topline">
+              <span className="card-kicker">Evangelho consultado</span>
+              <span className="reference">{parallelResults[0].reference}</span>
+            </div>
+            <div className="gospel-content">
+              <CardMonogram evangelist={parallelResults[0].book} />
+              <div>
+                <h3>Evangelho segundo {parallelResults[0].book}</h3>
+                <blockquote>{parallelResults[0].bibleText}</blockquote>
+                <p className="source-note">Bíblia Ave-Maria · texto independente da Catena Aurea.</p>
+              </div>
+            </div>
+          </article>
+
+          <div className="parallel-catenas">
+            {parallelResults.map((record) => (
+              <section className="parallel-catena" key={record.book}>
+                <div className="parallel-catena-heading">
+                  <CardMonogram evangelist={record.book} />
+                  <div>
+                    <span className="card-kicker">Catena de</span>
+                    <h3>{record.book}</h3>
+                    <span className="reference">{record.reference}</span>
+                  </div>
+                </div>
+                {record.comments.map((comment, index) => (
+                  <article className="catena-card" key={`${record.book}-${comment.author}-${index}`}>
+                    <h4 className="father-name">{comment.author}</h4>
+                    {comment.text.split(/\n\s*\n/).map((paragraph, paragraphIndex) => (
+                      <p className="commentary" key={paragraphIndex}>{paragraph}</p>
+                    ))}
+                  </article>
+                ))}
+              </section>
+            ))}
+          </div>
+        </section>
+      ) : catalogResult ? (
         <section className="results" aria-live="polite">
           <div className="result-heading">
             <div>

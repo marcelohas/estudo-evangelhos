@@ -72,3 +72,25 @@ test("Mateus 14,13-21 possui texto bíblico e Catena em português", async () =>
   assert.ok(record.comments.length >= 4);
   assert.ok(record.comments.every((comment) => comment.author && comment.text));
 });
+
+test("a multiplicação dos pães possui Catena nos quatro Evangelhos", async () => {
+  const curatedMatthew = JSON.parse(await readFile(
+    new URL("../../content/curated/mateus-14-13-21.pt-BR.json", import.meta.url),
+    "utf8",
+  ));
+  const catalog = [curatedMatthew, ...await readJson("catalog-pt-BR.json")];
+  const parallels = [
+    ["Mateus", 14, 13, 21],
+    ["Marcos", 6, 30, 44],
+    ["Lucas", 9, 10, 17],
+    ["João", 6, 1, 15],
+  ];
+  for (const [book, chapter, verseStart, verseEnd] of parallels) {
+    const records = catalog.filter((record) =>
+      record.book === book && record.chapter === chapter
+      && record.verseStart <= verseEnd && record.verseEnd >= verseStart,
+    );
+    assert.ok(records.length, `Catena ausente para ${book}`);
+    assert.ok(records.flatMap((record) => record.comments).length, `Comentários ausentes para ${book}`);
+  }
+});

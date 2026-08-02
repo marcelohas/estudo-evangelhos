@@ -47,3 +47,31 @@ export function searchCatalog(value: string, limit = 20) {
     .slice(0, limit)
     .map((result) => result.record);
 }
+
+export function catalogRange(
+  book: CatalogRecord["book"],
+  chapter: number,
+  verseStart: number,
+  verseEnd: number,
+): CatalogRecord | null {
+  const records = catalog.filter((record) =>
+    record.book === book
+    && record.chapter === chapter
+    && record.verseStart <= verseEnd
+    && record.verseEnd >= verseStart,
+  );
+  if (!records.length) return null;
+
+  return {
+    id: `${book.toLowerCase()}-${chapter}-${verseStart}-${verseEnd}`,
+    book,
+    chapter,
+    verseStart,
+    verseEnd,
+    reference: `${book} ${chapter},${verseStart}-${verseEnd}`,
+    gospelText: records.map((record) => record.gospelText).filter(Boolean).join(" "),
+    bibleText: records.map((record) => record.bibleText).filter(Boolean).join(" "),
+    comments: records.flatMap((record) => record.comments),
+    reviewStatus: "em_revisao",
+  };
+}
