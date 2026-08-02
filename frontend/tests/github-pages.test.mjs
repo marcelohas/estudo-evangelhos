@@ -2,14 +2,13 @@ import assert from "node:assert/strict";
 import { access, readFile } from "node:fs/promises";
 import test from "node:test";
 
-test("o index do GitHub Pages referencia somente arquivos publicados", async () => {
+test("o index do GitHub Pages é autocontido e funciona sem servidor", async () => {
   const docs = new URL("../../docs/", import.meta.url);
   const html = await readFile(new URL("index.html", docs), "utf8");
-  const references = [...html.matchAll(/(?:src|href)="\.\/(assets\/[^"?]+|favicon\.svg)"/g)]
-    .map((match) => match[1]);
 
-  assert.ok(references.some((path) => path.endsWith(".js")));
-  assert.ok(references.some((path) => path.endsWith(".css")));
-  await Promise.all(references.map((path) => access(new URL(path, docs))));
+  assert.match(html, /<style>[\s\S]+<\/style>/);
+  assert.match(html, /<script>[\s\S]+<\/script>/);
+  assert.doesNotMatch(html, /<(?:script|link)[^>]+(?:src|href)="\.\/assets\//);
+  await access(new URL("favicon.svg", docs));
   assert.doesNotMatch(html, /\/api\//);
 });

@@ -19,7 +19,8 @@ const [css, javascript] = await Promise.all([
 ]);
 
 html = html
-  .replace(/<link rel="stylesheet"[^>]+>/, `<style>${css}</style>`)
-  .replace(/<script type="module"[^>]+><\/script>/, `<script>${javascript}</script>`);
+  .replace(/<link rel="stylesheet"[^>]+>/, () => `<style>${css}</style>`)
+  .replace(/<script type="module"[^>]+><\/script>/, "")
+  .replace(/<\/body>/, () => `<script>${javascript}</script>\n  </body>`);
 
 await writeFile(new URL("abrir-site.html", output), html, "utf8");

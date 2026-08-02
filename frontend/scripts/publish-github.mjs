@@ -6,22 +6,20 @@ const frontend = dirname(dirname(fileURLToPath(import.meta.url)));
 const root = dirname(frontend);
 const dist = join(frontend, "dist");
 const destination = join(root, "docs");
-const html = await readFile(join(dist, "index.html"), "utf8");
-const assets = [
-  ...html.matchAll(/(?:src|href)="\.\/(assets\/[^"?]+)"/g),
-].map((match) => match[1]);
-
-if (!assets.some((path) => path.endsWith(".js")) || !assets.some((path) => path.endsWith(".css"))) {
-  throw new Error("O index compilado não contém os assets esperados.");
+const html = await readFile(join(dist, "abrir-site.html"), "utf8");
+if (!html.includes("<style>") || !html.includes("<script>")) {
+  throw new Error("A versão autocontida não possui CSS e JavaScript incorporados.");
 }
 
-await rm(destination, { recursive: true, force: true });
-await mkdir(join(destination, "assets"), { recursive: true });
-await Promise.all(assets.map(async (asset) => {
-  await copyFile(join(dist, asset), join(destination, asset));
-}));
 await Promise.all([
-  copyFile(join(dist, "index.html"), join(destination, "index.html")),
+  rm(join(destination, "assets"), { recursive: true, force: true }),
+  rm(join(destination, "index.html"), { force: true }),
+  rm(join(destination, "favicon.svg"), { force: true }),
+  rm(join(destination, ".nojekyll"), { force: true }),
+]);
+await mkdir(destination, { recursive: true });
+await Promise.all([
+  writeFile(join(destination, "index.html"), html, "utf8"),
   copyFile(join(dist, "favicon.svg"), join(destination, "favicon.svg")),
   writeFile(join(destination, ".nojekyll"), ""),
 ]);
